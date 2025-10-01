@@ -1,8 +1,17 @@
 #EXTM3U 
   
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3NN3KJ87/IMG-20241017-185544.jpg" group-title="ITS ME", Its Me
-http://164.215.98.132:2082/8649G54859/8649G54859/396
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمد صديق المنشاوي - مجود", إذاعة القرآن
+https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad.mp3
+  
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمد صديق المنشاوي - مرتل", إذاعة القرآن
+https://backup.qurango.net/radio/mohammed_siddiq_alminshawi.mp3
+  
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - مجود", إذاعة القرآن
+https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad.mp3
+  
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - ورش مرتل", إذاعة القرآن
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh.mp3
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - حفص مرتل", إذاعة القرآن
+https://qurango.net/radio/mahmoud_khalil_alhussary.mp3
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgQUXlzQaAalFxaR8ZBBy88eKqGvjZLd85ClTuQXkTVHxZVI-Bxwm1b2g&s=10" group-title="Islamic",Rtv islam
-https://tvsen6.aynaott.com/rtvislam/index.m3u8
