@@ -1,17 +1,17 @@
 #EXTM3U 
   
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمد صديق المنشاوي - مجود", إذاعة القرآن
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="القرآن الكريم", محمد صديق المنشاوي - مجود
 https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad.mp3
   
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمد صديق المنشاوي - مرتل", إذاعة القرآن
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="القرآن الكريم", محمد صديق المنشاوي - مجود
 https://backup.qurango.net/radio/mohammed_siddiq_alminshawi.mp3
   
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - مجود", إذاعة القرآن
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="القرآن الكريم", محمود خليل الحصري - مجود
 https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad.mp3
   
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - ورش مرتل", إذاعة القرآن
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="القرآن الكريم", محمود خليل الحصري - ورش مرتل
 https://qurango.net/radio/mahmoud_khalil_alhussary_warsh.mp3
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمود خليل الحصري - حفص مرتل", إذاعة القرآن
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="القرآن الكريم", محمود خليل الحصري - حفص مرتل
 https://qurango.net/radio/mahmoud_khalil_alhussary.mp3
 
