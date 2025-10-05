@@ -1,5 +1,21 @@
 #EXTM3U 
-  
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", الإذاعة العامة 
+https://backup.qurango.net/radio/mix.mp3
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", تلاوات خاشعة
+https://backup.qurango.net/radio/salma.mp3
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", تراتيل قصيرة
+https://backup.qurango.net/radio/tarateel.mp3
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", القارئ - حفص
+.mp3
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", إذاعة سورة البقرة
+https://backup.qurango.net/radio/albaqarah.mp3
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="إذاعة القرآن الكريم", محمد صديق المنشاوي - مجود
 https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad.mp3
   
