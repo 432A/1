@@ -377,11 +377,20 @@ https://backup.qurango.net/radio/majed_alzamel.mp3
 https://backup.qurango.net/radio/qeniwa.mp3
 
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/GvVYKdR1/Video.png" group-title="التلاوات المرئية", ماهر المعيقلي - الكهف
+https://video.twimg.com/amplify_video/1611296631202222081/pl/xR7ZDCEyy8Ujufhv.m3u8
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/GvVYKdR1/Video.png" group-title="التلاوات المرئية", مشاري العفاسي - البقرة
+https://video.twimg.com/amplify_video/1698988055070146561/pl/z4oteC44dnI3YIiD.m3u8
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/GvVYKdR1/Video.png" group-title="التلاوات المرئية", بندر بليلة
 https://upload.mp3quran.net/group3_ramadan/balilah.mp4
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/GvVYKdR1/Video.png" group-title="التلاوات المرئية", ياسر  الدوسري 
 https://upload.mp3quran.net/group2_nafhat/yasser2.mp4
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4RVbTwK/Radio.png" group-title="محمد صديق المنشاوي", الفاتحة - محمد صديق المنشاوي
 https://server10.mp3quran.net/minsh/001.mp3
