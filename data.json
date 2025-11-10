@@ -1,0 +1,8366 @@
+ {
+  "كأس العالم للأندية": {
+    logo: "https://imgs.ysscores.com/championship/150/571733336684.png",
+    matches: [
+
+{team1: "الأهلي", team2: "إنتر ميامي",
+gmtTime: "2025-06-15T00:00:00Z"},
+
+{team1: "بايرن ميونخ", team2: "أوكلاند سيتي",
+gmtTime: "2025-06-15T00:00:00Z"},
+
+{team1: "باريس", team2: "أتلتيكو مدريد",
+gmtTime: "2025-06-15T00:00:00Z"},
+
+{team1: "تشيلسي", team2: "لوس أنجلوس",
+gmtTime: "2025-06-16T00:00:00Z"},
+
+{team1: "بوتافوغو", team2: "سياتل",
+gmtTime: "2025-06-16T00:00:00Z"},
+
+{team1: "بالميراس", team2: "بورتو",
+gmtTime: "2025-06-16T00:00:00Z"},
+
+{team1: "سياتل",team2: "باريس",
+gmtTime: "2025-06-23T19:00:00Z",  url: "go:s"},
+
+{team1: "أتلتيكو مدريد",team2: "بوتافوغو",
+gmtTime: "2025-06-23T19:00:00Z",  url: "go:s"},
+
+{team1: "بورتو",team2: "الأهلي",
+gmtTime: "2025-06-24T01:00:00Z",  url: "go:s"},
+
+{team1: "إنتر ميامي",team2: "بالميراس",
+gmtTime: "2025-06-24T01:00:00Z",  url: "go:s"},
+
+{team1: "بنفيكا",team2: "بايرن ميونخ",
+gmtTime: "2025-06-24T19:00:00Z",  url: "go:s"},
+
+{team1: "أوكلاند سيتي",team2: "بوكا جونيورز",
+gmtTime: "2025-06-24T19:00:00Z",  url: "go:s"},
+
+{team1: "الترجي",team2: "تشيلسي",
+gmtTime: "2025-06-25T01:00:00Z",  url: "go:s"},
+
+{team1: "لوس أنجلوس",team2: "فلامنجو",
+gmtTime: "2025-06-25T01:00:00Z",  url: "go:s"},
+
+{team1: "صن داونز",team2: "فلومنينسي",
+gmtTime: "2025-06-25T19:00:00Z",    url: "go:s"},
+
+{team1: "دورتموند",team2: "أولسان",
+gmtTime: "2025-06-25T19:00:00Z",   url: "go:s"},
+
+{team1: "إنتر ميلان",team2: "ريفر بليت",
+gmtTime: "2025-06-26T01:00:00Z",   url: "go:s"},
+
+{team1: "أوراوا رد",team2: "مونتيري",
+gmtTime: "2025-06-26T01:00:00Z",   url: "go:s"},
+
+{team1: "يوفنتوس",team2: "مانشستر سيتي",
+gmtTime: "2025-06-26T19:00:00Z", url: "go:s" },
+
+{team1: "الوداد",team2: "العين",
+gmtTime: "2025-06-26T19:00:00Z",  url: "go:s" },
+
+{team1: "سالزبورج",team2: "الريال",
+gmtTime: "2025-06-27T01:00:00Z",  url: "go:s" },
+
+{team1: "الهلال",team2: "باتشوكا",
+gmtTime: "2025-06-27T01:00:00Z",   url: "go:s" },
+
+{team1: "بالميراس",team2: "بوتافوغو",
+gmtTime: "2025-06-28T16:00:00Z",  url: "go:s"  },
+
+{team1: "بنفيكا",team2: "تشيلسي",
+gmtTime: "2025-06-28T20:00:00Z",  url: "go:s"},
+
+{team1: "باريس",team2: "إنتر ميامي",
+gmtTime: "2025-06-29T16:00:00Z",   url: "go:s"},
+
+{team1: "فلامنجو",team2: "بايرن ميونخ",
+gmtTime: "2025-06-29T20:00:00Z",  url: "go:s" },
+
+{team1: "إنتر ميلان",team2: "فلومنينسي",
+gmtTime: "2025-06-30T19:00:00Z",    url: "go:s"},
+
+{team1: "السيتي",team2: "الهلال",
+gmtTime: "2025-07-01T01:00:00Z",   url: "go:s" },
+
+{team1: "ريال مدريد",team2: "يوفنتوس",
+gmtTime: "2025-07-01T19:00:00Z",  url: "go:s"},
+
+{team1: "دورتموند",team2: "مونتيري",
+gmtTime: "2025-07-02T01:00:00Z",  url: "go:s"},
+
+{team1: "بالميراس",team2: "تشيلسي",
+gmtTime: "2025-07-05T01:00:00Z",  url: "go:s"},
+
+{team1: "باريس",team2: "بايرن ميونخ",
+gmtTime: "2025-07-05T16:00:00Z",  url: "go:s"},
+
+{team1: "فلومنينسي",team2: "الهلال",
+gmtTime: "2025-07-04T19:00:00Z", url: "go:s"},
+
+{team1: "ريال مدريد",team2: "دورتموند",
+gmtTime: "2025-07-05T20:00:00Z", url: "go:s"},
+
+{team1: "فلومنينسي",team2: "تشيلسي",
+gmtTime: "2025-07-08T19:00:00Z", url: "go:s"},
+
+{team1: "باريس",team2: "ريال مدريد",
+gmtTime: "2025-07-09T19:00:00Z", url: "go:s"},
+
+{team1: "تشيلسي",team2: "باريس",
+gmtTime: "2025-07-13T19:00:00Z", url: "go:s"},
+
+      ]
+  },
+  "كأس العالم تحت 20": {
+    logo: "https://imgs.ysscores.com/championship/150/7981748717004.png",
+    matches: [
+
+//كأس العالم تحت 20 سنة - الجولة 1
+
+{team1: "اليابان", team2: "مصر",
+gmtTime: "2025-09-27T20:00:00Z", url: "go:bng"},
+
+{team1: "كوريا ج", team2: "أوكرانيا",
+gmtTime: "2025-09-27T20:00:00Z", url: "go:bn6"},
+
+{team1: "تشيلي", team2: "نيوزيلندا",
+gmtTime: "2025-09-27T23:00:00Z", url: "go:bng"},
+
+{team1: "باراجواي", team2: "بنما",
+gmtTime: "2025-09-27T23:00:00Z", url: "go:bn2"},
+
+{team1: "المغرب", team2: "إسبانيا",
+gmtTime: "2025-09-28T20:00:00Z", url: "go:bng"},
+
+{team1: "إيطاليا", team2: "أستراليا",
+gmtTime: "2025-09-28T20:00:00Z", url: "go:bn6"},
+
+{team1: "البرازيل", team2: "المكسيك",
+gmtTime: "2025-09-28T23:00:00Z", url: "go:bn3"},
+
+{team1: "كوبا", team2: "الأرجنتين",
+gmtTime: "2025-09-28T23:00:00Z", url: "go:bn2"},
+
+{team1: "فرنسا", team2: "ج أفريقيا",
+gmtTime: "2025-09-29T20:00:00Z", url: "go:bn6"},
+
+{team1: "النرويج", team2: "نيجيريا",
+gmtTime: "2025-09-29T20:00:00Z", url: "go:bn5"},
+
+{team1: "أمريكا", team2: "كاليدونيا",
+gmtTime: "2025-09-29T23:00:00Z", url: "go:bn2"},
+
+{team1: "كولومبيا", team2: "السعودية",
+gmtTime: "2025-09-29T23:00:00Z", url: "go:bng"},
+
+//كأس العالم تحت 20 سنة - الجولة 2
+
+{team1: "مصر", team2: "نيوزيلندا",
+gmtTime: "2025-09-30T20:00:00Z", url: "go:bng"},
+
+{team1: "بنما", team2: "أوكرانيا",
+gmtTime: "2025-09-30T20:00:00Z", url: "go:bn8"},
+
+{team1: "تشيلي", team2: "اليابان",
+gmtTime: "2025-09-30T23:00:00Z", url: "go:bn2"},
+
+{team1: "كوريا ج", team2: "باراجواي",
+gmtTime: "2025-09-30T23:00:00Z", url: "go:bn3"},
+
+{team1: "إسبانيا", team2: "المكسيك",
+gmtTime: "2025-10-01T20:00:00Z", url: "go:bn3x"},
+
+{team1: "إيطاليا", team2: "كوبا",
+gmtTime: "2025-10-01T20:00:00Z", url: "go:bn4x"},
+
+{team1: "البرازيل", team2: "المغرب",
+gmtTime: "2025-10-01T23:00:00Z", url: "go:bng"},
+
+{team1: "الأرجنتين", team2: "أستراليا",
+gmtTime: "2025-10-01T23:00:00Z", url: "go:bn2"},
+
+{team1: "أمريكا", team2: "فرنسا",
+gmtTime: "2025-10-02T20:00:00Z", url: "go:bn6"},
+
+{team1: "كولومبيا", team2: "النرويج",
+gmtTime: "2025-10-02T20:00:00Z", url: "go:bn5"},
+
+{team1: "نيجيريا", team2: "السعودية",
+gmtTime: "2025-10-02T23:00:00Z", url: "go:bng"},
+
+{team1: "ج أفريقيا", team2: "كاليدونيا",
+gmtTime: "2025-10-02T23:00:00Z", url: "go:bn2"},
+
+//كأس العالم تحت 20 - الجولة 3
+
+{team1: "بنما", team2: "كوريا ج",
+gmtTime: "2025-10-03T20:00:00Z", url: "go:bn7"},
+
+{team1: "أوكرانيا", team2: "باراجواي",
+gmtTime: "2025-10-03T20:00:00Z", url: "go:bn9"},
+
+{team1: "مصر", team2: "تشيلي",
+gmtTime: "2025-10-03T23:00:00Z", url: "go:bng"},
+
+{team1: "نيوزيلندا", team2: "اليابان",
+gmtTime: "2025-10-03T23:00:00Z", url: "go:bn2"},
+
+{team1: "المكسيك", team2: "المغرب",
+gmtTime: "2025-10-04T20:00:00Z", url: "go:bng"},
+
+{team1: "إسبانيا", team2: "البرازيل",
+gmtTime: "2025-10-04T20:00:00Z", url: "go:bn3"},
+
+{team1: "الأرجنتين", team2: "إيطاليا",
+gmtTime: "2025-10-04T23:00:00Z", url: "go:bn3"},
+
+{team1: "أستراليا", team2: "كوبا",
+gmtTime: "2025-10-04T23:00:00Z", url: "go:bn2"},
+
+{team1: "ج أفريقيا", team2: "أمريكا",
+gmtTime: "2025-10-05T20:00:00Z", url: "go:bn2"},
+
+{team1: "كاليدونيا", team2: "فرنسا",
+gmtTime: "2025-10-05T20:00:00Z", url: "go:bn5"},
+
+{team1: "السعودية", team2: "النرويج",
+gmtTime: "2025-10-05T23:00:00Z", url: "go:bng"},
+
+{team1: "نيجيريا", team2: "كولومبيا",
+gmtTime: "2025-10-05T23:00:00Z", url: "go:bn2"},
+
+//كأس العالم تحت 20 - ثمن النهائي
+ 
+{team1: "أوكرانيا", team2: "إسبانيا",
+gmtTime: "2025-10-07T19:30:00Z", url: "go:bn2"},
+
+{team1: "تشيلي", team2: "المكسيك",
+gmtTime: "2025-10-07T23:00:00Z", url: "go:bn2"},
+
+{team1: "الأرجنتين", team2: "نيجيريا",
+gmtTime: "2025-10-08T19:30:00Z", url: "go:bn5"},
+
+{team1: "كولومبيا", team2: "ج أفريقيا",
+gmtTime: "2025-10-08T19:30:00Z", url: "go:bn3"},
+
+{team1: "باراجواي", team2: "النرويج",
+gmtTime: "2025-10-08T23:00:00Z", url: "go:bn2"},
+
+{team1: "اليابان", team2: "فرنسا",
+gmtTime: "2025-10-08T23:00:00Z", url: "go:bn3"},
+
+{team1: "أمريكا", team2: "إيطاليا",
+gmtTime: "2025-10-09T19:30:00Z", url: "go:bn3x"},
+
+{team1: "المغرب", team2: "كوريا ج",
+gmtTime: "2025-10-09T23:00:00Z", url: "go:astnt"},
+
+//كأس العالم تحت 20 - ربع النهائي
+    
+{team1: "إسبانيا", team2: "كولومبيا",
+gmtTime: "2025-10-11T20:00:00Z", url: "go:bn8"},
+
+{team1: "المكسيك", team2: "الأرجنتين",
+gmtTime: "2025-10-11T23:00:00Z", url: "go:bn2"},
+
+{team1: "النرويج", team2: "فرنسا",
+gmtTime: "2025-10-12T23:00:00Z", url: "go:bn2"},
+
+{team1: "أمريكا", team2: "المغرب",
+gmtTime: "2025-10-12T20:00:00Z", url: "go:astnt"},
+
+//كأس العالم تحت 20 - نصف النهائي
+
+{team1: "المغرب", team2: "فرنسا",
+gmtTime: "2025-10-15T20:50:00Z", url: "go:astnt"},
+
+{team1: "الأرجنتين", team2: "كولومبيا",
+gmtTime: "2025-10-15T23:00:00Z", url: "https://www.youtube.com/watch?v=AiQasdSrZVo"},
+
+//نهائي كأس العالم تحت 20
+
+{team1: "الأرجنتين", team2: "المغرب",
+gmtTime: "2025-10-19T23:00:00Z", url: "go:s2"},
+
+//مباراة تحديد المركز الثالث 
+
+{team1: "كولومبيا", team2: "فرنسا",
+gmtTime: "2025-10-18T19:00:00Z", url: "go:bng"},
+
+ ]
+  },
+  "كأس العالم للناشئين": {
+    logo: "https://imgs.ysscores.com/championship/150/4121748257734.png",
+    matches: [
+
+//كأس العالم للناشئين الجولة 1
+
+{team1: "كوستاريكا", team2: "الإمارات",
+gmtTime: "2025-11-03T12:30:00Z", url: "go:bng"},
+
+{team1: "السنغال", team2: "كرواتيا",
+gmtTime: "2025-11-03T13:00:00Z", url: "go:bn3x"},
+
+{team1: "اليابان", team2: "المغرب",
+gmtTime: "2025-11-03T13:30:00Z", url: "go:ks3"},
+
+{team1: "الأرجنتين", team2: "بلجيكا",
+gmtTime: "2025-11-03T14:45:00Z", url: "go:ks4"},
+
+{team1: "قطر", team2: "إيطاليا",
+gmtTime: "2025-11-03T15:45:00Z", url: "go:bng"},
+
+{team1: "ج أفريقيا", team2: "بوليفيا",
+gmtTime: "2025-11-03T12:30:00Z", url: "go:ks6"},
+
+{team1: "كاليدونيا", team2: "البرتغال",
+gmtTime: "2025-11-03T15:15:00Z", url: "go:ks6"},
+
+{team1: "تونس", team2: "فيجي",
+gmtTime: "2025-11-03T15:45:00Z", url: "go:s1"},
+
+{team1: "ساحل العاج", team2: "سويسرا",
+gmtTime: "2025-11-04T12:00:00Z", url: "go:bn1x"},
+
+{team1: "البرازيل", team2: "هندوراس",
+gmtTime: "2025-11-04T12:30:00Z", url: "go:ks4"},
+
+{team1: "المكسيك", team2: "كوريا ج",
+gmtTime: "2025-11-04T13:00:00Z", url: "go:ks5"},
+
+{team1: "هايتي", team2: "مصر",
+gmtTime: "2025-11-04T13:30:00Z", url: "go:ks3"},
+
+{team1: "ألمانيا", team2: "كولومبيا",
+gmtTime: "2025-11-04T14:45:00Z", url: "go:ks4"},
+
+{team1: "إنجلترا", team2: "فنزويلا",
+gmtTime: "2025-11-04T15:15:00Z", url: "go:ks6"},
+
+{team1: "كوريا ش", team2: "السلفادور",
+gmtTime: "2025-11-04T15:45:00Z", url: "go:ks5"},
+
+{team1: "أندونيسيا", team2: "زامبيا",
+gmtTime: "2025-11-04T15:45:00Z", url: "go:ks3"},
+
+{team1: "طاجيكستان", team2: "تشيكيا",
+gmtTime: "2025-11-05T12:00:00Z", url: "go:bn1x"},
+
+{team1: "بنما", team2: "أيرلندا",
+gmtTime: "2025-11-05T12:30:00Z", url: "go:ks"},
+
+{team1: "باراجواي", team2: "أوزبكستان",
+gmtTime: "2025-11-05T13:00:00Z", url: "go:ks"},
+
+{team1: "النمسا", team2: "السعودية",
+gmtTime: "2025-11-05T13:30:00Z", url: "go:bng"},
+
+{team1: "مالي", team2: "نيوزيلندا",
+gmtTime: "2025-11-05T14:45:00Z", url: "go:ks4"},
+
+{team1: "أمريكا", team2: "بوركينا فاسو",
+gmtTime: "2025-11-05T15:15:00Z", url: "go:ks6"},
+
+{team1: "فرنسا", team2: "تشيلي",
+gmtTime: "2025-11-05T15:45:00Z", url: "go:ks3"},
+
+{team1: "كندا", team2: "أوغندا",
+gmtTime: "2025-11-05T15:45:00Z", url: "go:ks5"},
+
+//كأس العالم للناشئين الجولة 2
+
+{team1: "بوليفيا", team2: "إيطاليا",
+gmtTime: "2025-11-06T12:30:00Z", url: "go:ks"},
+
+{team1: "البرتغال", team2: "المغرب",
+gmtTime: "2025-11-06T12:30:00Z", url: "go:ks"},
+
+{team1: "اليابان", team2: "كاليدونيا",
+gmtTime: "2025-11-06T13:00:00Z", url: "go:ks"},
+
+{team1: "الأرجنتين", team2: "تونس",
+gmtTime: "2025-11-06T13:30:00Z", url: "go:ks"},
+
+{team1: "فيجي", team2: "بلجيكا",
+gmtTime: "2025-11-06T14:45:00Z", url: "go:ks"},
+
+{team1: "الإمارات", team2: "كرواتيا",
+gmtTime: "2025-11-06T15:15:00Z", url: "go:ks"},
+
+{team1: "قطر", team2: "ج أفريقيا",
+gmtTime: "2025-11-06T15:45:00Z", url: "go:ks3"},
+
+{team1: "السنغال", team2: "كوستاريكا",
+gmtTime: "2025-11-06T15:45:00Z", url: "go:ks5"},
+
+{team1: "إنجلترا", team2: "هايتي",
+gmtTime: "2025-11-07T12:30:00Z", url: "go:ks"},
+
+{team1: "السلفادور", team2: "كولومبيا",
+gmtTime: "2025-11-07T12:30:00Z", url: "go:ks"},
+
+{team1: "ألمانيا", team2: "كوريا ش",
+gmtTime: "2025-11-07T13:00:00Z", url: "go:ks"},
+
+{team1: "مصر", team2: "فنزويلا",
+gmtTime: "2025-11-07T13:30:00Z", url: "go:bng"},
+
+{team1: "المكسيك", team2: "ساحل العاج",
+gmtTime: "2025-11-07T14:45:00Z", url: "go:ks"},
+
+{team1: "سويسرا", team2: "كوريا ج",
+gmtTime: "2025-11-07T15:15:00Z", url: "go:ks"},
+
+{team1: "البرازيل", team2: "أندونيسيا",
+gmtTime: "2025-11-07T15:45:00Z", url: "go:ks"},
+
+{team1: "زامبيا", team2: "هندوراس",
+gmtTime: "2025-11-07T15:45:00Z", url: "go:ks"},
+
+
+
+     ]
+  },
+  "تصفيات كأس العالم آسيا": {
+    logo: "https://imgs.ysscores.com/championship/150/8661699386071.png",
+    matches: [
+
+{team1: "عمان", team2: "قطر",
+gmtTime: "2025-10-08T15:00:00Z", url: "go:bn1"},
+
+{team1: "أندونيسيا", team2: "السعودية",
+gmtTime: "2025-10-08T17:15:00Z", url: "go:bn2"},
+
+{team1: "الإمارات", team2: "عمان",
+gmtTime: "2025-10-11T17:15:00Z", url: "go:bn1"},
+
+{team1: "العراق", team2: "أندونيسيا",
+gmtTime: "2025-10-11T19:30:00Z", url: "go:bn2"},
+
+{team1: "قطر", team2: "الإمارات",
+gmtTime: "2025-10-14T17:15:00Z", url: "go:s1"},
+
+{team1: "السعودية", team2: "العراق",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn2"},
+
+    ]
+  },
+  "كأس أمم أفريقيا 2025": {
+    logo: "https://imgs.ysscores.com/championship/150/8091747861238.png",
+    matches: [
+//كأس أمم أفريقيا 2025 الجولة 1
+
+{team1: "المغرب", team2: "جزر القمر",
+gmtTime: "2025-12-21T19:00:00Z", url: "go:bn"},
+
+{team1: "مالي", team2: "زامبيا",
+gmtTime: "2025-12-22T14:30:00Z", url: "go:bn"},
+
+{team1: "مصر", team2: "زيمبابوي",
+gmtTime: "2025-12-22T17:00:00Z", url: "go:bn"},
+
+{team1: "ج أفريقيا", team2: "أنغولا",
+gmtTime: "2025-12-22T19:30:00Z", url: "go:bn"},
+
+{team1: "نيجيريا", team2: "تنزانيا",
+gmtTime: "2025-12-23T12:00:00Z", url: "go:bn"},
+
+{team1: "تونس", team2: "أوغندا",
+gmtTime: "2025-12-23T14:30:00Z", url: "go:bn"},
+
+{team1: "السنغال", team2: "بوتسوانا",
+gmtTime: "2025-12-23T17:00:00Z", url: "go:bn"},
+
+{team1: "الكونغو د", team2: "بنين",
+gmtTime: "2025-12-23T19:30:00Z", url: "go:bn"},
+
+{team1: "الجزائر", team2: "السودان",
+gmtTime: "2025-12-24T12:00:00Z", url: "go:bn"},
+
+{team1: "بوركينا فاسو", team2: "غ الإستوائية",
+gmtTime: "2025-12-24T14:30:00Z", url: "go:bn"},
+
+{team1: "ساحل العاج", team2: "موزمبيق",
+gmtTime: "2025-12-24T17:00:00Z", url: "go:bn"},
+
+{team1: "الكاميرون", team2: "الغابون",
+gmtTime: "2025-12-24T19:30:00Z", url: "go:bn"},
+
+//كأس أمم أفريقيا 2025 الجولة 2
+
+{team1: "المغرب", team2: "مالي",
+gmtTime: "2025-12-26T12:00:00Z", url: "go:bn"},
+
+{team1: "زامبيا", team2: "جزر القمر",
+gmtTime: "2025-12-26T14:30:00Z", url: "go:bn"},
+
+{team1: "مصر", team2: "ج أفريقيا",
+gmtTime: "2025-12-26T17:00:00Z", url: "go:bn"},
+
+{team1: "أنغولا", team2: "زيمبابوي",
+gmtTime: "2025-12-26T19:30:00Z", url: "go:bn"},
+
+{team1: "نيجيريا", team2: "تونس",
+gmtTime: "2025-12-27T12:00:00Z", url: "go:bn"},
+
+{team1: "أوغندا", team2: "تنزانيا",
+gmtTime: "2025-12-27T14:30:00Z", url: "go:bn"},
+
+{team1: "السنغال", team2: "الكونغو د",
+gmtTime: "2025-12-27T17:00:00Z", url: "go:bn"},
+
+{team1: "بنين", team2: "بوتسوانا",
+gmtTime: "2025-12-27T19:30:00Z", url: "go:bn"},
+
+{team1: "الجزائر", team2: "بوركينا فاسو",
+gmtTime: "2025-12-28T12:00:00Z", url: "go:bn"},
+
+{team1: "السودان", team2: "غ الإستوائية",
+gmtTime: "2025-12-28T14:30:00Z", url: "go:bn"},
+
+{team1: "ساحل العاج", team2: "الكاميرون",
+gmtTime: "2025-12-28T17:00:00Z", url: "go:bn"},
+
+{team1: "الغابون", team2: "موزمبيق",
+gmtTime: "2025-12-28T19:30:00Z", url: "go:bn"},
+
+//كأس أمم أفريقيا 2025 الجولة 3
+
+{team1: "المغرب", team2: "زامبيا",
+gmtTime: "2025-12-29T17:30:00Z", url: "go:bn"},
+
+{team1: "جزر القمر", team2: "مالي",
+gmtTime: "2025-12-29T17:30:00Z", url: "go:bn"},
+
+{team1: "أنغولا", team2: "مصر",
+gmtTime: "2025-12-29T19:30:00Z", url: "go:bn"},
+
+{team1: "زيمبابوي", team2: "ج أفريقيا",
+gmtTime: "2025-12-29T19:30:00Z", url: "go:bn"},
+
+{team1: "أوغندا", team2: "نيجيريا",
+gmtTime: "2025-12-30T17:30:00Z", url: "go:bn"},
+
+{team1: "تونس", team2: "تنزانيا",
+gmtTime: "2025-12-30T17:30:00Z", url: "go:bn"},
+
+{team1: "بنين", team2: "السنغال",
+gmtTime: "2025-12-30T19:30:00Z", url: "go:bn"},
+
+{team1: "بوتسوانا", team2: "الكونغو د",
+gmtTime: "2025-12-30T19:30:00Z", url: "go:bn"},
+
+{team1: "غ الإستوائية", team2: "الجزائر",
+gmtTime: "2025-12-31T17:30:00Z", url: "go:bn"},
+
+{team1: "السودان", team2: "بوركينا فاسو",
+gmtTime: "2025-12-31T17:30:00Z", url: "go:bn"},
+
+{team1: "ساحل العاج", team2: "الغابون",
+gmtTime: "2025-12-31T19:30:00Z", url: "go:bn"},
+
+{team1: "موزمبيق", team2: "الكاميرون",
+gmtTime: "2025-12-31T19:30:00Z", url: "go:bn"},
+
+
+      ]
+  },
+  "بطولة أوروبا تحت 19": {
+    logo: "https://imgs.ysscores.com/championship/150/2421747254978.png",
+    matches: [
+
+{team1: "إسبانيا",team2: "هولندا",
+gmtTime: "2025-06-26T18:00:00Z", url: "go:bn2"},
+
+    ]
+  },
+  "بطولة أوروبا تحت 21": {
+    logo: "https://imgs.ysscores.com/championship/150/4381741913715.png",
+    matches: [
+ 
+{team1: "إنجلترا",team2: "ألمانيا",
+gmtTime: "2025-06-28T19:00:00Z",   url: "go:bn1"},
+
+    ]
+
+ },
+  "كأس العرش": {
+    logo: "https://imgs.ysscores.com/championship/150/5951710715891.png",
+    matches: [
+
+{team1: "نهضة بركان",  team2: "أولمبيك أسفي", 
+gmtTime: "2025-06-29T18:30:00Z", url: "go:as"},
+
+    ]
+  },
+  "كأس الجزائر": {
+    logo: "https://imgs.ysscores.com/championship/150/6271709666442.png",
+    matches: [
+        
+{team1: "إتحاد العاصمة",team2: "شباب بلوزداد",
+gmtTime: "2025-07-05T16:00:00Z", url: "go:ks1"},
+
+    ]
+  
+ },
+  "كأس السوبر الإنجليزي": {
+    logo: "https://imgs.ysscores.com/championship/150/911690304693.png",
+    matches: [
+
+{team1: "كريستال بالاس",  team2: "ليفربول", 
+gmtTime: "2025-08-10T14:00:00Z", url: "go:bn1"},
+
+    ]
+  },
+  "كأس السوبر الألماني": {
+    logo: "https://imgs.ysscores.com/championship/150/2241690304147.png",
+    matches: [
+
+{team1: "شتوتجارت",team2: "بايرن ميونخ",
+gmtTime: "2025-08-16T18:30:00Z",  url: "go:s"},
+
+    ]
+ },
+
+  "كأس السوبر الأوروبي": {
+    logo: "https://imgs.ysscores.com/championship/150/9951723590950.png",
+    matches: [
+        
+{team1: "باريس", team2: "توتنهام", 
+gmtTime: "2025-08-13T19:00:00Z", url: "go:bn1.1" },
+
+    ]
+  },
+  "كأس السوبر البرتغالي": {
+    logo: "https://imgs.ysscores.com/championship/150/6871691486138.png",
+    matches: [
+
+{team1: "لشبونة",team2: "بنفيكا",
+gmtTime: "2025-07-31T19:45:00Z", url: "go:ha"},
+
+    ]
+  },
+  "كأس السوبر السعودي": {
+    logo: "https://imgs.ysscores.com/championship/128/9811723500695.png",
+    matches: [
+
+{team1: "النصر",team2: "الإتحاد",
+gmtTime: "2025-08-19T12:00:00Z", url: "go:tm1"},
+
+{team1: "القادسية",team2: "الأهـلي",
+gmtTime: "2025-08-20T12:00:00Z", url: "go:tm1"},
+
+{team1: "النصر",team2: "الأهـلي",
+gmtTime: "2025-08-23T12:00:00Z", url: "go:tm1"},
+
+    ]
+
+ },
+  "كأس الكونكاكاف الذهبية": {
+    logo: "https://imgs.ysscores.com/championship/150/2011747263797.png",
+    matches: [
+
+{team1: "أمريكا",team2: "المكسيك",
+gmtTime: "2025-07-06T23:00:00Z", url: "https://www.youtube.com/embed/jd3sDvcptS8?autoplay=1"},
+
+    ]
+  },
+  "كاس السوبر الهولندي": {
+    logo: "https://imgs.ysscores.com/championship/150/8441720549204.png",
+    matches: [
+
+{team1: "آيندهوفن",team2: "جو أهيد",
+gmtTime: "2025-08-03T16:00:00Z", url: "go:ds1"},
+
+  ]
+},
+  "كأس السوبر الأفريقي": {
+    logo: "https://imgs.ysscores.com/championship/150/8801693415591.png",
+    matches: [
+
+{team1: "بيراميدز", team2: "نهضة بركان",
+gmtTime: "2025-10-18T17:00:00Z", url: "go:bn2"},
+
+]
+},
+  "كأس السوبر المصري": {
+    logo: "https://imgs.ysscores.com/championship/150/1631700847124.png",
+    matches: [
+
+{team1: "الأهلي", team2: "سيراميكا",
+gmtTime: "2025-11-06T15:00:00Z", url: "go:ad1"},
+
+{team1: "الزمالك", team2: "بيراميدز",
+gmtTime: "2025-11-06T17:30:00Z", url: "go:ad1"},
+
+{team1: "سيراميكا", team2: "بيراميدز",
+gmtTime: "2025-11-09T12:45:00Z", url: "go:ad1"},
+
+{team1: "الأهلي", team2: "الزمالك",
+gmtTime: "2025-11-09T15:30:00Z", url: "go:ad1"},
+
+    ]
+  },
+  "كأس الرابطة الإنجليزية": {
+    logo: "https://imgs.ysscores.com/championship/150/4131693315629.png",
+    matches: [
+
+{team1: "وولفرهامبتون",team2: "وست هام",
+gmtTime: "2025-08-26T18:30:00Z", url: "go:bn5"},
+
+{team1: "بورنموث",team2: "برينتفورد",
+gmtTime: "2025-08-26T18:45:00Z", url: "go:bn1x"},
+
+{team1: "إيفرتون",team2: "مانسفيلد",
+gmtTime: "2025-08-27T18:45:00Z", url: "go:bn5"},
+
+{team1: "غريمسبي",team2: "مان يونايتد",
+gmtTime: "2025-08-27T19:00:00Z", url: "go:bn4"},
+
+{team1: "برينتفورد", team2: "أستون فيلا",
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn7"},
+
+{team1: "كريستال بالاس", team2: "ميلوول",
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn8"},
+
+{team1: "سوانزي", team2: "نوتنغهام",
+gmtTime: "2025-09-17T19:00:00Z", url: "go:bn7"},
+
+{team1: "لينكولن", team2: "تشيلسي",
+gmtTime: "2025-09-23T18:45:00Z", url: "go:bn4"},
+
+{team1: "وولفرهامبتون", team2: "إيفرتون",
+gmtTime: "2025-09-23T18:45:00Z", url: "go:bn9"},
+
+{team1: "فولهام", team2: "كامبريدج",
+gmtTime: "2025-09-23T18:45:00Z", url: "go:bn6"},
+
+{team1: "بارنسلي", team2: "برايتون",
+gmtTime: "2025-09-23T18:45:00Z", url: "go:bn5"},
+
+{team1: "ليفربول", team2: "ساوثهامبتون",
+gmtTime: "2025-09-23T19:00:00Z", url: "go:bn2"},
+
+{team1: "هدرسفيلد", team2: "مان سيتي",
+gmtTime: "2025-09-24T18:45:00Z", url: "go:bn5"},
+
+{team1: "نيوكاسل", team2: "برادفورد",
+gmtTime: "2025-09-24T18:45:00Z", url: "go:bn6"},
+
+{team1: "توتنهام", team2: "دونكاستر",
+gmtTime: "2025-09-24T18:45:00Z", url: "go:bn7"},
+
+{team1: "بورت فايل", team2: "أرسنال",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn9"},
+
+{team1: "غريمسبي", team2: "برينتفورد",
+gmtTime: "2025-10-28T19:45:00Z", url: "go:bn2"},
+
+{team1: "ويكومب", team2: "فولهام",
+gmtTime: "2025-10-28T19:45:00Z", url: "go:bn1"},
+
+{team1: "ريكسهام", team2: "كارديف",
+gmtTime: "2025-10-28T20:00:00Z", url: "go:bn3"},
+
+{team1: "أرسنال", team2: "برايتون",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:bn3"},
+
+{team1: "سوانزي", team2: "مان سيتي",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:bn6"},
+
+{team1: "ليفربول", team2: "كريستال بالاس",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:bn2"},
+
+{team1: "وولفرهامبتون", team2: "تشيلسي",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:bn7"},
+
+{team1: "نيوكاسل", team2: "توتنهام",
+gmtTime: "2025-10-29T20:00:00Z", url: "go:bn9"},
+
+
+  ]
+},
+  "كأس ألمانيا": {
+    logo: "https://imgs.ysscores.com/championship/150/1351691680796.png",
+    matches: [
+
+{team1: "فرانكفورت", team2: "دورتموند",
+gmtTime: "2025-10-28T17:30:00Z", url: "go:ad1"},
+
+{team1: "فولفسبورج", team2: "هولشتاين",
+gmtTime: "2025-10-28T17:30:00Z", url: "go:ad2"},
+
+{team1: "إنيرجي", team2: "لايبزيج",
+gmtTime: "2025-10-28T19:45:00Z", url: "go:ad1"},
+
+{team1: "مونشنغلادباخ", team2: "كارلسروهر",
+gmtTime: "2025-10-28T19:45:00Z", url: "go:ad2"},
+
+{team1: "ماينتس", team2: "شتوتجارت",
+gmtTime: "2025-10-29T17:00:00Z", url: "go:ad2"},
+
+{team1: "بادربورن", team2: "باير ليفركوزن",
+gmtTime: "2025-10-29T17:00:00Z", url: "go:ad1"},
+
+{team1: "كولن", team2: "بايرن ميونخ",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:ad1"},
+
+{team1: "دوسلدورف", team2: "فرايبورج",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:ad2"},
+
+
+  ]
+},
+  "كأس الرابطة البرتغالية": {
+    logo: "https://i.ibb.co/cSR3F2n6/Brcup.png",
+    matches: [
+
+{team1: "لشبونة", team2: "ألفيركا",
+gmtTime: "2025-10-28T20:15:00Z", url: "go:on2"},
+
+    ]
+  },
+  "كأس مصرف أبوظبي": {
+    logo: "https://imgs.ysscores.com/championship/150/5111706707171.png",
+    matches: [
+
+{team1: "الظفرة",team2: "الوصل",
+gmtTime: "2025-08-30T13:55:00Z", url: "go:ds3"},
+
+{team1: "النصـر",team2: "البطائح",
+gmtTime: "2025-08-30T13:55:00Z", url: "go:ds1"},
+
+{team1: "العين",team2: "كلباء",
+gmtTime: "2025-08-30T16:30:00Z", url: "go:ds1"},
+
+{team1: "دبا الفجيرة",team2: "الشارقة",
+gmtTime: "2025-08-31T13:55:00Z", url: "go:ha"},
+
+{team1: "خورفكان",team2: "بني ياس",
+gmtTime: "2025-08-31T13:55:00Z", url: "go:ds3"},
+
+{team1: "الوحدة",team2: "عجمان",
+gmtTime: "2025-08-31T16:30:00Z", url: "go:ds1"},
+
+{team1: "كلباء",team2: "العين",
+gmtTime: "2025-09-05T13:50:00Z", url: "go:ds2"},
+
+{team1: "البطائح",team2: "النصـر",
+gmtTime: "2025-09-05T13:50:00Z", url: "go:ds1"},
+
+{team1: "الوصل",team2: "الظفرة",
+gmtTime: "2025-09-05T16:30:00Z", url: "go:ds1"},
+
+{team1: "الشارقة",team2: "دبا الفجيرة",
+gmtTime: "2025-09-06T13:50:00Z", url: "go:ha"},
+
+{team1: "بني ياس",team2: "خورفكان",
+gmtTime: "2025-09-06T13:50:00Z", url: "go:ds3"},
+
+{team1: "عجمان",team2: "الوحدة",
+gmtTime: "2025-09-06T16:30:00Z", url: "go:ds1"},
+
+
+    ]
+  },
+  "كأس الخليج تحت 20 سنة": {
+    logo: "https://imgs.ysscores.com/championship/150/7031756226881.png",
+    matches: [
+
+{team1: "السعودية",team2: "اليمن",
+gmtTime: "2025-08-28T13:00:00Z", url: "go:ks3"},
+
+{team1: "قطر",team2: "الكويت",
+gmtTime: "2025-08-28T17:30:00Z", url: "go:ks3"},
+
+{team1: "عمان",team2: "مصر",
+gmtTime: "2025-08-29T13:30:00Z", url: "go:ks3"},
+
+{team1: "العراق",team2: "البحرين",
+gmtTime: "2025-08-29T16:00:00Z", url: "go:ks3"},
+
+{team1: "اليمن",team2: "قطر",
+gmtTime: "2025-08-31T13:30:00Z", url: "go:ks1"},
+
+{team1: "الكويت",team2: "السعودية",
+gmtTime: "2025-08-31T16:00:00Z", url: "go:ks3"},
+
+{team1: "مصر",team2: "العراق",
+gmtTime: "2025-09-01T13:30:00Z", url: "go:ks1"},
+
+{team1: "البحرين",team2: "عمان",
+gmtTime: "2025-09-01T16:00:00Z", url: "go:ks2"},
+
+{team1: "الكويت",team2: "اليمن",
+gmtTime: "2025-09-03T13:30:00Z", url: "go:ks2"},
+
+{team1: "السعودية",team2: "قطر",
+gmtTime: "2025-09-03T13:30:00Z", url: "go:ks1"},
+
+{team1: "البحرين",team2: "مصر",
+gmtTime: "2025-09-04T13:30:00Z", url: "go:ks2"},
+
+{team1: "عمان",team2: "العراق",
+gmtTime: "2025-09-04T13:30:00Z", url: "go:ks1"},
+
+{team1: "السعودية", team2: "العراق",
+gmtTime: "2025-09-07T13:00:00Z", url: "go:ks2"},
+
+{team1: "عمان", team2: "اليمن",
+gmtTime: "2025-09-07T17:00:00Z", url: "go:ks2"},
+
+{team1: "السعودية", team2: "اليمن",
+gmtTime: "2025-09-10T13:00:00Z", url: "go:s2"},
+
+    ]
+  },
+  "كأس إيطاليا": {
+    logo: "https://imgs.ysscores.com/championship/150/1221691618877.png",
+    matches: [
+
+{team1: "ميلان", team2: "ليتشي",
+gmtTime: "2025-09-23T19:00:00Z", url: "go:mbca"},
+
+{team1: "هيلاس", team2: "فينيسا",
+gmtTime: "2025-09-24T16:30:00Z", url: "go:b1"},
+
+    ]
+  },
+  "كأس السعودية": {
+    logo: "https://imgs.ysscores.com/championship/150/5141711141225.png",
+    matches: [
+
+{team1: "العـربي",team2: "الأهـلي",
+gmtTime: "2025-08-31T16:00:00Z", url: "go:tm1"},
+
+{team1: "الباطن",team2: "الإتفاق",
+gmtTime: "2025-09-21T15:30:00Z", url: "go:tm2"},
+
+{team1: "الرائد",team2: "الأخدود",
+gmtTime: "2025-09-21T15:35:00Z", url: "go:tm3"},
+
+{team1: "الفيصلي",team2: "التعاون",
+gmtTime: "2025-09-21T18:00:00Z", url: "go:tm1"},
+
+{team1: "البكيرية",team2: "الخلود",
+gmtTime: "2025-09-22T15:35:00Z", url: "go:tm2"},
+
+{team1: "الطائي",team2: "الخليج",
+gmtTime: "2025-09-22T15:45:00Z", url: "go:tm3"},
+
+{team1: "أبها",team2: "الشباب",
+gmtTime: "2025-09-22T18:00:00Z", url: "go:tm2"},
+
+{team1: "العدالة",team2: "الهلال",
+gmtTime: "2025-09-22T18:30:00Z", url: "go:tm1"},
+
+{team1: "الحزم",team2: "نيوم",
+gmtTime: "2025-09-23T15:35:00Z", url: "go:tm1"},
+
+{team1: "النجمة",team2: "ضمك",
+gmtTime: "2025-09-23T15:35:00Z", url: "go:tm2"},
+
+{team1: "الزلفي",team2: "الفيحاء",
+gmtTime: "2025-09-23T15:35:00Z", url: "go:tm3"},
+
+{team1: "جدة",team2: "النصر",
+gmtTime: "2025-09-23T18:30:00Z", url: "go:tm2"},
+
+{team1: "الوحـدة",team2: "الإتحاد",
+gmtTime: "2025-09-23T18:30:00Z", url: "go:tm1"},
+
+{team1: "الجبيل",team2: "الرياض",
+gmtTime: "2025-09-24T15:10:00Z", url: "go:tm1"},
+
+{team1: "الجبلين",team2: "الفتح",
+gmtTime: "2025-09-24T15:45:00Z", url: "go:tm1"},
+
+{team1: "العروبة",team2: "القادسية",
+gmtTime: "2025-09-24T18:00:00Z", url: "go:tm1"},
+
+    ]
+  
+ },
+  "كأس العرب الأدوار الإقصائية": {
+    logo: "https://imgs.ysscores.com/championship/128/971748035765.png",
+    matches: [
+
+{team1: "البحرين",team2: "جيبوتي",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "لبنان",team2: "السودان",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "الكويت",team2: "موريتانيا",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "عمان",team2: "الصومال",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "فلسطين",team2: "ليبيا",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "اليمن",team2: "جزر القمر",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+
+{team1: "سوريا",team2: "ج السودان",
+gmtTime: "2025-11-25T19:00:00Z", url: "go:s"},
+    
+    ]
+  },
+  "إقصائيات دوري أبطال أوروبا": {
+    logo: "https://imgs.ysscores.com/championship/150/3141696514284.png",
+    matches: [
+        
+{team1: "رينجرز", team2: "بروج",
+gmtTime: "2025-08-19T19:00:00Z", url: "go:bn1.1"},
+
+{team1: "فنربخشة",team2: "بنفيكا",
+gmtTime: "2025-08-20T19:00:00Z", url: "go:bn1"},
+
+{team1: "بازل",team2: "كوبنهاغن",
+gmtTime: "2025-08-20T19:00:00Z", url: "go:bn3"},
+
+{team1: "سيلتك",team2: "كيرات",
+gmtTime: "2025-08-20T19:00:00Z", url: "go:bn4"},
+
+{team1: "بودو غليمت",team2: "غراتس",
+gmtTime: "2025-08-20T19:00:00Z", url: "go:bn5"},
+
+{team1: "كيرات",team2: "سيلتك",
+gmtTime: "2025-08-26T16:45:00Z", url: "go:bn1"},
+
+{team1: "غراتس",team2: "بودو غليمت",
+gmtTime: "2025-08-26T19:00:00Z", url: "go:bn3"},
+
+{team1: "بنفيكا",team2: "فنربخشة",
+gmtTime: "2025-08-27T19:00:00Z", url: "go:bn1"},
+
+{team1: "كوبنهاغن",team2: "بازل",
+gmtTime: "2025-08-27T19:00:00Z", url: "go:bn2"},
+
+{team1: "بروج",team2: "رينجرز",
+gmtTime: "2025-08-27T19:00:00Z", url: "go:bn3"},
+
+    ]
+  },
+  "دوري أبطال آسيا - الإقصائيات": {
+    logo: "https://imgs.ysscores.com/championship/128/7731723924630.png",
+    matches: [
+
+{team1: "الدحيل",team2: "سباهان",
+gmtTime: "2025-08-12T16:00:00Z", url: "go:bn1.1"},
+
+
+ ]
+  },
+  "دوري أبطال أوروبا": {
+    logo: "https://imgs.ysscores.com/championship/150/3141696514284.png",
+    matches: [
+
+//دوري أبطال أوروبا الجولة 1
+
+{team1: "أتلتيك بيلباو", team2: "أرسنال", 
+gmtTime: "2025-09-16T16:45:00Z", url: "go:bn1"},
+
+{team1: "آيندهوفن", team2: "سان جيلواز", 
+gmtTime: "2025-09-16T16:45:00Z", url: "go:bn4"},
+
+{team1: "يوفنتوس", team2: "دورتموند", 
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn4"},
+
+{team1: "ريال مدريد", team2: "مارسيليا", 
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn1"},
+
+{team1: "بنفيكا", team2: "قره باغ", 
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn5"},
+
+{team1: "توتنهام", team2: "فياريال", 
+gmtTime: "2025-09-16T19:00:00Z", url: "go:bn3"},
+
+{team1: "أولمبياكوس", team2: "بافوس", 
+gmtTime: "2025-09-17T16:45:00Z", url: "go:bn3"},
+
+{team1: "سلافيا براغ", team2: "بودو غليمت", 
+gmtTime: "2025-09-17T16:45:00Z", url: "go:bn4"},
+
+{team1: "أياكس", team2: "إنتر ميلان", 
+gmtTime: "2025-09-17T19:00:00Z", url: "go:bn5"},
+
+{team1: "بايرن ميونخ", team2: "تشيلسي", 
+gmtTime: "2025-09-17T19:00:00Z", url: "go:bn4"},
+
+{team1: "ليفربول", team2: "أتلتيكو مدريد", 
+gmtTime: "2025-09-17T19:00:00Z", url: "go:bn3"},
+
+{team1: "باريس", team2: "أتالانتا", 
+gmtTime: "2025-09-17T19:00:00Z", url: "go:bn1"},
+
+{team1: "بروج", team2: "موناكو", 
+gmtTime: "2025-09-18T16:45:00Z", url: "go:bn2"},
+
+{team1: "كوبنهاغن", team2: "باير ليفركوزن", 
+gmtTime: "2025-09-18T16:45:00Z", url: "go:bn3"},
+
+{team1: "فرانكفورت", team2: "غلطة سراي", 
+gmtTime: "2025-09-18T19:00:00Z", url: "go:bn3"},
+
+{team1: "مان سيتي", team2: "نابولي", 
+gmtTime: "2025-09-18T19:00:00Z", url: "go:bn2"},
+
+{team1: "نيوكاسل", team2: "برشلونة", 
+gmtTime: "2025-09-18T19:00:00Z", url: "go:bn1"},
+
+{team1: "لشبونة", team2: "كيرات", 
+gmtTime: "2025-09-18T19:00:00Z", url: "go:bn4"},
+
+//دوري أبطال أوروبا الجولة 2
+
+{team1: "كيرات", team2: "ريال مدريد",
+gmtTime: "2025-09-30T16:45:00Z", url: "go:bn1"},
+
+{team1: "أتالانتا", team2: "بروج",
+gmtTime: "2025-09-30T16:45:00Z", url: "go:bn3"},
+
+{team1: "مارسيليا", team2: "أياكس",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn7"},
+
+{team1: "بودو غليمت", team2: "توتنهام",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn9"},
+
+{team1: "بافوس", team2: "بايرن ميونخ",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn5"},
+
+{team1: "تشيلسي", team2: "بنفيكا",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn6"},
+
+{team1: "إنتر ميلان", team2: "سلافيا براغ",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn4"},
+
+{team1: "غلطة سراي", team2: "ليفربول",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn1"},
+
+{team1: "أتلتيكو مدريد", team2: "فرانكفورت",
+gmtTime: "2025-09-30T19:00:00Z", url: "go:bn3"},
+
+{team1: "قره باغ", team2: "كوبنهاغن",
+gmtTime: "2025-10-01T16:45:00Z", url: "go:bn4"},
+
+{team1: "سان جيلواز", team2: "نيوكاسل",
+gmtTime: "2025-10-01T16:45:00Z", url: "go:bn3"},
+
+{team1: "نابولي", team2: "لشبونة",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn6"},
+
+{team1: "دورتموند", team2: "أتلتيك بلباو",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn4"},
+
+{team1: "برشلونة", team2: "باريس",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn1"},
+
+{team1: "موناكو", team2: "مان سيتي",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn3"},
+
+{team1: "باير ليفركوزن", team2: "آيندهوفن",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn9"},
+
+{team1: "أرسنال", team2: "أولمبياكوس",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn5"},
+
+{team1: "فياريال",team2: "يوفنتوس",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:bn7"},
+
+//دوري  أبطال أوروبا الجولة 3
+
+{team1: "كيرات", team2: "بافوس",
+gmtTime: "2025-10-21T16:45:00Z", url: "go:bn8"},
+
+{team1: "برشلونة", team2: "أولمبياكوس",
+gmtTime: "2025-10-21T16:45:00Z", url: "go:bn1"},
+
+{team1: "آيندهوفن", team2: "نابولي",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn7"},
+
+{team1: "سان جيلواز", team2: "إنتر ميلان",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn5"},
+
+{team1: "كوبنهاغن", team2: "دورتموند",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn8"},
+
+{team1: "باير ليفركوزن", team2: "باريس",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn1"},
+
+{team1: "فياريال", team2: "مان سيتي",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn4"},
+
+{team1: "أرسنال", team2: "أتلتيكو مدريد",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn3"},
+
+{team1: "نيوكاسل", team2: "بنفيكا",
+gmtTime: "2025-10-21T19:00:00Z", url: "go:bn6"},
+
+{team1: "غلطة سراي", team2: "بودو غليمت",
+gmtTime: "2025-10-22T16:45:00Z", url: "go:bn6"},
+
+{team1: "أتلتيك بلباو", team2: "قره باغ",
+gmtTime: "2025-10-22T16:45:00Z", url: "go:bn3"},
+
+{team1: "لشبونة", team2: "مارسيليا",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn6"},
+
+{team1: "موناكو", team2: "توتنهام",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn3"},
+
+{team1: "بايرن ميونخ", team2: "بروج",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn5"},
+
+{team1: "تشيلسي", team2: "أياكس",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn4"},
+
+{team1: "ريال مدريد", team2: "يوفنتوس",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn1"},
+
+{team1: "فرانكفورت", team2: "ليفربول",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn2"},
+
+{team1: "أتلانتا", team2: "سلافيا براغ",
+gmtTime: "2025-10-22T19:00:00Z", url: "go:bn7"},
+
+//دوري  أبطال أوروبا الجولة 4
+
+{team1: "سلافيا براغ", team2: "أرسنال",
+gmtTime: "2025-11-04T17:45:00Z", url: "go:bn4"},
+
+{team1: "نابولي", team2: "فرانكفورت",
+gmtTime: "2025-11-04T17:45:00Z", url: "go:bn5"},
+
+{team1: "باريس", team2: "بايرن ميونخ",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn1"},
+
+{team1: "ليفربول", team2: "ريال مدريد",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn2"},
+
+{team1: "يوفنتوس", team2: "لشبونة",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn6"},
+
+{team1: "أتلتيكو مدريد", team2: "سان جيلواز",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn5"},
+
+{team1: "توتنهام", team2: "كوبنهاغن",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn4"},
+
+{team1: "بودو غليمت", team2: "موناكو",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn8"},
+
+{team1: "أولمبياكوس", team2: "آيندهوفن",
+gmtTime: "2025-11-04T20:00:00Z", url: "go:bn7"},
+
+{team1: "بافوس", team2: "فياريال",
+gmtTime: "2025-11-05T17:45:00Z", url: "go:bn6"},
+
+{team1: "قره باغ", team2: "تشيلسي",
+gmtTime: "2025-11-05T17:45:00Z", url: "go:bn3"},
+
+{team1: "أياكس", team2: "غلطة سراي",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn7"},
+
+{team1: "نيوكاسل", team2: "أتلتيك بلباو",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn6"},
+
+{team1: "إنتر ميلان", team2: "كيرات",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn4"},
+
+{team1: "مان سيتي", team2: "دورتموند",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn3"},
+
+{team1: "بروج", team2: "برشلونة",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn1"},
+
+{team1: "بنفيكا", team2: "باير ليفركوزن",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn9"},
+
+{team1: "مارسيليا", team2: "أتلانتا",
+gmtTime: "2025-11-05T20:00:00Z", url: "go:bn8"},
+
+//دوري  أبطال أوروبا الجولة 5
+
+{team1: "غلطة سراي", team2: "سان جيلواز",
+gmtTime: "2025-11-25T17:45:00Z", url: "go:bn"},
+
+{team1: "أياكس", team2: "بنفيكا",
+gmtTime: "2025-11-25T17:45:00Z", url: "go:bn"},
+
+{team1: "بودو غليمت", team2: "يوفنتوس",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "مارسيليا", team2: "نيوكاسل",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "سلافيا براغ", team2: "أتلتيك بلباو",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "نابولي", team2: "قره باغ",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "تشيلسي", team2: "برشلونة",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "دورتموند", team2: "فياريال",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "مان سيتي", team2: "باير ليفركوزن",
+gmtTime: "2025-11-25T20:00:00Z", url: "go:bn"},
+
+{team1: "بافوس", team2: "موناكو",
+gmtTime: "2025-11-26T17:45:00Z", url: "go:bn"},
+
+{team1: "كوبنهاغن", team2: "كيرات",
+gmtTime: "2025-11-26T17:45:00Z", url: "go:bn"},
+
+{team1: "أرسنال", team2: "بايرن ميونخ",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "أولمبياكوس", team2: "ريال مدريد",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد", team2: "إنتر ميلان",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول", team2: "آيندهوفن",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "باريس", team2: "توتنهام",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "فرانكفورت", team2: "أتلانتا",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+{team1: "لشبونة", team2: "بروج",
+gmtTime: "2025-11-26T20:00:00Z", url: "go:bn"},
+
+
+    ]
+  },
+  "الدوري الأوروبي": {
+    logo: "https://imgs.ysscores.com/championship/150/8221723403400.png",
+    matches: [
+
+//الدوري الأوروبي الجولة 1
+
+{team1: "ميتييلاند", team2: "غراتس",
+gmtTime: "2025-09-24T16:45:00Z", url: "go:bn3"},
+
+{team1: "نيس", team2: "روما",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn1"},
+
+{team1: "ريال بيتيس", team2: "نوتنغهام",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn2"},
+
+{team1: "براغا", team2: "فاينورد",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn3x"},
+
+{team1: "زفيزدا", team2: "سيلتك",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn6"},
+
+{team1: "زغرب", team2: "فنربخشة",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn4x"},
+
+{team1: "فرايبورج", team2: "بازل",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn5x"},
+
+{team1: "مالمو", team2: "لودوجوريتس",
+gmtTime: "2025-09-24T19:00:00Z", url: "go:bn2x"},
+
+{team1: "ليل", team2: "بران",
+gmtTime: "2025-09-25T16:45:00Z", url: "go:bn3"},
+
+{team1: "جو أهيد", team2: "بوخارست",
+gmtTime: "2025-09-25T16:45:00Z", url: "go:bn2x"},
+
+{team1: "رينجرز", team2: "جينك",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn5"},
+
+{team1: "سالزبورج", team2: "بورتو",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn7"},
+
+{team1: "أستون فيلا", team2: "بولونيا",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn2"},
+
+{team1: "فرينكفاروزي", team2: "فيكتوريا",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn1x"},
+
+{team1: "يانغ بويز", team2: "باناثينايكوس",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn6"},
+
+{team1: "شتوتجارت", team2: "سيلتا فيغو",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn3"},
+
+{team1: "أوترخت", team2: "ليون",
+gmtTime: "2025-09-25T19:00:00Z", url: "go:bn9"},
+
+//الدوري الأوروبي الجولة 2
+
+{team1: "روما", team2: "ليل",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn1"},
+
+{team1: "فنربخشة", team2: "نيس",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn2"},
+
+{team1: "فيكتوريا", team2: "مالمو",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn6"},
+
+{team1: "سيلتك", team2: "براغا",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn4"},
+
+{team1: "لودوجوريتس", team2: "ريال بيتيس",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:s"},
+
+{team1: "بوخارست", team2: "يانغ بويز",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:s"},
+
+{team1: "بولونيا", team2: "فرايبورج",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn5"},
+
+{team1: "باناثينايكوس", team2: "جو أهيد",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn1x"},
+
+{team1: "بران", team2: "أوترخت",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:s"},
+
+{team1: "فاينورد", team2: "أستون فيلا",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn1"},
+
+{team1: "بورتو", team2: "زفيزدا",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn2en"},
+
+{team1: "ليون", team2: "سالزبورج",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn4"},
+
+{team1: "بازل", team2: "شتوتجارت",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:s"},
+
+{team1: "نوتنغهام", team2: "ميتييلاند",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn2"},
+
+{team1: "غراتس", team2: "رينجرز",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn3"},
+
+{team1: "سيلتا فيغو", team2: "باوك",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:s"},
+
+{team1: "جينك", team2: "فرينكفاروزي",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:s"},
+
+//الدوري الأوروبي الجولة 3
+
+{team1: "فاينورد", team2: "باناثينايكوس",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn5"},
+
+{team1: "سالزبورج", team2: "فرينكفاروزي",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn1x"},
+
+{team1: "فنربخشة", team2: "شتوتجارت",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn4"},
+
+{team1: "براغا", team2: "زفيزدا",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn8"},
+
+{team1: "ليون", team2: "بازل",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn3"},
+
+{team1: "بوخارست", team2: "بولونيا",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn6"},
+
+{team1: "جو أهيد", team2: "أستون فيلا",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn1"},
+
+{team1: "جينك", team2: "ريال بيتيس",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn2"},
+
+{team1: "بران", team2: "رينجرز",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn7"},
+
+{team1: "روما", team2: "فيكتوريا",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn3"},
+
+{team1: "ليل", team2: "باوك",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn7"},
+
+{team1: "سيلتك", team2: "غراتس",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn5"},
+
+{team1: "يانغ بويز", team2: "لودوجوريتس",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn6"},
+
+{team1: "فرايبورج", team2: "أوترخت",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn9"},
+
+{team1: "نوتنغهام", team2: "بورتو",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn1"},
+
+{team1: "سيلتا فيغو", team2: "نيس",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn4"},
+
+{team1: "مالمو", team2: "زغرب",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn8"},
+
+//الدوري الأوروبي الجولة 4
+
+{team1: "زغرب", team2: "سيلتا فيغو",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn3"},
+
+{team1: "سالزبورج", team2: "جو أهيد",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn7"},
+
+{team1: "زفيزدا", team2: "ليل",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn4"},
+
+{team1: "بازل", team2: "بوخارست",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn9"},
+
+{team1: "ميتييلاند", team2: "سيلتك",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn5"},
+
+{team1: "غراتس", team2: "نوتنغهام",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn1"},
+
+{team1: "نيس", team2: "فرايبورج",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn2"},
+
+{team1: "مالمو", team2: "باناثينايكوس",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn6"},
+
+{team1: "أوترخت", team2: "بورتو",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn8"},
+
+{team1: "رينجرز", team2: "روما",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn2"},
+
+{team1: "ريال بيتيس", team2: "ليون",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn3"},
+
+{team1: "براغا", team2: "جينك",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn3x"},
+
+{team1: "باوك", team2: "يانغ بويز",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn8"},
+
+{team1: "شتوتجارت", team2: "فاينورد",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn4"},
+
+{team1: "فيكتوريا", team2: "فنربخشة",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn6"},
+
+{team1: "بولونيا", team2: "بران",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn5"},
+
+{team1: "فرينكفاروزي", team2: "لودوجوريتس",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn1x"},
+
+
+
+
+  ]
+},
+"دوري المؤتمر الأوروبي": {
+    logo: "https://imgs.ysscores.com/championship/150/1861696546605.png",
+    matches: [
+
+//دوري المؤتمر الأوروبي الجولة 1
+
+{team1: "كييف", team2: "كريستال بالاس",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn3"},
+
+{team1: "نيقوسيا", team2: "ماينتس",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn2x"},
+
+{team1: "ليخ بوزنان", team2: "رابيد فيينا",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn7"},
+
+{team1: "نوح", team2: "رييكا",
+gmtTime: "2025-10-02T16:45:00Z", url: "go:bn3x"},
+
+{team1: "فيورنتينا", team2: "سيغما",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn7"},
+
+{team1: "براتيسلافا", team2: "ستراسبورج",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn3x"},
+
+{team1: "راكوف", team2: "كرايوفا",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn9"},
+
+{team1: "شيلبورن", team2: "هاكن",
+gmtTime: "2025-10-02T19:00:00Z", url: "go:bn2x"},
+
+//دوري المؤتمر الأوروبي الجولة 2
+
+{team1: "هاكن", team2: "رايو فاليكانو",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn9"},
+
+{team1: "رابيد فيينا", team2: "فيورنتينا",
+gmtTime: "2025-10-23T16:45:00Z", url: "go:bn2x"},
+
+{team1: "كريستال بالاس", team2: "آيك لارناكا",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn2"},
+
+{team1: "ماينتس", team2: "زرينيسكي",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn2en"},
+
+{team1: "سامسون", team2: "كييف",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn1x"},
+
+{team1: "كرايوفا", team2: "نوح",
+gmtTime: "2025-10-23T19:00:00Z", url: "go:bn2x"},
+
+//دوري المؤتمر الأوروبي الجولة 3
+
+{team1: "أيك أثينا", team2: "شامروك",
+gmtTime: "2025-11-06T17:45:00Z", url: "go:bn2en"},
+
+{team1: "كريستال بالاس", team2: "آلكمار",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn1"},
+
+{team1: "هاكن", team2: "ستراسبورج",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn9"},
+
+{team1: "رايو فاليكانو", team2: "ليخ بوزنان",
+gmtTime: "2025-11-06T20:00:00Z", url: "go:bn7"},
+
+
+    ]
+  },
+  "دوري أبطال آسيا": {
+    logo: "https://imgs.ysscores.com/championship/128/7731723924630.png",
+    matches: [
+
+//دوري أبطال آسيا الجولة 1
+
+{team1: "الشارقة", team2: "الغرافة",
+gmtTime: "2025-09-15T13:45:00Z", url: "go:bn1"},
+
+{team1: "الوحدة", team2: "الإتحاد",
+gmtTime: "2025-09-15T16:00:00Z", url: "go:bn1"},
+
+{team1: "الشرطة", team2: "السد",
+gmtTime: "2025-09-15T18:15:00Z", url: "go:bn1"},
+
+{team1: "الأهـلي", team2: "ناساف",
+gmtTime: "2025-09-15T18:15:00Z", url: "go:bn2"},
+
+{team1: "ملبورن", team2: "هيروشيما",
+gmtTime: "2025-09-16T07:45:00Z", url: "go:bn2"},
+
+{team1: "ماتشيدا", team2: "سيول",
+gmtTime: "2025-09-16T10:00:00Z", url: "go:bn3"},
+
+{team1: "غانغون", team2: "شانغهاي",
+gmtTime: "2025-09-16T10:00:00Z", url: "go:bn2"},
+
+{team1: "بوريرام", team2: "جوهور",
+gmtTime: "2025-09-16T12:15:00Z", url: "go:bn2"},
+
+{team1: "شباب الأهلي", team2: "تراكتور",
+gmtTime: "2025-09-16T16:00:00Z", url: "go:bn3"},
+
+{team1: "الهلال", team2: "الدحيل",
+gmtTime: "2025-09-16T18:15:00Z", url: "go:s2"},
+
+{team1: "أولسان", team2: "تشنغدو",
+gmtTime: "2025-09-17T10:00:00Z", url: "go:bn5"},
+
+{team1: "بورت", team2: "فيسيل",
+gmtTime: "2025-09-17T12:15:00Z", url: "go:bn5"},
+
+//دوري أبطال آسيا الجولة 2
+
+{team1: "ناساف", team2: "الهلال",
+gmtTime: "2025-09-29T13:45:00Z", url: "go:bn1"},
+
+{team1: "تراكتور", team2: "الوحدة",
+gmtTime: "2025-09-29T16:00:00Z", url: "go:bn2"},
+
+{team1: "الغرافة", team2: "الشرطة",
+gmtTime: "2025-09-29T16:00:00Z", url: "go:bn1"},
+
+{team1: "الدحيل", team2: "الأهـلي",
+gmtTime: "2025-09-29T18:00:15Z", url: "go:bn1"},
+
+{team1: "سيول", team2: "بوريرام",
+gmtTime: "2025-09-30T10:00:00Z", url: "go:bn6"},
+
+{team1: "هيروشيما", team2: "بورت",
+gmtTime: "2025-09-30T10:00:00Z", url: "go:bn5"},
+
+{team1: "جوهور", team2: "ماتشيدا",
+gmtTime: "2025-09-30T12:15:00Z", url: "go:bn6"},
+
+{team1: "تشنغدو", team2: "غانغون",
+gmtTime: "2025-09-30T12:15:00Z", url: "go:bn5"},
+
+{team1: "السد", team2: "الشارقة",
+gmtTime: "2025-09-30T16:00:00Z", url: "go:bn2"},
+
+{team1: "الإتحاد", team2: "شباب الأهلي",
+gmtTime: "2025-09-30T18:15:00Z", url: "go:bn2"},
+
+{team1: "فيسيل", team2: "ملبورن",
+gmtTime: "2025-10-01T10:00:00Z", url: "go:bn5"},
+
+{team1: "شانغهاي", team2: "أولسان",
+gmtTime: "2025-10-01T12:15:00Z", url: "go:bn5"},
+
+//دوري أبطال آسيا الجولة 3
+
+{team1: "الوحدة", team2: "الدحيل",
+gmtTime: "2025-10-20T13:45:00Z", url: "go:bn1"},
+
+{team1: "الشرطة", team2: "الإتحاد",
+gmtTime: "2025-10-20T16:00:00Z", url: "go:bn1"},
+
+{team1: "الشارقة", team2: "تراكتور",
+gmtTime: "2025-10-20T16:00:00Z", url: "go:bn2"},
+
+{team1: "الأهـلي", team2: "الغرافة",
+gmtTime: "2025-10-20T18:15:00Z", url: "go:bn1"},
+
+{team1: "ملبورن", team2: "بوريرام",
+gmtTime: "2025-10-21T07:45:00Z", url: "go:bn5"},
+
+{team1: "تشنغدو", team2: "جوهور",
+gmtTime: "2025-10-21T10:00:00Z", url: "go:bn5"},
+
+{team1: "أولسان", team2: "هيروشيما",
+gmtTime: "2025-10-21T10:00:00Z", url: "go:bn4"},
+
+{team1: "بورت", team2: "ماتشيدا",
+gmtTime: "2025-10-21T12:15:00Z", url: "go:bn4"},
+
+{team1: "شباب الأهلي", team2: "ناساف",
+gmtTime: "2025-10-21T16:00:00Z", url: "go:bn3"},
+
+{team1: "الهلال", team2: "السد",
+gmtTime: "2025-10-21T18:15:00Z", url: "go:bn2"},
+
+{team1: "غانغون", team2: "فيسيل",
+gmtTime: "2025-10-22T10:00:00Z", url: "go:bn5"},
+
+{team1: "شانغهاي", team2: "سيول",
+gmtTime: "2025-10-22T12:15:00Z", url: "go:bn4"},
+
+//دوري أبطال آسيا الجولة 4
+
+{team1: "ناساف", team2: "الوحدة",
+gmtTime: "2025-11-03T13:45:00Z", url: "go:bn1"},
+
+{team1: "الدحيل", team2: "شباب الأهلي",
+gmtTime: "2025-11-03T16:00:00Z", url: "go:bn1"},
+
+{team1: "تراكتور", team2: "الشرطة",
+gmtTime: "2025-11-03T16:00:00Z", url: "go:bn2"},
+
+{team1: "الغرافة", team2: "الهلال",
+gmtTime: "2025-11-03T18:15:00Z", url: "go:s2"},
+
+{team1: "سيول", team2: "تشنغدو",
+gmtTime: "2025-11-04T10:00:00Z", url: "go:bn3"},
+
+{team1: "ماتشيدا", team2: "ملبورن",
+gmtTime: "2025-11-04T10:00:00Z", url: "go:bn4"},
+
+{team1: "هيروشيما", team2: "غانغون",
+gmtTime: "2025-11-04T10:00:00Z", url: "go:bn5"},
+
+{team1: "بوريرام", team2: "بورت",
+gmtTime: "2025-11-04T12:15:00Z", url: "go:bn3"},
+
+{team1: "السد", team2: "الأهـلي",
+gmtTime: "2025-11-04T16:00:00Z", url: "go:bn3"},
+
+{team1: "الإتحاد", team2: "الشارقة",
+gmtTime: "2025-11-04T18:15:00Z", url: "go:bn3"},
+
+//دوري أبطال آسيا الجولة 5
+ 
+
+//دوري أبطال آسيا الجولة 6
+,
+
+   ]
+},
+  "دوري أبطال آسيا 2": {
+    logo: "https://imgs.ysscores.com/championship/150/9381723924846.png",
+    matches: [
+
+//دوري أبطال آسيا 2 الجولة 1
+
+{team1: "موهون", team2: "آهال",
+gmtTime: "2025-09-16T13:45:00Z", url: "go:ks5"},
+
+{team1: "الحسين", team2: "سباهان",
+gmtTime: "2025-09-16T18:15:00Z", url: "go:bn6"},
+
+{team1: "غامبا أوساكا", team2: "إيسترن",
+gmtTime: "2025-09-17T10:00:00Z", url: "go:bn1"},
+
+{team1: "نام دين", team2: "راتشابوري",
+gmtTime: "2025-09-17T12:15:00Z", url: "go:bn1"},
+
+{team1: "أركاداغ", team2: "أنديجان",
+gmtTime: "2025-09-17T13:45:00Z", url: "go:bn4"},
+
+{team1: "غوا", team2: "الزوراء",
+gmtTime: "2025-09-17T13:45:00Z", url: "go:bn3"},
+
+{team1: "الوصل", team2: "إستقلال",
+gmtTime: "2025-09-17T16:00:00Z", url: "go:bn5"},
+
+{team1: "الأهــلي", team2: "الخالدية",
+gmtTime: "2025-09-17T16:00:00Z", url: "go:s2"},
+
+{team1: "المحرق", team2: "الوحدات",
+gmtTime: "2025-09-17T18:15:00Z", url: "go:bn6"},
+
+{team1: "النصر", team2: "دوشنبه",
+gmtTime: "2025-09-17T18:15:00Z", url: "go:s2"},
+
+{team1: "كايا", team2: "تامبينس",
+gmtTime: "2025-09-18T10:00:00Z", url: "go:bn1x"},
+
+{team1: "سيلانغور", team2: "بانكوك",
+gmtTime: "2025-09-18T10:00:00Z", url: "go:bn3"},
+
+{team1: "تاي بو", team2: "ماكارثر",
+gmtTime: "2025-09-18T10:00:00Z", url: "go:bn5"},
+
+{team1: "باثوم", team2: "ستيلرز",
+gmtTime: "2025-09-18T12:15:00Z", url: "go:bn8"},
+
+{team1: "بيرسيب", team2: "ليون سيتي",
+gmtTime: "2025-09-18T12:15:00Z", url: "go:bn6"},
+
+{team1: "بكين", team2: "كونغ آن",
+gmtTime: "2025-09-18T12:15:00Z", url: "go:bn4"},
+
+//دوري أبطال آسيا 2 الجولة 2
+
+{team1: "آهال", team2: "الحسين",
+gmtTime: "2025-09-30T13:45:00Z", url: "go:bn9"},
+
+{team1: "ليون سيتي", team2: "سيلانغور",
+gmtTime: "2025-10-01T10:00:00Z", url: "go:bn6"},
+
+{team1: "بانكوك", team2: "بيرسيب",
+gmtTime: "2025-10-01T12:15:00Z", url: "go:bn3"},
+
+{team1: "أنديجان", team2: "الأهــلي",
+gmtTime: "2025-10-01T13:45:00Z", url: "go:bn6"},
+
+{team1: "دوشنبه", team2: "غوا",
+gmtTime: "2025-10-01T13:45:00Z", url: "go:bn4"},
+
+{team1: "الوحدات", team2: "الوصل",
+gmtTime: "2025-10-01T16:00:00Z", url: "go:bn6"},
+
+{team1: "إستقلال", team2: "المحرق",
+gmtTime: "2025-10-01T16:00:00Z", url: "go:bn5"},
+
+{team1: "الخالدية", team2: "أركاداغ",
+gmtTime: "2025-10-01T18:15:00Z", url: "go:bn1x"},
+
+{team1: "الزوراء", team2: "النصر",
+gmtTime: "2025-10-01T18:15:00Z", url: "go:bn2"},
+
+{team1: "ماكارثر", team2: "بكين",
+gmtTime: "2025-10-02T07:45:00Z", url: "go:bn5"},
+
+{team1: "ستيلرز", team2: "كايا",
+gmtTime: "2025-10-02T10:00:00Z", url: "go:bn4"},
+
+{team1: "تامبينس", team2: "باثوم",
+gmtTime: "2025-10-02T10:00:00Z", url: "go:bn6"},
+
+{team1: "إيسترن", team2: "نام دين",
+gmtTime: "2025-10-02T10:00:00Z", url: "go:bn5"},
+
+{team1: "راتشابوري", team2: "غامبا أوساكا",
+gmtTime: "2025-10-02T12:15:00Z", url: "go:bn3"},
+
+{team1: "كونغ آن", team2: "تاي بو",
+gmtTime: "2025-10-02T12:15:00Z", url: "go:bn5"},
+
+//دوري أبطال آسيا 2 الجولة 3
+
+{team1: "آهال", team2: "سباهان",
+gmtTime: "2025-10-21T13:45:00Z", url: ""},
+
+{team1: "غامبا أوساكا", team2: "نام دين",
+gmtTime: "2025-10-22T10:00:00Z", url: "go:bn4"},
+
+{team1: "راتشابوري", team2: "إيسترن",
+gmtTime: "2025-10-22T12:15:00Z", url: "go:bn3"},
+
+{team1: "غوا", team2: "النصر",
+gmtTime: "2025-10-22T13:45:00Z", url: "go:bn1"},
+
+{team1: "أنديجان", team2: "الخالدية",
+gmtTime: "2025-10-22T13:45:00:00Z", url: "go:bn5"},
+
+{team1: "دوشنبه", team2: "الزوراء",
+gmtTime: "2025-10-22T13:45:00:00Z", url: "go:bn2"},
+
+{team1: "إستقلال", team2: "الوحدات",
+gmtTime: "2025-10-22T16:00:00Z", url: "go:bn2"},
+
+{team1: "الأهــلي", team2: "أركاداغ",
+gmtTime: "2025-10-22T16:00:00Z", url: "go:bn5"},
+
+{team1: "المحرق", team2: "الوصل",
+gmtTime: "2025-10-22T18:15:00Z", url: "go:ks5"},
+
+{team1: "تامبينس", team2: "ستيلرز",
+gmtTime: "2025-10-23T10:00:00Z", url: "go:bn5"},
+
+{team1: "كايا", team2: "باثوم",
+gmtTime: "2025-10-23T10:00:00Z", url: "go:bn4"},
+
+{team1: "تاي بو", team2: "بكين",
+gmtTime: "2025-10-23T10:00:00Z", url: "go:bn3"},
+
+{team1: "بانكوك", team2: "ليون سيتي",
+gmtTime: "2025-10-23T12:15:00Z", url: "go:bn3"},
+
+{team1: "بيرسيب", team2: "سيلانغور",
+gmtTime: "2025-10-23T12:15:00Z", url: "go:bn4"},
+
+{team1: "كونغ آن", team2: "ماكارثر",
+gmtTime: "2025-10-23T12:15:00Z", url: "go:bn5"},
+
+//دوري أبطال آسيا 2 الجولة 4
+
+{team1: "الخالدية", team2: "الأهــلي",
+gmtTime: "2025-10-29T16:00:00Z", url: "go:bn5"},
+
+{team1: "الوحدات", team2: "المحرق",
+gmtTime: "2025-10-29T18:15:00Z", url: "go:bn5"},
+
+{team1: "سباهان", team2: "آهال",
+gmtTime: "2025-11-04T16:00:00Z", url: "go:bn6"},
+
+{team1: "إيسترن", team2: "راتشابوري",
+gmtTime: "2025-11-05T12:15:00Z", url: "go:bn3"},
+
+{team1: "نام دين", team2: "غامبا أوساكا",
+gmtTime: "2025-11-05T12:15:00Z", url: "go:bn4"},
+
+{team1: "الزوراء", team2: "دوشنبه",
+gmtTime: "2025-11-05T16:00:00Z", url: "go:bn4"},
+
+{team1: "النصر", team2: "غوا",
+gmtTime: "2025-11-05T18:15:00Z", url: "go:bn2"},
+
+{team1: "ماكارثر", team2: "كونغ آن",
+gmtTime: "2025-11-06T07:45:00Z", url: "go:bn5"},
+
+{team1: "ستيلرز", team2: "تامبينس",
+gmtTime: "2025-11-06T10:00:00Z", url: "go:bn4"},
+
+{team1: "ليون سيتي", team2: "بانكوك",
+gmtTime: "2025-11-06T10:00:00Z", url: "go:bn5"},
+
+{team1: "باثوم", team2: "كايا",
+gmtTime: "2025-11-06T12:15:00Z", url: "go:bn5"},
+
+{team1: "سيلانغور", team2: "بيرسيب",
+gmtTime: "2025-11-06T12:15:00Z", url: "go:bn4"},
+
+{team1: "بكين", team2: "تاي بو",
+gmtTime: "2025-11-06T12:15:00Z", url: "go:bn3"},
+
+
+//دوري أبطال آسيا  2 الجولة 5
+
+{team1: "الوصل", team2: "المحرق",
+gmtTime: "2025-11-05T13:45:00Z", url: "go:bn2"},
+
+{team1: "أركاداغ", team2: "الأهــلي",
+gmtTime: "2025-11-05T13:45:00Z", url: "go:bn1"},
+
+{team1: "الخالدية", team2: "أنديجان",
+gmtTime: "2025-11-05T16:00:00Z", url: "go:bn5"},
+
+{team1: "الوحدات", team2: "إستقلال",
+gmtTime: "2025-11-05T18:15:00Z", url: "go:bn5"},
+
+
+
+  ]
+},
+  "دوري أبطال الخليج": {
+    logo: "https://imgs.ysscores.com/championship/150/3971729441035.png",
+    matches: [
+
+//دوري أبطال الخليج الجولة 1
+
+{team1: "العين", team2: "سترة",
+gmtTime: "2025-09-30T15:30:00Z", url: "go:ks2"},
+
+{team1: "زاخو", team2: "القـادسية",
+gmtTime: "2025-09-30T17:30:00Z", url: "go:ks1"},
+
+{team1: "الريان", team2: "التضامن",
+gmtTime: "2025-10-01T15:00:00Z", url: "go:ks1"},
+
+{team1: "الشباب", team2: "النهضة",
+gmtTime: "2025-10-01T17:00:00Z", url: "go:ks2"},
+
+//دوري أبطال الخليج الجولة 2
+
+{team1: "التضامن", team2: "الشباب",
+gmtTime: "2025-10-21T17:00:00Z", url: ""},
+
+{team1: "سترة", team2: "زاخو",
+gmtTime: "2025-10-22T15:00:00Z", url: "go:ks3"},
+
+{team1: "النهضة", team2: "الريان",
+gmtTime: "2025-10-22T15:30:00Z", url: "go:ks1"},
+
+{team1: "القـادسية", team2: "العين",
+gmtTime: "2025-10-22T17:00:00Z", url: "go:ks2"},
+
+//الجولة 3
+
+{team1: "سترة", team2: "القـادسية",
+gmtTime: "2025-11-04T15:00:00Z", url: "go:ks1"},
+
+{team1: "زاخو", team2: "العين",
+gmtTime: "2025-11-04T17:00:00Z", url: "go:ks1"},
+
+{team1: "النهضة", team2: "التضامن",
+gmtTime: "2025-11-05T14:00:00Z", url: "go:ks"},
+
+{team1: "الريان", team2: "الشباب",
+gmtTime: "2025-11-05T17:00:00Z", url: "go:ks2"},
+
+    ]
+  },
+  "كأس القارات للأندية": {
+    logo: "https://imgs.ysscores.com/championship/150/2121751062605.png",
+    matches: [
+
+{team1: "الأهـلي", team2: "بيراميدز",
+gmtTime: "2025-09-23T18:00:00Z", url: "go:b3"},
+
+    ]
+},
+  "كوبا ليبرتادوريس": {
+    logo: "https://imgs.ysscores.com/championship/150/8811695760721.png",
+    matches: [
+
+
+{team1: "ريفر بليت", team2: "بالميراس",
+gmtTime: "2025-09-18T00:30:00Z", url: "go:bn4"},
+
+{team1: "كيتو", team2: "ساو باولو",
+gmtTime: "2025-09-18T22:00:00Z", url: "go:bn4"},
+
+{team1: "فلامنجو", team2: "إستوديانتيس",
+gmtTime: "2025-09-19T00:30:00Z", url: "go:bn4"},
+
+{team1: "راسينغ", team2: "سارسفيلد",
+gmtTime: "2025-09-23T22:00:00Z", url: "go:bn4"},
+
+{team1: "بالميراس", team2: "ريفر بليت",
+gmtTime: "2025-09-25T00:30:00Z", url: "go:bn4"},
+
+{team1: "ساو باولو", team2: "كيتو",
+gmtTime: "2025-09-25T22:00:00Z", url: "go:bn4"},
+
+{team1: "إستوديانتيس", team2: "فلامنجو",
+gmtTime: "2025-09-26T00:30:00Z", url: "go:bn4"},
+
+{team1: "فلامنجو", team2: "راسينغ",
+gmtTime: "2025-10-23T00:30:00Z", url: "go:bn3"},
+
+{team1: "كيتو", team2: "بالميراس",
+gmtTime: "2025-10-24T00:30:00Z", url: "go:bn3"},
+
+{team1: "راسينغ", team2: "فلامنجو",
+gmtTime: "2025-10-30T00:30:00Z", url: "go:bn3"},
+
+{team1: "بالميراس", team2: "كيتو",
+gmtTime: "2025-10-31T00:30:00Z", url: "go:bn3"},
+
+    ]
+},
+  "كوبا سود أمريكانا": {
+    logo: "https://imgs.ysscores.com/championship/150/9171711749112.png",
+    matches: [
+
+{team1: "أتلتيكو مينيرو", team2: "بوليفار",
+gmtTime: "2025-09-24T22:00:00Z", url: "go:bn3"},
+
+{team1: "أونس كالداس", team2: "إنديبندينتي",
+gmtTime: "2025-09-25T00:30:00Z", url: "go:bn3"},
+
+{team1: "جامعة تشيلي", team2: "أليانزا ليما",
+gmtTime: "2025-09-26T00:30:00Z", url: "go:bn3"},
+
+{team1: "فلومنينسي", team2: "لانوس",
+gmtTime: "2025-09-24T00:30:00Z", url: "go:bn3"},
+
+{team2: "أتلتيكو مينيرو", team1: "إنديبندينتي",
+gmtTime: "2025-10-22T00:30:00Z", url: "go:bn3"},
+
+{team1: "جامعة تشيلي", team2: "لانوس",
+gmtTime: "2025-10-23T22:00:00Z", url: "go:bn3"},
+
+{team1: "أتلتيكو مينيرو", team2: "إنديبندينتي",
+gmtTime: "2025-10-29T00:30:00Z", url: "go:bn3"},
+
+{team2: "جامعة تشيلي", team1: "لانوس",
+gmtTime: "2025-10-30T22:00:00Z", url: "go:bn3"},
+
+
+    ]
+  },
+  "الدوري الإنجليزي": {
+    logo: "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    matches: [
+
+//الدوري الإنجليزي الجولة 1
+
+{team1: "ليفربول",team2: "بورنموث",
+gmtTime: "2025-08-15T19:00:00Z",  url: "go:bn1"},
+
+{team1: "أستون فيلا",team2: "نيوكاسل",
+gmtTime: "2025-08-16T11:30:00Z",  url: "go:bn1.1"},
+
+{team1: "برايتون",team2: "فولهام",
+gmtTime: "2025-08-16T14:00:00Z",  url: "go:bn2"},
+
+{team1: "سندرلاند",team2: "وست هام",
+gmtTime: "2025-08-16T14:00:00Z",  url: "go:bn6"},
+
+{team1: "توتنهام",team2: "بيرنلي",
+gmtTime: "2025-08-16T14:00:00Z",  url: "go:bn1.1"},
+
+{team1: "وولفرهامبتون",team2: "مان سيتي",
+gmtTime: "2025-08-16T16:30:00Z",  url: "go:bn1.1"},
+
+{team1: "تشيلسي",team2: "كريستال بالاس",
+gmtTime: "2025-08-17T13:00:00Z",  url: "go:bn1.1"},
+
+{team1: "نوتنغهام",team2: "برينتفورد",
+gmtTime: "2025-08-17T13:00:00Z",  url: "go:bn2"},
+
+{team1: "مان يونايتد",team2: "أرسنال",
+gmtTime: "2025-08-17T15:30:00Z",  url: "go:bn1.1"},
+
+{team1: "ليدز يونايتد",team2: "إيفرتون",
+gmtTime: "2025-08-18T19:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 2
+
+{team1: "بورنموث",team2: "وولفرهامبتون",
+gmtTime: "2025-08-23T14:00:00Z",  url: "go:bn2"},
+
+{team1: "أرسنال",team2: "ليدز يونايتد",
+gmtTime: "2025-08-23T16:30:00Z",  url: "go:bn1"},
+
+{team1: "برينتفورد",team2: "أستون فيلا",
+gmtTime: "2025-08-23T14:00:00Z",  url: "go:bn1"},
+
+{team1: "بيرنلي",team2: "سندرلاند",
+gmtTime: "2025-08-23T14:00:00Z",  url: "go:bn1x"},
+
+{team1: "كريستال بالاس",team2: "نوتنغهام",
+gmtTime: "2025-08-24T13:00:00Z",  url: "go:bn2"},
+
+{team1: "إيفرتون",team2: "برايتون",
+gmtTime: "2025-08-24T13:00:00Z",  url: "go:bn1"},
+
+{team1: "فولهام",team2: "مان يونايتد",
+gmtTime: "2025-08-24T15:30:00Z",  url: "go:bn1"},
+
+{team1: "مان سيتي",team2: "توتنهام",
+gmtTime: "2025-08-23T11:30:00Z",  url: "go:bn1"},
+
+{team1: "نيوكاسل",team2: "ليفربول",
+gmtTime: "2025-08-25T19:00:00Z",  url: "go:bn1"},
+
+{team1: "وست هام",team2: "تشيلسي",
+gmtTime: "2025-08-22T19:00:00Z",  url: "go:bn1"},
+
+//الدوري الإنجليزي الجولة 3
+
+{team1: "أستون فيلا",team2: "كريستال بالاس",
+gmtTime: "2025-08-31T18:00:00Z", url: "go:bn2"},
+
+{team1: "برايتون",team2: "مان سيتي",
+gmtTime: "2025-08-31T13:00:00Z", url: "go:bn1"},
+
+{team1: "تشيلسي",team2: "فولهام",
+gmtTime: "2025-08-30T11:30:00Z", url: "go:bn1"},
+
+{team1: "ليدز يونايتد",team2: "نيوكاسل",
+gmtTime: "2025-08-30T16:30:00Z", url: "go:bn1"},
+
+{team1: "ليفربول",team2: "أرسنال",
+gmtTime: "2025-08-31T15:30:00Z", url: "go:bn1"},
+
+{team1: "مان يونايتد",team2: "بيرنلي",
+gmtTime: "2025-08-30T14:00:00Z", url: "go:bn1"},
+
+{team1: "نوتنغهام",team2: "وست هام",
+gmtTime: "2025-08-31T13:00:00Z", url: "go:bn2"},
+
+{team1: "سندرلاند",team2: "برينتفورد",
+gmtTime: "2025-08-30T14:00:00Z", url: "go:bn5"},
+
+{team1: "توتنهام",team2: "بورنموث",
+gmtTime: "2025-08-30T14:00:00Z", url: "go:bn2"},
+
+{team1: "وولفرهامبتون",team2: "إيفرتون",
+gmtTime: "2025-08-30T14:00:00Z", url: "go:bn6"},
+
+//الدوري الإنجليزي الجولة 4 
+
+{team1: "بورنموث",team2: "برايتون",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:bn2"},
+
+{team1: "أرسنال",team2: "نوتنغهام",
+gmtTime: "2025-09-13T11:30:00Z", url: "go:s2"},
+
+{team1: "برينتفورد",team2: "تشيلسي",
+gmtTime: "2025-09-13T19:00:00Z", url: "go:bn1"},
+
+{team1: "بيرنلي",team2: "ليفربول",
+gmtTime: "2025-09-14T13:00:00Z", url: "go:bn1"},
+
+{team1: "كريستال بالاس",team2: "سندرلاند",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:bn3"},
+
+{team1: "إيفرتون",team2: "أستون فيلا",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:bn5"},
+
+{team1: "فولهام",team2: "ليدز يونايتد",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:bn6"},
+
+{team1: "مان سيتي",team2: "مان يونايتد",
+gmtTime: "2025-09-14T15:30:00Z", url: "go:bn1"},
+
+{team1: "نيوكاسل",team2: "وولفرهامبتون",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:bn7"},
+
+{team1: "وست هام",team2: "توتنهام",
+gmtTime: "2025-09-13T16:30:00Z", url: "go:bn1"},
+
+//الدوري الإنجليزي الجولة 5
+
+{team1: "أرسنال",team2: "مان سيتي",
+gmtTime: "2025-09-21T15:30:00Z", url: "go:bn1"},
+
+{team1: "بورنموث",team2: "نيوكاسل",
+gmtTime: "2025-09-21T13:00:00Z", url: "go:bn2"},
+
+{team1: "برايتون",team2: "توتنهام",
+gmtTime: "2025-09-20T14:00:00Z", url: "go:bn5"},
+
+{team1: "بيرنلي",team2: "نوتنغهام",  
+gmtTime: "2025-09-20T14:00:00Z", url: "go:bn8"},
+
+{team1: "فولهام",team2: "برينتفورد",
+gmtTime: "2025-09-20T19:00:00Z", url: "go:bn2"},
+
+{team1: "ليفربول",team2: "إيفرتون",
+gmtTime: "2025-09-20T11:30:00Z", url: "go:bn1"},
+
+{team1: "مان يونايتد",team2: "تشيلسي",
+gmtTime: "2025-09-20T16:30:00Z", url: "go:bn1"},
+
+{team1: "سندرلاند",team2: "أستون فيلا",
+gmtTime: "2025-09-21T13:00:00Z", url: "go:bn1"},
+
+{team1: "وست هام",team2: "كريستال بالاس",
+gmtTime: "2025-09-20T14:00:00Z", url: "go:bn6"},
+
+{team1: "وولفرهامبتون",team2: "ليدز يونايتد",
+gmtTime: "2025-09-20T14:00:00Z", url: "go:bn2"},
+
+//الدوري الإنجليزي الجولة 6
+
+{team1: "أستون فيلا",team2: "فولهام",
+gmtTime: "2025-09-28T13:00:00Z",  url: "go:bn2"},
+
+{team1: "برينتفورد",team2: "مان يونايتد",
+gmtTime: "2025-09-27T11:30:00Z",  url: "go:bn1"},
+
+{team1: "تشيلسي",team2: "برايتون",
+gmtTime: "2025-09-27T14:00:00Z",  url: "go:bn6"},
+
+{team1: "كريستال بالاس",team2: "ليفربول",
+gmtTime: "2025-09-27T14:00:00Z",  url: "go:bn3"},
+
+{team1: "إيفرتون",team2: "وست هام",
+gmtTime: "2025-09-29T19:00:00Z",  url: "go:bn2"},
+
+{team1: "ليدز يونايتد",team2: "بورنموث",
+gmtTime: "2025-09-27T14:00:00Z",  url: "go:bn5"},
+
+{team1: "مان سيتي",team2: "بيرنلي",
+gmtTime: "2025-09-27T14:00:00Z",  url: "go:bn2"},
+
+{team1: "نيوكاسل",team2: "أرسنال",
+gmtTime: "2025-09-28T15:30:00Z",  url: "go:bn2"},
+
+{team1: "نوتنغهام",team2: "سندرلاند",
+gmtTime: "2025-09-27T16:30:00Z",  url: "go:bn1"},
+
+{team1: "توتنهام",team2: "وولفرهامبتون",
+gmtTime: "2025-09-27T19:00:00Z",  url: "go:bn2"},
+
+//الدوري الإنجليزي الجولة 7
+
+{team1: "بورنموث",team2: "فولهام",
+gmtTime: "2025-10-03T19:00:00Z",  url: "go:bn1"},
+
+{team1: "أرسنال",team2: "وست هام",
+gmtTime: "2025-10-04T14:00:00Z",  url: "go:bn2"},
+
+{team1: "أستون فيلا",team2: "بيرنلي",
+gmtTime: "2025-10-05T13:00:00Z",  url: "go:bn5"},
+
+{team1: "برينتفورد",team2: "مان سيتي",
+gmtTime: "2025-10-05T15:30:00Z",  url: "go:bn1"},
+
+{team1: "تشيلسي",team2: "ليفربول",
+gmtTime: "2025-10-04T16:30:00Z",  url: "go:bn1"},
+
+{team1: "إيفرتون",team2: "كريستال بالاس",
+gmtTime: "2025-10-05T13:00:00Z",  url: "go:bn4"},
+
+{team1: "ليدز يونايتد",team2: "توتنهام",
+gmtTime: "2025-10-04T11:30:00Z",  url: "go:bn1"},
+
+{team1: "مان يونايتد",team2: "سندرلاند",
+gmtTime: "2025-10-04T14:00:00Z",  url: "go:bn1"},
+
+{team1: "نيوكاسل",team2: "نوتنغهام",
+gmtTime: "2025-10-05T13:00:00Z",  url: "go:bn1"},
+
+{team1: "وولفرهامبتون",team2: "برايتون",
+gmtTime: "2025-10-05T13:00:00Z",  url: "go:bn6"},
+
+//الدوري الإنجليزي الجولة 8
+
+{team1: "برايتون",team2: "نيوكاسل",
+gmtTime: "2025-10-18T14:00:00Z",  url: "go:bn6"},
+
+{team1: "بيرنلي",team2: "ليدز يونايتد",
+gmtTime: "2025-10-18T14:00:00Z",  url: "go:bn5"},
+
+{team1: "كريستال بالاس",team2: "بورنموث",
+gmtTime: "2025-10-18T14:00:00Z",  url: "go:bn4"},
+
+{team1: "فولهام",team2: "أرسنال",
+gmtTime: "2025-10-18T16:30:00Z",  url: "go:bn1"},
+
+{team1: "ليفربول",team2: "مان يونايتد",
+gmtTime: "2025-10-19T15:30:00Z",  url: "go:bn1"},
+
+{team1: "مان سيتي",team2: "إيفرتون",
+gmtTime: "2025-10-18T14:00:00Z",  url: "go:bn2"},
+
+{team1: "نوتنغهام",team2: "تشيلسي",
+gmtTime: "2025-10-18T11:30:00Z",  url: "go:bn1"},
+
+{team1: "سندرلاند",team2: "وولفرهامبتون",
+gmtTime: "2025-10-18T14:00:00Z",  url: "go:bn3"},
+
+{team1: "توتنهام",team2: "أستون فيلا",
+gmtTime: "2025-10-19T13:00:00Z",  url: "go:bn1"},
+
+{team1: "وست هام",team2: "برينتفورد",
+gmtTime: "2025-10-20T19:00:00Z",  url: "go:bn2"},
+
+//الدوري الإنجليزي الجولة 9
+
+{team1: "أرسنال",team2: "كريستال بالاس",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "مان سيتي",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:bn"},
+
+{team1: "بورنموث",team2: "نوتنغهام",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:bn"},
+
+{team1: "برينتفورد",team2: "ليفربول",
+gmtTime: "2025-10-25T19:00:00Z", url: "go:bn"},
+
+{team1: "تشيلسي",team2: "سندرلاند",
+gmtTime: "2025-10-25T14:00:00Z", url: "go:bn"},
+
+{team1: "إيفرتون",team2: "توتنهام",
+gmtTime: "2025-10-26T16:30:00Z", url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "وست هام",
+gmtTime: "2025-10-24T19:00:00Z", url: "go:bn2"},
+
+{team1: "مان يونايتد",team2: "برايتون",
+gmtTime: "2025-10-25T16:30:00Z", url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "فولهام",
+gmtTime: "2025-10-25T14:00:00Z", url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "بيرنلي",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 10
+
+{team1: "برايتون",team2: "ليدز يونايتد",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:bn1x"},
+
+{team1: "بيرنلي",team2: "أرسنال",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:bn1"},
+
+{team1: "كريستال بالاس",team2: "برينتفورد",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:bn6"},
+
+{team1: "فولهام",team2: "وولفرهامبتون",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:bn5"},
+
+{team1: "ليفربول",team2: "أستون فيلا",
+gmtTime: "2025-11-01T20:00:00Z", url: "go:bn1"},
+
+{team1: "مان سيتي",team2: "بورنموث",
+gmtTime: "2025-11-02T16:30:00Z", url: "go:bn1"},
+
+{team1: "نوتنغهام",team2: "مان يونايتد",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:bn4"},
+
+{team1: "سندرلاند",team2: "إيفرتون",
+gmtTime: "2025-11-03T20:00:00Z", url: "go:bn2"},
+
+{team1: "توتنهام",team2: "تشيلسي",
+gmtTime: "2025-11-01T17:30:00Z", url: "go:bn1"},
+
+{team1: "وست هام",team2: "نيوكاسل",
+gmtTime: "2025-11-02T14:00:00Z", url: "go:bn1"},
+
+//الدوري الإنجليزي الجولة 11
+
+{team1: "أستون فيلا",team2: "بورنموث",
+gmtTime: "2025-11-09T15:00:00Z", url: "go:bn"},
+
+{team1: "برينتفورد",team2: "نيوكاسل",
+gmtTime: "2025-11-09T15:00:00Z", url: "go:bn"},
+
+{team1: "تشيلسي",team2: "وولفرهامبتون",
+gmtTime: "2025-11-08T20:00:00Z", url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "برايتون",
+gmtTime: "2025-11-09T15:00:00Z", url: "go:bn"},
+
+{team1: "إيفرتون",team2: "فولهام",
+gmtTime: "2025-11-08T15:00:00Z", url: "go:bn"},
+
+{team1: "مان سيتي",team2: "ليفربول",
+gmtTime: "2025-11-09T16:30:00Z", url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "ليدز يونايتد",
+gmtTime: "2025-11-09T15:00:00Z", url: "go:bn"},
+
+{team1: "سندرلاند",team2: "أرسنال",
+gmtTime: "2025-11-08T17:30:00Z", url: "go:bn"},
+
+{team1: "توتنهام",team2: "مان يونايتد",
+gmtTime: "2025-11-08T12:30:00Z", url: "go:bn"},
+
+{team1: "وست هام",team2: "بيرنلي",
+gmtTime: "2025-11-08T15:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 12
+
+{team1: "بورنموث",team2: "وست هام",
+gmtTime: "2025-11-22T15:00:00Z", url: "go:bn"},
+
+{team1: "أرسنال",team2: "توتنهام",
+gmtTime: "2025-11-23T16:30:00Z", url: "go:bn"},
+
+{team1: "برايتون",team2: "برينتفورد",
+gmtTime: "2025-11-22T15:00:00Z", url: "go:bn"},
+
+{team1: "بيرنلي",team2: "تشيلسي",
+gmtTime: "2025-11-22T12:30:00Z", url: "go:bn"},
+
+{team1: "فولهام",team2: "سندرلاند",
+gmtTime: "2025-11-22T15:00:00Z", url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "أستون فيلا",
+gmtTime: "2025-11-23T14:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول",team2: "نوتنغهام",
+gmtTime: "2025-11-22T15:00:00Z", url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "إيفرتون",
+gmtTime: "2025-11-24T20:00:00Z", url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "مان سيتي",
+gmtTime: "2025-11-22T17:30:00Z", url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "كريستال بالاس",
+gmtTime: "2025-11-22T15:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 13
+
+{team1: "أستون فيلا",team2: "وولفرهامبتون",
+gmtTime: "2025-11-30T14:05:00Z", url: "go:bn"},
+
+{team1: "برينتفورد",team2: "بيرنلي",
+gmtTime: "2025-11-29T15:00:00Z", url: "go:bn"},
+
+{team1: "تشيلسي",team2: "أرسنال",
+gmtTime: "2025-11-30T16:30:00Z", url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "مان يونايتد",
+gmtTime: "2025-11-30T12:00:00Z", url: "go:bn"},
+
+{team1: "إيفرتون",team2: "نيوكاسل",
+gmtTime: "2025-11-29T17:30:00Z", url: "go:bn"},
+
+{team1: "مان سيتي",team2: "ليدز يونايتد",
+gmtTime: "2025-11-29T15:00:00Z", url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "برايتون",
+gmtTime: "2025-11-30T14:05:00Z", url: "go:bn"},
+
+{team1: "سندرلاند",team2: "بورنموث",
+gmtTime: "2025-11-29T15:00:00Z", url: "go:bn"},
+
+{team1: "توتنهام",team2: "فولهام",
+gmtTime: "2025-11-29T20:00:00Z", url: "go:bn"},
+
+{team1: "وست هام",team2: "ليفربول",
+gmtTime: "2025-11-30T14:05:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 14
+
+{team1: "بورنموث",team2: "إيفرتون",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "أرسنال",team2: "برينتفورد",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "برايتون",team2: "أستون فيلا",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "بيرنلي",team2: "كريستال بالاس",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "فولهام",team2: "مان سيتي",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "تشيلسي",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول",team2: "سندرلاند",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "وست هام",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "توتنهام",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "نوتنغهام",
+gmtTime: "2025-12-03T20:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 15
+
+{team1: "بورنموث",team2: "تشيلسي",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "أرسنال",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "وست هام",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "نوتنغهام",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "كريستال بالاس",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "ليفربول",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "سندرلاند",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "بيرنلي",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "برينتفورد",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "مان يونايتد",
+gmtTime: "2025-12-06T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 16
+
+{team1: "أرسنال",team2: "وولفرهامبتون",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "ليدز يونايتد",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "فولهام",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "إيفرتون",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "مان سيتي",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "برايتون",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "بورنموث",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "توتنهام",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "نيوكاسل",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "أستون فيلا",
+gmtTime: "2025-12-13T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 17
+
+{team1: "بورنموث",team2: "بيرنلي",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "مان يونايتد",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "سندرلاند",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "أرسنال",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "نوتنغهام",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "كريستال بالاس",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "وست هام",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "تشيلسي",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "ليفربول",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "برينتفورد",
+gmtTime: "2025-12-20T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 18
+
+{team1: "أرسنال",team2: "برايتون",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "بورنموث",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "إيفرتون",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "أستون فيلا",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "توتنهام",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "وولفرهامبتون",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "نيوكاسل",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "مان سيتي",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "ليدز يونايتد",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "فولهام",
+gmtTime: "2025-12-27T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 19 
+
+{team1: "أرسنال",team2: "أستون فيلا",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "توتنهام",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "نيوكاسل",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "بورنموث",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "فولهام",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "ليدز يونايتد",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "وولفرهامبتون",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "إيفرتون",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "مان سيتي",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "برايتون",
+gmtTime: "2025-12-30T20:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 20
+
+{team1: "بورنموث",team2: "أرسنال",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "نوتنغهام",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "بيرنلي",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "برينتفورد",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "ليفربول",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "مان يونايتد",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "تشيلسي",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "كريستال بالاس",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "سندرلاند",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "وست هام",
+gmtTime: "2026-01-03T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 21
+
+{team1: "بورنموث",team2: "توتنهام",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "أرسنال",team2: "ليفربول",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "سندرلاند",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "مان يونايتد",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "أستون فيلا",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "وولفرهامبتون",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "تشيلسي",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "برايتون",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "ليدز يونايتد",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "نوتنغهام",
+gmtTime: "2026-01-07T20:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 22
+
+{team1: "أستون فيلا",team2: "إيفرتون",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "بورنموث",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "برينتفورد",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "فولهام",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "بيرنلي",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "مان سيتي",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "أرسنال",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "كريستال بالاس",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "وست هام",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "نيوكاسل",
+gmtTime: "2026-01-17T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 23
+
+{team1: "بورنموث",team2: "ليفربول",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "أرسنال",team2: "مان يونايتد",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "نوتنغهام",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "توتنهام",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "تشيلسي",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "ليدز يونايتد",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "برايتون",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "وولفرهامبتون",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "أستون فيلا",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "سندرلاند",
+gmtTime: "2026-01-24T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 24
+
+{team1: "أستون فيلا",team2: "برينتفورد",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "إيفرتون",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "وست هام",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "أرسنال",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "نيوكاسل",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "فولهام",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "كريستال بالاس",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "بيرنلي",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "مان سيتي",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "بورنموث",
+gmtTime: "2026-01-31T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 25
+
+{team1: "بورنموث",team2: "أستون فيلا",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "أرسنال",team2: "سندرلاند",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "كريستال بالاس",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "وست هام",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "إيفرتون",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "نوتنغهام",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "مان سيتي",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "توتنهام",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "برينتفورد",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "تشيلسي",
+gmtTime: "2026-02-07T15:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 26
+
+{team1: "أستون فيلا",team2: "برايتون",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "أرسنال",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "ليدز يونايتد",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "بيرنلي",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "بورنموث",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "فولهام",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "وولفرهامبتون",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "ليفربول",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "نيوكاسل",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "مان يونايتد",
+gmtTime: "2026-02-11T20:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 27
+
+{team1: "أستون فيلا",team2: "ليدز يونايتد",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "برايتون",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "بيرنلي",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "وولفرهامبتون",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "مان يونايتد",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "نيوكاسل",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "ليفربول",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "فولهام",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "أرسنال",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "بورنموث",
+gmtTime: "2026-02-21T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 28
+
+{team1: "بورنموث",team2: "سندرلاند",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "أرسنال",team2: "تشيلسي",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "نوتنغهام",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "برينتفورد",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "توتنهام",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "مان سيتي",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "وست هام",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "كريستال بالاس",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "إيفرتون",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "أستون فيلا",
+gmtTime: "2026-02-28T14:00:00Z",  url: "go:bn"},
+
+
+//الدوري الإنجليزي الجولة 29
+
+{team1: "بورنموث",team2: "برينتفورد",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "تشيلسي",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "أرسنال",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "بيرنلي",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "وست هام",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "سندرلاند",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "نوتنغهام",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "مان يونايتد",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "كريستال بالاس",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "ليفربول",
+gmtTime: "2026-03-04T19:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 30
+
+{team1: "أرسنال",team2: "إيفرتون",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "وولفرهامبتون",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "بورنموث",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "نيوكاسل",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "ليدز يونايتد",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "توتنهام",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "أستون فيلا",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "فولهام",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "برايتون",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "مان سيتي",
+gmtTime: "2026-03-14T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 31
+
+{team1: "بورنموث",team2: "مان يونايتد",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "أستون فيلا",team2: "وست هام",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "برايتون",team2: "ليفربول",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "تشيلسي",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "فولهام",team2: "بيرنلي",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "برينتفورد",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "كريستال بالاس",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "سندرلاند",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "نوتنغهام",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+{team1: "وولفرهامبتون",team2: "أرسنال",
+gmtTime: "2026-03-21T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 32
+
+{team1: "أرسنال",team2: "بورنموث",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "إيفرتون",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "بيرنلي",team2: "برايتون",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "مان سيتي",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "نيوكاسل",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليفربول",team2: "فولهام",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان يونايتد",team2: "ليدز يونايتد",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "أستون فيلا",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "توتنهام",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "وولفرهامبتون",
+gmtTime: "2026-04-11T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 33 
+
+{team1: "أستون فيلا",team2: "سندرلاند",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "برينتفورد",team2: "فولهام",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "تشيلسي",team2: "مان يونايتد",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "وست هام",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "إيفرتون",team2: "ليفربول",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "ليدز يونايتد",team2: "وولفرهامبتون",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "مان سيتي",team2: "أرسنال",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "نيوكاسل",team2: "بورنموث",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "بيرنلي",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "برايتون",
+gmtTime: "2026-04-18T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 34
+
+{team1: "بورنموث", team2: "ليدز يونايتد", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+
+{team1: "أرسنال", team2: "نيوكاسل", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+  
+{team1: "برايتون", team2: "تشيلسي",
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+  
+{team1: "بيرنلي", team2: "مان سيتي", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+
+{team1: "فولهام", team2: "أستون فيلا", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول", team2: "كريستال بالاس", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+
+{team1: "مان يونايتد", team2: "برينتفورد", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+
+{team1: "سندرلاند", team2: "نوتنغهام", 
+gmtTime: "2026-04-25T14:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام", team2: "إيفرتون", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+  
+{team1: "وولفرهامبتون", team2: "توتنهام", 
+gmtTime: "2026-04-25T14:00:00Z", url: "go:bn"},
+ 
+//الدوري الإنجليزي الجولة 35
+
+{team1: "بورنموث", team2: "كريستال بالاس", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "أرسنال", team2: "فولهام", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "أستون فيلا", team2: "توتنهام", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "برينتفورد", team2: "وست هام", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "تشيلسي", team2: "نوتنغهام", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "إيفرتون", team2: "مان سيتي", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "ليدز يونايتد", team2: "بيرنلي", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "مان يونايتد", team2: "ليفربول", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "نيوكاسل", team2: "برايتون", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+  
+{team1: "وولفرهامبتون", team2: "سندرلاند", 
+gmtTime: "2026-05-02T14:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 36
+
+{team1: "برايتون",team2: "وولفرهامبتون",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "بيرنلي",team2: "أستون فيلا",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "كريستال بالاس",team2: "إيفرتون",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "فولهام",team2: "بورنموث",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول",team2: "تشيلسي",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "مان سيتي",team2: "برينتفورد",
+gmtTime: "2026-05-09T14:00:00Z", url: "go:bn"},
+
+{team1: "نوتنغهام",team2: "نيوكاسل",
+gmtTime: "2026-05-09T14:00:00Z",  url: "go:bn"},
+
+{team1: "توتنهام",team2: "ليدز يونايتد",
+gmtTime: "2026-05-09T14:00:00Z",  url: "go:bn"},
+
+{team1: "سندرلاند",team2: "مان يونايتد",
+gmtTime: "2026-05-09T14:00:00Z",  url: "go:bn"},
+
+{team1: "وست هام",team2: "أرسنال",
+gmtTime: "2026-05-09T14:00:00Z",  url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 37
+ 
+{team1: "بورنموث", team2: "مان سيتي", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+
+{team1: "أرسنال", team2: "بيرنلي", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "أستون فيلا", team2: "ليفربول", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "برينتفورد", team2: "كريستال بالاس", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "تشيلسي", team2: "توتنهام", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "إيفرتون", team2: "سندرلاند", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "ليدز يونايتد", team2: "برايتون", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "مان يونايتد", team2: "نوتنغهام", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+  
+{team1: "نيوكاسل", team2: "وست هام", 
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+
+{team1: "وولفرهامبتون",  team2: "فولهام",  
+gmtTime: "2026-05-17T14:00:00Z", url: "go:bn"},
+
+//الدوري الإنجليزي الجولة 38
+
+{team1: "برايتون",  team2: "مان يونايتد", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+{team1: "بيرنلي", team2: "وولفرهامبتون", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn" },
+
+{team1: "كريستال بالاس", team2: "أرسنال", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn" },
+
+{team1: "فولهام",  team2: "نيوكاسل",  
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+{team1: "ليفربول", team2: "برينتفورد", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+{team1: "مان سيتي", team2: "أستون فيلا", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn" },
+  
+{team1: "نوتنغهام", team2: "بورنموث", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+{team1: "سندرلاند", team2: "تشيلسي", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+{team1: "وست هام", team2: "ليدز يونايتد", 
+gmtTime: "2026-05-24T15:00:00Z", url: "go:bn"},
+
+    ]
+  },
+  "الدوري الإسباني": {
+    logo: "https://imgs.ysscores.com/championship/48/8641690196626.png",
+    matches: [
+
+//الدوري الإسباني الجولة 1
+
+{team1: "جيرونا",team2: "رايو فاليكانو",
+gmtTime: "2025-08-15T17:00:00Z", url: "go:bn3"},
+
+{team1: "فياريال",team2: "ريال أوفييدو",
+gmtTime: "2025-08-15T19:30:00Z", url: "go:bn3"},
+
+{team1: "ألافيس",team2: "ليفانتي",
+gmtTime: "2025-08-16T19:30:00Z", url: "go:bn3"},
+
+{team1: "ريال مايوركا",team2: "برشلونة",
+gmtTime: "2025-08-16T17:30:00Z", url: "go:bn3"},
+
+{team1: "فالنسيا",team2: "ريال سوسيداد",
+gmtTime: "2025-08-16T19:30:00Z", url: "go:bn6"},
+
+{team1: "سيلتا فيغو",team2: "خيتافي",
+gmtTime: "2025-08-17T15:00:00Z", url: "go:bn3"},
+
+{team1: "أتلتيك بلباو",team2: "إشبيلية",
+gmtTime: "2025-08-17T17:30:00Z", url: "go:bn3"},
+
+{team1: "إسبانيول",team2: "أتلتيكو مدريد",
+gmtTime: "2025-08-17T19:30:00Z", url: "go:bn3"},
+
+{team1: "إلتشي",team2: "ريال بيتيس",
+gmtTime: "2025-08-18T19:00:00Z", url: "go:bn3"},
+
+{team1: "ريال مدريد",team2: "أوساسونا",
+gmtTime: "2025-08-19T19:00:00Z", url: "go:bn3"},
+
+//الدوري الإسباني الجولة 2
+
+{team1: "ريال بيتيس",team2: "ألافيس",
+gmtTime: "2025-08-22T19:30:00Z", url: "go:bn3"},
+
+{team1: "ريال مايوركا",team2: "سيلتا فيغو",
+gmtTime: "2025-08-23T15:00:00Z", url: "go:bn3"},
+
+{team1: "أتلتيكو مدريد",team2: "إلتشي",
+gmtTime: "2025-08-23T17:30:00Z", url: "go:bn3"},
+
+{team1: "ليفانتي",team2: "برشلونة",
+gmtTime: "2025-08-23T19:30:00Z", url: "go:bn1"},
+
+{team1: "أوساسونا",team2: "فالنسيا",
+gmtTime: "2025-08-24T15:00:00Z", url: "go:bn3"},
+
+{team1: "ريال سوسيداد",team2: "إسبانيول",
+gmtTime: "2025-08-24T17:30:00Z", url: "go:bn5"},
+
+{team1: "فياريال",team2: "جيرونا",
+gmtTime: "2025-08-24T17:30:00Z", url: "go:bn3x"},
+
+{team1: "ريال أوفييدو",team2: "ريال مدريد",
+gmtTime: "2025-08-24T19:30:00Z", url: "go:bn1"},
+
+{team1: "أتلتيك بلباو",team2: "رايو فاليكانو",
+gmtTime: "2025-08-25T17:30:00Z", url: "go:bn3"},
+
+{team1: "إشبيلية",team2: "خيتافي",
+gmtTime: "2025-08-25T19:30:00Z", url: "go:bn3"},
+
+//الدوري الإسباني الجولة 3
+
+{team1: "ألافيس",team2: "أتلتيكو مدريد",
+gmtTime: "2025-08-30T15:00:00Z",  url: "go:bn4"},
+
+{team1: "سيلتا فيغو",team2: "فياريال",
+gmtTime: "2025-08-31T15:00:00Z",  url: "go:bn3"},
+
+{team1: "إلتشي",team2: "ليفانتي",
+gmtTime: "2025-08-29T17:30:00Z",  url: "go:bn3"},
+
+{team1: "إسبانيول",team2: "أوساسونا",
+gmtTime: "2025-08-31T17:30:00Z",  url: "go:bn3"},
+
+{team1: "جيرونا",team2: "إشبيلية",
+gmtTime: "2025-08-30T17:30:00Z",  url: "go:bn2x"},
+
+{team1: "ريال أوفييدو",team2: "ريال سوسيداد",
+gmtTime: "2025-08-30T17:00:00Z",  url: "go:bn6"},
+
+{team1: "ريال بيتيس",team2: "أتلتيك بلباو",
+gmtTime: "2025-08-31T17:00:00Z",  url: "go:bn5"},
+
+{team1: "رايو فاليكانو",team2: "برشلونة",
+gmtTime: "2025-08-31T19:30:00Z",  url: "go:bn1"},
+
+{team1: "فالنسيا",team2: "خيتافي",
+gmtTime: "2025-08-29T19:30:00Z",  url: "go:bn3"},
+
+{team1: "ريال مدريد",team2: "ريال مايوركا",
+gmtTime: "2025-08-30T19:30:00Z",  url: "go:bn1"},
+
+//الدوري الإسباني الجولة 4
+
+{team1: "أتلتيكو مدريد",team2: "فياريال",
+gmtTime: "2025-09-13T19:00:00Z",  url: "go:bn3"},
+
+{team1: "برشلونة",team2: "فالنسيا",
+gmtTime: "2025-09-14T19:00:00Z",  url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "جيرونا",
+gmtTime: "2025-09-14T12:00:00Z",  url: "go:bn"},
+
+{team1: "إسبانيول",team2: "مايوركا",
+gmtTime: "2025-09-15T19:00:00Z",  url: "go:bn3"},
+
+{team1: "خيتافي",team2: "ريال أوفييدو",
+gmtTime: "2025-09-13T12:00:00Z",  url: "go:bn4"},
+
+{team1: "أوساسونا",team2: "رايو فاليكانو",
+gmtTime: "2025-09-14T16:30:00Z",  url: "go:bn"},
+
+{team1: "أتلتيك بلباو",team2: "ألافيس",
+gmtTime: "2025-09-13T16:30:00Z",  url: "go:bn3"},
+
+{team1: "ليفانتي",team2: "ريال بيتيس",
+gmtTime: "2025-09-14T14:15:00Z",  url: "go:bn"},
+
+{team1: "إشبيلية",team2: "إلتشي",
+gmtTime: "2025-09-12T19:00:00Z",  url: "go:bn3"},
+
+{team1: "ريال سوسيداد",team2: "ريال مدريد",
+gmtTime: "2025-09-13T14:15:00Z",  url: "go:bn1"},
+
+//الدوري الإسباني الجولة 5
+
+{team1: "ألافيس",team2: "إشبيلية",
+gmtTime: "2025-09-20T16:30:00Z", url: "go:bn5"},
+
+{team1: "برشلونة",team2: "خيتافي",
+gmtTime: "2025-09-21T19:00:00Z", url: "go:bn1"},
+
+{team1: "ريال بيتيس",team2: "ريال سوسيداد",
+gmtTime: "2025-09-19T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "ريال أوفييدو",
+gmtTime: "2025-09-21T16:30:00Z", url: "go:bn3"},
+
+{team1: "جيرونا",team2: "ليفانتي",
+gmtTime: "2025-09-20T12:00:00Z", url: "go:bn3"},
+
+{team1: "فالنسيا",team2: "أتلتيك بلباو",
+gmtTime: "2025-09-20T19:00:00Z", url: "go:bn3"},
+
+{team1: "ريال مايوركا",team2: "أتلتيكو مدريد",
+gmtTime: "2025-09-21T14:15:00Z", url: "go:bn3"},
+
+{team1: "رايو فاليكانو",team2: "سيلتا فيغو",
+gmtTime: "2025-09-21T12:00:00Z", url: "go:bn3"},
+
+{team1: "ريال مدريد",team2: "إسبانيول",
+gmtTime: "2025-09-20T14:15:00Z", url: "go:bn1"},
+
+{team1: "فياريال",team2: "أوساسونا",
+gmtTime: "2025-09-20T16:30:00Z", url: "go:bn3"},
+
+//الدوري الإسباني الجولة 6
+
+{team1: "أتلتيك بلباو",team2: "جيرونا",
+gmtTime: "2025-09-23T17:00:00Z", url: "go:bn7"},
+
+{team1: "أتلتيكو مدريد",team2: "رايو فاليكانو",
+gmtTime: "2025-09-24T19:30:00Z", url: "go:bn3"},
+
+{team1: "إسبانيول",team2: "فالنسيا",
+gmtTime: "2025-09-23T17:00:00Z", url: "go:bn3"},
+
+{team1: "ليفانتي",team2: "ريال مدريد",
+gmtTime: "2025-09-23T19:30:00Z", url: "go:bn1"},
+
+{team1: "إشبيلية",team2: "فياريال",
+gmtTime: "2025-09-23T19:30:00Z", url: "go:bn3"},
+
+{team1: "خيتافي",team2: "ألافيس",
+gmtTime: "2025-09-24T17:00:00Z", url: "go:bn4"},
+
+{team1: "ريال أوفييدو",team2: "برشلونة",
+gmtTime: "2025-09-25T19:30:00Z", url: "go:bn1"},
+
+{team1: "سيلتا فيغو",team2: "ريال بيتيس",
+gmtTime: "2025-08-27T19:00:00Z", url: "go:bn6"},
+
+{team1: "أوساسونا",team2: "إلتشي",
+gmtTime: "2025-09-25T17:30:00Z", url: "go:bn4"},
+
+{team1: "ريال سوسيداد",team2: "ريال مايوركا",
+gmtTime: "2025-09-24T19:30:00Z", url: "go:bn4"},
+
+//الدوري الإسباني الجولة 7
+
+{team1: "أتلتيكو مدريد",team2: "ريال مدريد",
+gmtTime: "2025-09-27T14:15:00Z", url: "go:bn1"},
+
+{team1: "برشلونة",team2: "ريال سوسيداد",
+gmtTime: "2025-09-28T16:30:00Z", url: "go:bn1"},
+
+{team1: "ريال بيتيس",team2: "أوساسونا",
+gmtTime: "2025-09-28T19:00:00Z", url: "go:bn3"},
+
+{team1: "خيتافي",team2: "ليفانتي",
+gmtTime: "2025-09-27T12:00:00Z", url: "go:bn4"},
+
+{team1: "رايو فاليكانو",team2: "إشبيلية",
+gmtTime: "2025-09-28T12:00:00Z", url: "go:bn3"},
+
+{team1: "ريال مايوركا",team2: "ألافيس",
+gmtTime: "2025-09-27T16:30:00Z", url: "go:bn3"},
+
+{team1: "فياريال",team2: "أتلتيك بلباو",
+gmtTime: "2025-09-27T19:00:00Z", url: "go:bn3"},
+
+{team1: "إلتشي",team2: "سيلتا فيغو",
+gmtTime: "2025-09-28T14:15:00Z", url: "go:bn3"},
+
+{team1: "جيرونا",team2: "إسبانيول",
+gmtTime: "2025-09-26T19:00:00Z", url: "go:bn3"},
+
+{team1: "فالنسيا",team2: "ريال أوفييدو",
+gmtTime: "2025-09-30T18:00:00Z", url: "go:bn2x"},
+
+//الدوري الإسباني الجولة 8
+
+{team1: "ألافيس",team2: "إلتشي",
+gmtTime: "2025-10-05T12:00:00Z", url: "go:bn3"},
+
+{team1: "أتلتيك بلباو",team2: "ريال مايوركا",
+gmtTime: "2025-10-04T16:30:00Z", url: "go:bn3"},
+
+{team1: "جيرونا",team2: "فالنسيا",
+gmtTime: "2025-10-04T14:15:00Z", url: "go:bn3"},
+
+{team1: "ريال مدريد",team2: "فياريال",
+gmtTime: "2025-10-04T19:00:00Z", url: "go:bn1"},
+
+{team1: "سيلتا فيغو",team2: "أتلتيكو مدريد",
+gmtTime: "2025-10-05T19:00:00Z", url: "go:bn3"},
+
+{team1: "إشبيلية",team2: "برشلونة",
+gmtTime: "2025-10-05T14:15:00Z", url: "go:bn2"},
+
+{team1: "إسبانيول",team2: "ريال بيتيس",
+gmtTime: "2025-10-05T16:30:00Z", url: "go:bn5"},
+
+{team1: "أوساسونا",team2: "خيتافي",
+gmtTime: "2025-10-03T19:00:00Z", url: "go:bn3"},
+
+{team1: "ريال أوفييدو",team2: "ليفانتي",
+gmtTime: "2025-10-04T12:00:00Z", url: "go:bn3"},
+
+{team1: "ريال سوسيداد",team2: "رايو فاليكانو",
+gmtTime: "2025-10-05T16:30:00Z", url: "go:bn3"},
+
+//الدوري الإسباني الجولة 9
+
+{team1: "ألافيس",team2: "فالنسيا",
+gmtTime: "2025-10-20T19:00:00Z", url: "go:bn3"},
+
+{team1: "أتلتيكو مدريد",team2: "أوساسونا",
+gmtTime: "2025-10-18T19:00:00Z", url: "go:bn3"},
+
+{team1: "برشلونة",team2: "جيرونا",
+gmtTime: "2025-10-18T14:15:00Z", url: "go:bn1"},
+
+{team1: "سيلتا فيغو",team2: "ريال سوسيداد",
+gmtTime: "2025-10-19T14:15:00Z", url: "go:bn3"},
+
+{team1: "خيتافي",team2: "ريال مدريد",
+gmtTime: "2025-10-19T19:00:00Z", url: "go:bn1"},
+
+{team1: "ليفانتي",team2: "رايو فاليكانو",
+gmtTime: "2025-10-19T16:30:00Z", url: "go:bn3"},
+
+{team1: "إلتشي",team2: "أتلتيك بلباو",
+gmtTime: "2025-10-19T12:00:00Z", url: "go:bn3"},
+
+{team1: "فياريال",team2: "ريال سوسيداد",
+gmtTime: "2025-10-18T16:30:00Z", url: "go:bn3"},
+
+{team1: "ريال أوفييدو",team2: "إسبانيول",
+gmtTime: "2025-10-17T19:00:00Z", url: "go:bn3"},
+
+{team1: "إشبيلية",team2: "ريال مايوركا",
+gmtTime: "2025-10-18T12:00:00Z", url: "go:bn9"},
+
+//الدوري الإسباني الجولة 10
+
+{team1: "أتلتيك بلباو",team2: "خيتافي",
+gmtTime: "2025-10-25T16:30:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ريال أوفييدو",
+gmtTime: "2025-10-25T12:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "إشبيلية",
+gmtTime: "2025-10-24T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "فياريال",
+gmtTime: "2025-10-25T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ألافيس",
+gmtTime: "2025-10-26T20:00:00Z", url: "go:bn3"},
+
+{team1: "ريال بيتيس",team2: "أتلتيكو مدريد",
+gmtTime: "2025-10-27T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "برشلونة",
+gmtTime: "2025-10-26T15:15:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "سيلتا فيغو",
+gmtTime: "2025-10-26T17:30:00Z", url: "go:bn3"},
+
+{team1: "إسبانيول",team2: "إلتشي",
+gmtTime: "2025-10-25T14:15:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "ليفانتي",
+gmtTime: "2025-10-26T13:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 11
+
+{team1: "ألافيس",team2: "إسبانيول",
+gmtTime: "2025-11-02T15:15:00Z", url: "go:bn3"},
+
+{team1: "أتلتيكو مدريد",team2: "إشبيلية",
+gmtTime: "2025-11-01T15:15:00Z", url: "go:bn3"},
+
+{team1: "برشلونة",team2: "إلتشي",
+gmtTime: "2025-11-02T17:30:00Z", url: "go:bn2"},
+
+{team1: "ريال بيتيس",team2: "ريال مايوركا",
+gmtTime: "2025-11-02T20:00:00Z", url: "go:bn3"},
+
+{team1: "خيتافي",team2: "جيرونا",
+gmtTime: "2025-10-31T20:00:00Z", url: "go:bn3"},
+
+{team1: "ريال مدريد",team2: "فالنسيا",
+gmtTime: "2025-11-01T20:00:00Z", url: "go:bn2"},
+
+{team1: "ريال سوسيداد",team2: "أتلتيك بلباو",
+gmtTime: "2025-11-01T17:30:00Z", url: "go:bn3"},
+
+{team1: "ليفانتي",team2: "سيلتا فيغو",
+gmtTime: "2025-11-02T13:00:00Z", url: "go:bn3"},
+
+{team1: "ريال أوفييدو",team2: "أوساسونا",
+gmtTime: "2025-11-03T20:00:00Z", url: "go:bn3"},
+
+{team1: "فياريال",team2: "رايو فاليكانو",
+gmtTime: "2025-11-01T13:00:00Z", url: "go:bn3"},
+
+//الدوري الإسباني الجولة 12
+
+{team1: "أتلتيك بلباو",team2: "ريال أوفييدو",
+gmtTime: "2025-11-09T13:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "ليفانتي",
+gmtTime: "2025-11-08T17:30:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "ريال سوسيداد",
+gmtTime: "2025-11-07T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "فياريال",
+gmtTime: "2025-11-08T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ريال مدريد",
+gmtTime: "2025-11-09T15:15:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ألافيس",
+gmtTime: "2025-11-08T13:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "برشلونة",
+gmtTime: "2025-11-09T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "ريال سوسيداد",
+gmtTime: "2025-11-09T17:30:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "خيتافي",
+gmtTime: "2025-11-09T17:30:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "أوساسونا",
+gmtTime: "2025-11-08T15:15:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 13
+
+{team1: "ألافيس",team2: "سيلتا فيغو",
+gmtTime: "2025-11-22T13:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "جيرونا",
+gmtTime: "2025-11-23T15:15:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "ريال مدريد",
+gmtTime: "2025-11-23T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "إشبيلية",
+gmtTime: "2025-11-24T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ريال سوسيداد",
+gmtTime: "2025-11-22T17:30:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "رايو فاليكانو",
+gmtTime: "2025-11-23T13:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "أتلتيك بلباو",
+gmtTime: "2025-11-22T15:15:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "أتلتيكو مدريد",
+gmtTime: "2025-11-23T17:30:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "ليفانتي",
+gmtTime: "2025-11-21T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "ريال مايوركا",
+gmtTime: "2025-11-22T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 14
+
+{team1: "أتلتيكو مدريد",team2: "ريال أوفييدو",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "إسبانيول",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ريال مدريد",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "أوساسونا",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "فالنسيا",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "فياريال",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ألافيس",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "أتلتيك بلباو",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ريال بيتيس",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "إلتشي",
+gmtTime: "2025-11-30T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 15
+
+{team1: "ألافيس",team2: "ريال سوسيداد",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيك بلباو",team2: "أتلتيكو مدريد",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "جيرونا",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "رايو فاليكانو",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "برشلونة",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "سيلتا فيغو",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "خيتافي",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ليفانتي",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "ريال مايوركا",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "إشبيلية",
+gmtTime: "2025-12-07T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 16
+
+{team1: "ألافيس",team2: "ريال مدريد",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "فالنسيا",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "أوساسونا",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "فياريال",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "أتلتيك بلباو",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ريال بيتيس",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "إلتشي",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "إسبانيول",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "جيرونا",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ريال أوفييدو",
+gmtTime: "2025-12-14T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 17
+
+{team1: "أتلتيك بلباو",team2: "إسبانيول",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "خيتافي",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "رايو فاليكانو",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "ريال سوسيداد",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "إشبيلية",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ألافيس",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "أتلتيكو مدريد",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "برشلونة",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "سيلتا فيغو",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "ريال مايوركا",
+gmtTime: "2025-12-21T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 18
+
+{team1: "ألافيس",team2: "ريال أوفييدو",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "فالنسيا",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "فياريال",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "أتلتيك بلباو",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "أتلتيكو مدريد",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "برشلونة",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "ريال بيتيس",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "خيتافي",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "جيرونا",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ليفانتي",
+gmtTime: "2026-01-04T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 19
+
+{team1: "أتلتيك بلباو",team2: "ريال مدريد",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "ريال سوسيداد",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "أوساسونا",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "ألافيس",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "أتلتيكو مدريد",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "ريال بيتيس",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "سيلتا فيغو",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "إلتشي",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "إسبانيول",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ريال مايوركا",
+gmtTime: "2026-01-11T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 20
+
+{team1: "ريال بيتيس",team2: "فياريال",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "رايو فاليكانو",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "إشبيلية",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "جيرونا",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "فالنسيا",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ريال أوفييدو",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "ألافيس",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "أتلتيك بلباو",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "برشلونة",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "ليفانتي",
+gmtTime: "2026-01-18T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 21
+
+{team1: "ألافيس",team2: "ريال بيتيس",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "ريال مايوركا",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ريال أوفييدو",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "أتلتيك بلباو",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "سيلتا فيغو",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "إلتشي",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "إسبانيول",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "خيتافي",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "أوساسونا",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "ريال مدريد",
+gmtTime: "2026-01-25T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 22
+
+{team1: "أتلتيك بلباو",team2: "ريال سوسيداد",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "فالنسيا",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "إشبيلية",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "فياريال",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "ألافيس",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "أتلتيكو مدريد",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "برشلونة",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "سيلتا فيغو",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "جيرونا",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "رايو فاليكانو",
+gmtTime: "2026-02-01T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 23
+
+{team1: "ألافيس",team2: "خيتافي",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيك بلباو",team2: "ليفانتي",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "ريال بيتيس",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ريال مايوركا",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "أوساسونا",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "إلتشي",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "إسبانيول",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "جيرونا",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "ريال مدريد",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ريال أوفييدو",
+gmtTime: "2026-02-08T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 24
+
+{team1: "إلتشي",team2: "أوساسونا",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "فياريال",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "فالنسيا",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "ريال سوسيداد",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ألافيس",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "أتلتيك بلباو",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "أتلتيكو مدريد",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "برشلونة",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "ريال بيتيس",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "سيلتا فيغو",
+gmtTime: "2026-02-15T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 25
+
+{team1: "ألافيس",team2: "جيرونا",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيك بيلباو",team2: "إلتشي",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "إسبانيول",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ليفانتي",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "رايو فاليكانو",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "ريال مايوركا",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "إشبيلية",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ريال مدريد",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "فالنسيا",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "ريال أوفييدو",
+gmtTime: "2026-02-22T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 26
+
+{team1: "برشلونة",team2: "فياريال",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "إشبيلية",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "إسبانيول",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "ريال سوسيداد",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "ألافيس",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "أتلتيك بلباو",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "أتلتيكو مدريد",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "سيلتا فيغو",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "خيتافي",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "أوساسونا",
+gmtTime: "2026-03-01T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 27
+
+{team1: "أتلتيك بلباو",team2: "برشلونة",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "ريال سوسيداد",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "ريال مدريد",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "ريال أوفييدو",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "ألافيس",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "ريال بيتيس",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "إلتشي",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "جيرونا",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ريال مايوركا",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "رايو فاليكانو",
+gmtTime: "2026-03-08T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 28
+
+{team1: "ألافيس",team2: "فياريال",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "خيتافي",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "إشبيلية",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "سيلتا فيغو",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "فالنسيا",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "أتلتيك بلباو",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "إلتشي",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "إسبانيول",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ليفانتي",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "أوساسونا",
+gmtTime: "2026-03-15T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 29
+
+{team1: "أتلتيك بلباو",team2: "ريال بيتيس",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "رايو فاليكانو",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "ريال مايوركا",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "خيتافي",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "ريال أوفييدو",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "فالنسيا",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "ألافيس",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "أتلتيكو مدريد",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "جيرونا",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "ريال بيتيس",
+gmtTime: "2026-03-22T20:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 30
+
+{team1: "ألافيس",team2: "أوساسونا",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "برشلونة",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "إسبانيول",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "فياريال",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "ريال مدريد",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "إشبيلية",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "أتلتيك بلباو",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "سيلتا فيغو",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "إلتشي",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "ليفانتي",
+gmtTime: "2026-04-05T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 31
+
+{team1: "أتلتيك بلباو",team2: "فياريال",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "إسبانيول",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "ريال أوفييدو",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "فالنسيا",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "رايو فاليكانو",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "ألافيس",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "أتلتيكو مدريد",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "ريال بيتيس",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "خيتافي",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "جيرونا",
+gmtTime: "2026-04-12T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 32
+
+{team1: "ألافيس",team2: "ريال مايوركا",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "ريال مدريد",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "ليفانتي",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "إشبيلية",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "ريال سوسيداد",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "أتلتيك بلباو",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "برشلونة",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "سيلتا فيغو",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "إلتشي",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "جيرونا",
+gmtTime: "2026-04-19T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 33
+
+{team1: "أتلتيك بلباو",team2: "أوساسونا",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "سيلتا فيغو",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "إشبيلية",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "فالنسيا",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "فياريال",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "ألافيس",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "أتلتيكو مدريد",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ريال بيتيس",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "إسبانيول",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "خيتافي",
+gmtTime: "2026-04-22T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 34
+
+{team1: "ألافيس",team2: "أتلتيك بلباو",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "ريال أوفييدو",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "إلتشي",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "ريال مدريد",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "رايو فاليكانو",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ريال مايوركا",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "أتلتيكو مدريد",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "برشلونة",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "ليفانتي",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ريال سوسيداد",
+gmtTime: "2026-05-03T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 35
+
+{team1: "أتلتيك بلباو",team2: "فالنسيا",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "سيلتا فيغو",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ريال مدريد",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "أوساسونا",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "فياريال",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "ألافيس",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "ريال بيتيس",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "إسبانيول",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "خيتافي",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "جيرونا",
+gmtTime: "2026-05-10T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 36
+
+{team1: "ألافيس",team2: "برشلونة",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "إلتشي",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "ليفانتي",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "ريال مايوركا",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "ريال سوسيداد",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "أتلتيك بلباو",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "أتلتيكو مدريد",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "فالنسيا",team2: "رايو فاليكانو",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "إشبيلية",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "ريال أوفييدو",
+gmtTime: "2026-05-13T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 37
+
+{team1: "أتلتيك بلباو",team2: "سيلتا فيغو",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "أتلتيكو مدريد",team2: "جيرونا",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "ريال بيتيس",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "إلتشي",team2: "خيتافي",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "ليفانتي",team2: "ريال مايوركا",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "رايو فاليكانو",team2: "فياريال",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال سوسيداد",team2: "فالنسيا",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال أوفييدو",team2: "ألافيس",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "أوساسونا",team2: "إسبانيول",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+{team1: "إشبيلية",team2: "ريال مدريد",
+gmtTime: "2026-05-17T19:00:00Z", url: "go:bn"},
+
+//الدوري الإسباني الجولة 38
+
+{team1: "ألافيس",team2: "رايو فاليكانو",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال بيتيس",team2: "ليفانتي",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "سيلتا فيغو",team2: "إشبيلية",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "إسبانيول",team2: "ريال سوسيداد",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "خيتافي",team2: "أوساسونا",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مايوركا",team2: "ريال أوفييدو",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "ريال مدريد",team2: "أتلتيك بلباو",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "فياريال",team2: "أتلتيكو مدريد",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "برشلونة",team2: "فالنسيا",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+{team1: "جيرونا",team2: "إلتشي",
+gmtTime: "2026-05-24T19:00:00Z", url: "go:bn"},
+
+]
+ },
+  "الدوري الفرنسي": {
+    logo: "https://imgs.ysscores.com/championship/128/9551719862665.png",
+    matches: [
+
+//الدوري الفرنسي الجولة 1 
+
+{team1: "نانت",team2: "باريس",
+gmtTime: "2025-08-17T18:45:00Z",  url: "go:bn1.1"},
+
+{team1: "نيس",team2: "تولوز",
+gmtTime: "2025-08-16T19:05:00Z",  url: "go:bn4"},
+
+{team1: "رين",team2: "مارسيليا",
+gmtTime: "2025-08-15T18:45:00Z",  url: "go:bn4"},
+
+{team1: "أنجيه",team2: "نادي باريس",
+gmtTime: "2025-08-17T15:15:00Z",  url: "go:bn6"},
+
+{team1: "أوكسير",team2: "لوريان",
+gmtTime: "2025-08-17T15:15:00Z",  url: "go:bn4"},
+
+{team1: "بريست",team2: "ليل",
+gmtTime: "2025-08-17T13:00:00Z",  url: "go:bn4"},
+
+{team1: "لانس",team2: "ليون",
+gmtTime: "2025-08-16T15:00:00Z",  url: "go:bn4"},
+
+{team1: "ميتز",team2: "ستراسبورج",
+gmtTime: "2025-08-17T15:15:00Z",  url: "go:bn5"},
+
+{team1: "موناكو",team2: "لوهافر",
+gmtTime: "2025-08-16T17:00:00Z",  url: "go:bn5"},
+
+//الدوري الفرنسي الجولة 2 
+
+{team1: "مارسيليا",team2: "نادي باريس",
+gmtTime: "2025-08-23T15:00:00Z", url: "go:bn4"},
+
+{team1: "ليل",team2: "موناكو",
+gmtTime: "2025-08-24T18:45:00Z", url: "go:bn4"},
+
+{team1: "لوهافر",team2: "لانس",
+gmtTime: "2025-08-24T15:15:00Z", url: "go:bn6"},
+
+{team1: "لوريان",team2: "رين",
+gmtTime: "2025-08-24T13:00:00Z", url: "go:bn4"},
+
+{team1: "نيس",team2: "أوكسير",
+gmtTime: "2025-08-23T17:00:00Z", url: "go:bn4"},
+
+{team1: "تولوز",team2: "بريست",
+gmtTime: "2025-08-24T15:15:00Z", url: "go:bn4"},
+
+{team1: "ليون",team2: "ميتز",
+gmtTime: "2025-08-23T19:05:00Z", url: "go:bn4"},
+
+{team1: "ستراسبورج",team2: "نانت",
+gmtTime: "2025-08-24T15:15:00Z", url: "go:bn2x"},
+
+{team1: "باريس",team2: "أنجيه",
+gmtTime: "2025-08-22T18:45:00Z", url: "go:bn4"},
+
+//الدوري الفرنسي الجولة 3 
+
+{team1: "لوريان",team2: "ليل",
+gmtTime: "2025-08-30T15:00:00Z", url: "go:bn1x"},
+
+{team1: "ليون",team2: "مارسيليا",
+gmtTime: "2025-08-31T18:45:00Z", url: "go:bn4"},
+
+{team1: "موناكو",team2: "ستراسبورج",
+gmtTime: "2025-08-31T15:15:00Z", url: "go:bn1x"},
+
+{team1: "أنجيه",team2: "رين",
+gmtTime: "2025-08-31T13:00:00Z", url: "go:bn4"},
+
+{team1: "لوهافر",team2: "نيس",
+gmtTime: "2025-08-31T15:15:00Z", url: "go:bn4"},
+
+{team1: "نانت",team2: "أوكسير",
+gmtTime: "2025-08-30T17:00:00Z", url: "go:bn5"},
+
+{team1: "تولوز",team2: "باريس",
+gmtTime: "2025-08-30T19:05:00Z", url: "go:bn2"},
+
+{team1: "لانس",team2: "بريست",
+gmtTime: "2025-08-29T18:45:00Z", url: "go:bn2x"},
+
+{team1: "نادي باريس",team2: "ميتز",
+gmtTime: "2025-08-31T15:15:00Z", url: "go:bn6"},
+
+//الدوري الفرنسي الجولة 4 
+
+{team1: "باريس",team2: "لانس",
+gmtTime: "2025-09-14T15:15:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "تولوز",
+gmtTime: "2025-09-14T13:00:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "أنجيه",
+gmtTime: "2025-09-14T15:15:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "نادي باريس",
+gmtTime: "2025-09-14T15:15:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "نانت",
+gmtTime: "2025-09-13T15:00:00Z", url: "go:bn4"},
+
+{team1: "ستراسبورج",team2: "لوهافر",
+gmtTime: "2025-09-14T15:15:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "ليون",
+gmtTime: "2025-09-14T18:45:00Z", url: "go:bn"},
+
+{team1: "أوكسير",team2: "موناكو",
+gmtTime: "2025-09-13T19:05:00Z", url: "go:bn4"},
+
+{team1: "مارسيليا",team2: "لوريان",
+gmtTime: "2025-09-12T18:45:00Z", url: "go:bn4"},
+
+//الدوري الفرنسي الجولة 5 
+
+{team1: "أوكسير",team2: "تولوز",
+gmtTime: "2025-09-21T15:15:00Z", url: "go:bn2"},
+
+{team1: "لانس",team2: "ليل",
+gmtTime: "2025-09-20T19:05:00Z", url: "go:bn4"},
+
+{team1: "بريست",team2: "نيس",
+gmtTime: "2025-09-20T17:00:00Z", url: "go:bn8"},
+
+{team1: "ليون",team2: "أنجيه",
+gmtTime: "2025-09-19T18:45:00Z", url: "go:bn4"},
+
+{team1: "مارسيليا",team2: "باريس",
+gmtTime: "2025-09-22T18:00:00Z", url: "go:bn1"},
+
+{team1: "نادي باريس",team2: "ستراسبورج",
+gmtTime: "2025-09-21T13:00:00Z", url: "go:bn4"},
+
+{team1: "نانت",team2: "رين",
+gmtTime: "2025-09-20T15:00:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "ميتز",
+gmtTime: "2025-09-21T15:15:00Z", url: "go:bn4"},
+
+{team1: "لوهافر",team2: "لوريان",
+gmtTime: "2025-09-21T15:15:00Z", url: "go:bn5"},
+
+//الدوري الفرنسي الجولة 6 
+
+{team1: "لوريان",team2: "موناكو",
+gmtTime: "2025-09-27T15:00:00Z", url: "go:bn4"},
+
+{team1: "ميتز",team2: "لوهافر",
+gmtTime: "2025-09-28T15:15:00Z", url: "go:bn6"},
+
+{team1: "ستراسبورج",team2: "مارسيليا",
+gmtTime: "2025-09-26T18:45:00Z", url: "go:bn4"},
+
+{team1: "رين",team2: "لانس",
+gmtTime: "2025-09-28T18:45:00Z", url: "go:bn4"},
+
+{team1: "أنجيه",team2: "بريست",
+gmtTime: "2025-09-28T15:15:00Z", url: "go:bn5"},
+
+{team1: "نيس",team2: "نادي باريس",
+gmtTime: "2025-09-28T13:00:00Z", url: "go:bn4"},
+
+{team1: "تولوز",team2: "نانت",
+gmtTime: "2025-09-27T17:00:00Z", url: "go:bn5"},
+
+{team1: "ليل",team2: "ليون",
+gmtTime: "2025-09-28T15:15:00Z", url: "go:bn4"},
+
+{team1: "باريس",team2: "أوكسير",
+gmtTime: "2025-09-27T19:05:00Z", url: "go:bn1"},
+
+//الدوري الفرنسي الجولة 7 
+
+{team1: "موناكو",team2: "نيس",
+gmtTime: "2025-10-05T15:15:00Z", url: "go:bn4"},
+
+{team1: "ميتز",team2: "مارسيليا",
+gmtTime: "2025-10-04T15:00:00Z", url: "go:bn4"},
+
+{team1: "ليون",team2: "تولوز",
+gmtTime: "2025-10-05T13:00:00Z", url: "go:bn9"},
+
+{team1: "لوهافر",team2: "رين",
+gmtTime: "2025-10-05T15:15:00Z", url: "go:bn9"},
+
+{team1: "ليل",team2: "باريس",
+gmtTime: "2025-10-05T18:45:00Z", url: "go:bn1"},
+
+{team1: "ستراسبورج",team2: "أنجيه",
+gmtTime: "2025-10-05T15:15:00Z", url: "go:bn7"},
+
+{team1: "بريست",team2: "نانت",
+gmtTime: "2025-10-04T17:00:00Z", url: "go:bn2"},
+
+{team1: "أوكسير",team2: "لانس",
+gmtTime: "2025-10-04T19:05:00Z", url: "go:bn4"},
+
+{team1: "نادي باريس",team2: "لوريان",
+gmtTime: "2025-10-03T18:45:00Z", url: "go:bn4"},
+
+//الدوري الفرنسي الجولة 8 
+
+{team1: "مارسيليا",team2: "لوهافر",
+gmtTime: "2025-10-18T19:05:00Z", url: "go:bn4"},
+
+{team1: "نيس",team2: "ليون",
+gmtTime: "2025-10-18T15:00:00Z", url: "go:bn8"},
+
+{team1: "باريس",team2: "ستراسبورج",
+gmtTime: "2025-10-17T18:45:00Z", url: "go:bn1"},
+
+{team1: "تولوز",team2: "ميتز",
+gmtTime: "2025-10-19T15:15:00Z", url: "go:bn6"},
+
+{team1: "لانس",team2: "نادي باريس",
+gmtTime: "2025-10-19T13:00:00Z", url: "go:bn4"},
+
+{team1: "لوريان",team2: "بريست",
+gmtTime: "2025-10-19T15:15:00Z", url: "go:bn4"},
+
+{team1: "أنجيه",team2: "موناكو",
+gmtTime: "2025-10-18T17:00:00Z", url: "go:bn5"},
+
+{team1: "نانت",team2: "ليل",
+gmtTime: "2025-10-19T18:45:00Z", url: "go:bn4"},
+
+{team1: "رين",team2: "أوكسير",
+gmtTime: "2025-10-19T15:15:00Z", url: "go:bn5"},
+
+//الدوري الفرنسي الجولة 9 
+
+{team1: "ليون",team2: "ستراسبورج",
+gmtTime: "2025-10-26T19:45:00Z", url: "go:bn4"},
+
+{team1: "أنجيه",team2: "لوريان",
+gmtTime: "2025-10-26T16:15:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "تولوز",
+gmtTime: "2025-10-25T17:00:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "نيس",
+gmtTime: "2025-10-26T16:15:00Z", url: "go:bn"},
+
+{team1: "أوكسير",team2: "لوهافر",
+gmtTime: "2025-10-26T16:15:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "ميتز",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "بريست",
+gmtTime: "2025-10-25T15:00:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "مارسيليا",
+gmtTime: "2025-10-25T19:05:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "نانت",
+gmtTime: "2025-10-24T18:45:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 10 
+
+{team1: "مارسيليا",team2: "أنجيه",
+gmtTime: "2025-10-29T20:05:00Z", url: "go:bn1x"},
+
+{team1: "لوريان",team2: "باريس",       
+gmtTime: "2025-10-29T18:00:00Z", url: "go:bn1"},
+
+{team1: "نانت",team2: "موناكو",
+gmtTime: "2025-10-29T20:05:00Z", url: "go:bn2x"},
+
+{team1: "ستراسبورج",team2: "أوكسير",
+gmtTime: "2025-10-29T20:05:00Z", url: "go:bn3x"},
+
+{team1: "نادي باريس",team2: "ليون",
+gmtTime: "2025-10-29T20:05:00Z", url: "go:bn4"},
+
+{team1: "لوهافر",team2: "بريست",
+gmtTime: "2025-10-29T18:00:00Z", url: "go:bn2x"},
+
+{team1: "تولوز",team2: "رين",
+gmtTime: "2025-10-29T20:05:00Z", url: "go:bn4x"},
+
+{team1: "ميتز",team2: "لانس",
+gmtTime: "2025-10-29T18:00:00Z", url: "go:bn4"},
+
+{team1: "نيس",team2: "ليل",
+gmtTime: "2025-10-29T18:00:00Z", url: "go:bn2x"},
+
+//الدوري الفرنسي الجولة 11 
+
+{team1: "باريس",team2: "نيس",
+gmtTime: "2025-11-01T16:00:00Z", url: "go:bn2"},
+
+{team1: "تولوز",team2: "لوهافر",
+gmtTime: "2025-11-02T16:15:00Z", url: "go:bn7"},
+
+{team1: "ليل",team2: "أنجيه",
+gmtTime: "2025-11-02T16:15:00Z", url: "go:bn4"},
+
+{team1: "رين",team2: "ستراسبورج",
+gmtTime: "2025-11-02T14:00:00Z", url: "go:bn2"},
+
+{team1: "لانس",team2: "لوريان",
+gmtTime: "2025-11-02T16:15:00Z", url: "go:bn5"},
+
+{team1: "بريست",team2: "ليون",
+gmtTime: "2025-11-02T19:45:00Z", url: "go:bn4"},
+
+{team1: "نانت",team2: "ميتز",
+gmtTime: "2025-11-02T16:15:00Z", url: "go:bn6"},
+
+{team1: "موناكو",team2: "نادي باريس",
+gmtTime: "2025-11-01T18:00:00Z", url: "go:bn4"},
+
+{team1: "أوكسير",team2: "مارسيليا",
+gmtTime: "2025-11-01T20:05:00Z", url: "go:bn3"},
+
+//الدوري الفرنسي الجولة 12 
+
+{team1: "مارسيليا",team2: "بريست",
+gmtTime: "2025-11-08T16:00:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "باريس", 
+gmtTime: "2025-11-09T19:45:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "نيس",
+gmtTime: "2025-11-09T16:15:00Z", url: "go:bn"},
+
+{team1: "أنجيه",team2: "أوكسير",
+gmtTime: "2025-11-09T16:15:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "نانت",
+gmtTime: "2025-11-08T18:00:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "رين",
+gmtTime: "2025-11-07T19:45:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "تولوز",
+gmtTime: "2025-11-09T14:00:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "لانس",
+gmtTime: "2025-11-08T20:05:00Z", url: "go:bn"},
+
+{team1: "ستراسبورج",team2: "ليل",
+gmtTime: "2025-11-09T16:15:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 13 
+
+{team1: "أوكسير",team2: "ليون",
+gmtTime: "2025-11-23T14:00:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "ميتز",
+gmtTime: "2025-11-23T16:15:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "ستراسبورج",
+gmtTime: "2025-11-22T16:00:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "نادي باريس",
+gmtTime: "2025-11-23T19:45:00Z", url: "go:bn"},
+
+{team1: "نانت",team2: "لوريان",
+gmtTime: "2025-11-23T16:15:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "مارسيليا",
+gmtTime: "2025-11-21T19:45:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "لوهافر",
+gmtTime: "2025-11-22T20:05:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "موناكو",
+gmtTime: "2025-11-22T18:00:00Z", url: "go:bn"},
+
+{team1: "تولوز",team2: "أنجيه",
+gmtTime: "2025-11-23T16:15:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 14
+
+{team1: "أنجيه",team2: "لانس",
+gmtTime: "2025-11-30T16:15:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "باريس",
+gmtTime: "2025-11-29T16:00:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "ليل",
+gmtTime: "2025-11-30T16:16:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "نيس",
+gmtTime: "2025-11-30T16:15:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "رين",
+gmtTime: "2025-11-28T19:45:00Z", url: "go:bn"},
+
+{team1: "مارسيليا",team2: "تولوز",
+gmtTime: "2025-11-29T20:05:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "نانت",
+gmtTime: "2025-11-30T19:45:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "أوكسير",
+gmtTime: "2025-11-29T18:00:00Z", url: "go:bn"},
+
+{team1: "ستراسبورج",team2: "بريست",
+gmtTime: "2025-11-30T14:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 15
+
+{team1: "أوكسير",team2: "ميتز",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "نادي باريس",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "مارسيليا",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "ليون",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "نانت",team2: "لانس",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "أنجيه",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "رين",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "موناكو",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+{team1: "تولوز",team2: "ستراسبورج",
+gmtTime: "2025-12-07T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 16
+
+{team1: "أنجيه",team2: "نانت",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "أوكسير",team2: "ليل",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "باريس",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "مارسيليا",team2: "موناكو",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "لوهافر",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "تولوز",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "نيس",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "ستراسبورج",team2: "لوريان",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "بريست",
+gmtTime: "2025-12-14T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 17
+
+{team1: "موناكو",team2: "ليون",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "أنجيه",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "رين",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "ميتز",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "ستراسبورج",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "مارسيليا",team2: "نانت",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "نادي باريس",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "أوكسير",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+{team1: "تولوز",team2: "لانس",
+gmtTime: "2026-01-04T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 18
+
+{team1: "أنجيه",team2: "مارسيليا",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "لوريان",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "نانت",team2: "نادي باريس",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "بريست",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "ليل",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "أوكسير",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "ستراسبورج",team2: "ميتز",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "لوهافر",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+{team1: "تولوز",team2: "نيس",
+gmtTime: "2026-01-18T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 19
+
+{team1: "أوكسير",team2: "باريس",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "موناكو",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "ستراسبورج",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "ليون",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "نانت",team2: "نيس",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "مارسيليا",team2: "لانس",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "أنجيه",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "تولوز",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "لوريان",
+gmtTime: "2026-01-25T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 20
+
+{team1: "أنجيه",team2: "ميتز",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "موناكو",team2: "رين",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "نانت",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "بريست",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "ليل",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "نادي باريس",team2: "مارسيليا",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "لوهافر",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "ستراسبورج",team2: "باريس",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+{team1: "تولوز",team2: "أوكسير",
+gmtTime: "2026-02-01T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 21
+
+{team1: "أنجيه",team2: "تولوز",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "أوكسير",team2: "نادي باريس",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "ستراسبورج",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "ليل",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "نانت",team2: "ليون",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "نيس",team2: "موناكو",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "مارسيليا",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "لانس",team2: "رين",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+{team1: "بريست",team2: "لوريان",
+gmtTime: "2026-02-08T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 22
+
+{team1: "موناكو",team2: "نانت",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "لوهافر",team2: "تولوز",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "ليل",team2: "بريست",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "لوريان",team2: "أنجيه",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "ميتز",team2: "أوكسير",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "مارسيليا",team2: "ستراسبورج",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "ليون",team2: "نيس",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "باريس",team2: "لانس",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+{team1: "رين",team2: "باريس",
+gmtTime: "2026-02-15T15:00:00Z", url: "go:bn"},
+
+//الدوري الفرنسي الجولة 23
+
+//الدوري الفرنسي الجولة 24
+
+//الدوري الفرنسي الجولة 25
+
+//الدوري الفرنسي الجولة 26
+
+//الدوري الفرنسي الجولة 27
+
+//الدوري الفرنسي الجولة 28
+
+//الدوري الفرنسي الجولة 29
+
+//الدوري الفرنسي الجولة 30
+
+//الدوري الفرنسي الجولة 31
+
+//الدوري الفرنسي الجولة 32
+
+//الدوري الفرنسي الجولة 33
+
+//الدوري الفرنسي الجولة 34
+
+    ]
+  },
+  "الدوري الألماني": {
+    logo: "https://prod-media.beinsports.com/image/6by3h89i2eykc341oz7lv1ddd.png?ver=03-06-2025",
+    matches: [
+        
+//الدوري الألماني الجولة 1 
+
+{team1: "بايرن ميونخ",team2: "لايبزيج",
+gmtTime: "2025-08-22T18:30:00Z",  url: "go:mbc1"},
+
+{team1: "باير ليفركوزن",team2: "هوفنهايم",
+gmtTime: "2025-08-23T13:30:00Z",  url: "go:s"},
+
+{team1: "فرانكفورت",team2: "فيردر بريمن",
+gmtTime: "2025-08-23T13:30:00Z",  url: "go:s"},
+
+{team1: "فرايبورج",team2: "أوجسبورج",
+gmtTime: "2025-08-23T13:30:00Z",  url: "go:s"},
+
+{team1: "ماينتس",team2: "كولن",
+gmtTime: "2025-08-24T13:30:00Z",  url: "go:s"},
+
+{team1: "مونشنغلادباخ",team2: "هامبورج",
+gmtTime: "2025-08-24T15:30:00Z", url: "go:mbc2eg"},
+
+{team1: "يونيون برلين",team2: "شتوتجارت",
+gmtTime: "2025-08-23T13:30:00Z",  url: "go:s"},
+
+{team1: "سانت باولي",team2: "دورتموند",
+gmtTime: "2025-08-23T16:30:00Z",  url: "go:mbc.ir"},
+
+{team1: "هايدنهايم",team2: "فولفسبورج",
+gmtTime: "2025-08-23T13:30:00Z",  url: "go:s"},
+
+//الدوري الألماني الجولة 2 
+
+{team1: "دورتموند",team2: "يونيون برلين",
+gmtTime: "2025-08-31T15:30:00Z", url: "go:mbca"},
+
+{team1: "لايبزيج",team2: "هايدنهايم",
+gmtTime: "2025-08-30T13:30:00Z", url: "go:s"},
+
+{team1: "فيردر بريمن",team2: "باير ليفركوزن",
+gmtTime: "2025-08-30T13:30:00Z", url: "go:s"},
+
+{team1: "شتوتجارت",team2: "مونشنغلادباخ",
+gmtTime: "2025-08-30T13:30:00Z", url: "go:s"},
+
+{team1: "فولفسبورج",team2: "ماينتس",
+gmtTime: "2025-08-31T13:30:00Z", url: "go:s"},
+
+{team1: "أوجسبورج",team2: "بايرن ميونخ",
+gmtTime: "2025-08-30T16:30:00Z", url: "go:mbca"},
+
+{team1: "هوفنهايم",team2: "فرانكفورت",
+gmtTime: "2025-08-30T13:30:00Z", url: "go:s"},
+
+{team1: "كولن",team2: "فرايبورج",
+gmtTime: "2025-08-31T17:30:00Z", url: "go:s"},
+
+{team1: "هامبورج",team2: "سانت باولي",
+gmtTime: "2025-08-29T18:30:00Z", url: "go:mbca"},
+
+//الدوري الألماني الجولة 3
+
+{team1: "باير ليفركوزن", team2: "فرانكفورت",
+gmtTime: "2025-09-12T18:30:00Z", url: "go:mbca"},
+
+{team1: "هايدنهايم",  team2: "دورتموند",
+gmtTime: "2025-09-13T13:30:00Z", url: "go:b1"},
+
+{team1: "بايرن ميونخ",  team2: "هامبورج",
+gmtTime: "2025-09-13T16:30:00Z", url: "go:mbca"},
+
+//الدوري الألماني الجولة 4
+
+{team1: "شتوتجارت", team2: "سانت باولي",
+gmtTime: "2025-09-19T18:30:00Z", url: "go:mbca"},
+
+{team1: "هوفنهايم", team2: "بايرن ميونخ",
+gmtTime: "2025-09-20T13:30:00Z", url: "go:mbca"},
+
+{team1: "فرانكفورت", team2: "يونيون برلين",
+gmtTime: "2025-09-21T13:30:00Z", url: "go:b1"},
+
+{team1: "باير ليفركوزن", team2: "مونشنغلادباخ",
+gmtTime: "2025-09-21T15:30:00Z", url: "go:b1"},
+
+{team1: "دورتموند", team2: "فولفسبورج",
+gmtTime: "2025-09-21T17:30:00Z", url: "go:mbca"},
+
+//الدوري الألماني الجولة 5
+
+{team1: "بايرن ميونخ", team2: "فيردر بريمن",
+gmtTime: "2025-09-26T18:30:00Z", url: "go:mbca"},
+
+{team1: "ماينتس", team2: "دورتموند",
+gmtTime: "2025-09-27T13:30:00Z", url: "go:b1"},
+
+{team1: "سانت باولي", team2: "باير ليفركوزن",
+gmtTime: "2025-09-27T13:30:00Z", url: "go:b2"},
+
+{team1: "فولفسبورج", team2: "لايبزيج",
+gmtTime: "2025-09-27T13:30:00Z", url: "go:b3"},
+
+{team1: "هايدنهايم", team2: "أوجسبورج",
+gmtTime: "2025-09-27T13:30:00Z", url: "go:b4"},
+
+{team1: "مونشنغلادباخ", team2: "فرانكفورت",
+gmtTime: "2025-09-27T16:30:00Z", url: "go:mbca"},
+
+{team1: "فرايبورج", team2: "هوفنهايم",
+gmtTime: "2025-09-28T13:30:00Z", url: "go:b1"},
+
+{team1: "كولن", team2: "شتوتجارت",
+gmtTime: "2025-09-28T15:30:00Z", url: "go:mbca"},
+
+{team1: "يونيون برلين", team2: "هامبورج",
+gmtTime: "2025-09-28T17:30:00Z", url: "go:b1"},
+
+//الدوري الألماني الجولة 6
+
+{team1: "هوفنهايم", team2: "كولن",
+gmtTime: "2025-10-03T18:30:00Z", url: "go:mbca"},
+
+{team1: "دورتموند", team2: "لايبزيج",
+gmtTime: "2025-10-04T13:30:00Z", url: "go:b1"},
+
+{team1: "باير ليفركوزن", team2: "يونيون برلين",
+gmtTime: "2025-10-04T13:30:00Z", url: "go:b2"},
+
+{team1: "أوجسبورج", team2: "فولفسبورج",
+gmtTime: "2025-10-04T13:30:00Z", url: "go:b4"},
+
+{team1: "فيردر بريمن", team2: "سانت باولي",
+gmtTime: "2025-10-04T13:30:00Z", url: "go:b3"},
+
+{team1: "فرانكفورت", team2: "بايرن ميونخ",
+gmtTime: "2025-10-04T16:30:00Z", url: "go:mbca"},
+
+{team1: "شتوتجارت", team2: "هايدنهايم",
+gmtTime: "2025-10-05T13:30:00Z", url: "go:b1"},
+
+{team1: "هامبورج", team2: "ماينتس",
+gmtTime: "2025-10-05T15:30:00Z", url: "go:b1"},
+
+{team1: "مونشنغلادباخ", team2: "فرايبورج",
+gmtTime: "2025-10-05T17:30:00Z", url: "go:b1"},
+
+//الدوري الألماني الجولة 7
+
+{team1: "يونيون برلين", team2: "مونشنغلادباخ",
+gmtTime: "2025-10-17T18:30:00Z", url: "go:mbca"},
+
+{team1: "فولفسبورج", team2: "شتوتجارت",
+gmtTime: "2025-10-18T13:30:00Z", url: "go:sh2"},
+
+{team1: "ماينتس", team2: "باير ليفركوزن",
+gmtTime: "2025-10-18T13:30:00Z", url: "go:sh6"},
+
+{team1: "لايبزيج", team2: "هامبورج",
+gmtTime: "2025-10-18T13:30:00Z", url: "go:sh5"},
+
+{team1: "كولن", team2: "أوجسبورج",
+gmtTime: "2025-10-18T13:30:00Z", url: "go:sh4"},
+
+{team1: "هايدنهايم", team2: "فيردر بريمن",
+gmtTime: "2025-10-18T13:30:00Z", url: "go:sh3"},
+
+{team1: "بايرن ميونخ", team2: "دورتموند",
+gmtTime: "2025-10-18T16:30:00Z", url: "go:sh1"},
+
+{team1: "فرايبورج", team2: "فرانكفورت",
+gmtTime: "2025-10-19T13:30:00Z", url: "go:s1"},
+
+{team1: "سانت باولي", team2: "هوفنهايم",
+gmtTime: "2025-10-19T15:30:00Z", url: "go:s1"},
+
+//الدوري الألماني الجولة 8
+
+{team1: "فيردر بريمن", team2: "يونيون برلين",
+gmtTime: "2025-10-24T18:30:00Z", url: "go:mbca"},
+
+//الدوري الألماني الجولة 9
+
+{team1: "أوجسبورج", team2: "دورتموند",
+gmtTime: "2025-10-31T19:30:00Z", url: "go:sh2"},
+
+{team1: "هايدنهايم", team2: "فرانكفورت",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:sky3"},
+
+{team1: "ماينتس", team2: "فيردر بريمن",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:sky4"},
+
+{team1: "لايبزيج", team2: "شتوتجارت",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:sky1"},
+
+{team1: "سانت باولي", team2: "مونشنغلادباخ",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:sky2"},
+
+{team1: "يونيون برلين", team2: "فرايبورج",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:sky5"},
+
+{team1: "بايرن ميونخ", team2: "باير ليفركوزن",
+gmtTime: "2025-11-01T17:30:00Z", url: "go:sh2"},
+
+{team1: "كولن", team2: "هامبورج",
+gmtTime: "2025-11-02T14:30:00Z", url: "go:sky"},
+
+{team1: "فولفسبورج", team2: "هوفنهايم",
+gmtTime: "2025-11-02T16:30:00Z", url: "go:sky"},
+
+//الدوري الألماني الجولة 10
+
+//الدوري الألماني الجولة 11
+
+//الدوري الألماني الجولة 12
+
+//الدوري الألماني الجولة 13
+
+//الدوري الألماني الجولة 14
+
+//الدوري الألماني الجولة 15
+
+//الدوري الألماني الجولة 16
+
+//الدوري الألماني الجولة 17
+
+//الدوري الألماني الجولة 18
+
+//الدوري الألماني الجولة 19
+
+//الدوري الألماني الجولة 20
+
+//الدوري الألماني الجولة 21
+
+//الدوري الألماني الجولة 22
+
+//الدوري الألماني الجولة 23
+
+//الدوري الألماني الجولة 24
+ 
+//الدوري الألماني الجولة 25
+
+//الدوري الألماني الجولة 26
+
+//الدوري الألماني الجولة 27
+
+//الدوري الألماني الجولة 28
+
+//الدوري الألماني الجولة 29
+
+//الدوري الألماني الجولة 30
+
+//الدوري الألماني الجولة 31
+
+//الدوري الألماني الجولة 32
+
+//الدوري الألماني الجولة 33
+
+//الدوري الألماني الجولة 34
+
+    ]
+  
+ },
+  "الدوري البرتغالي": {
+    logo: "https://imgs.ysscores.com/championship/150/7301690383928.png",
+    matches: [
+
+{team1: "فوتبول", team2: "بنفيكا",
+gmtTime: "2025-09-20T17:00:00Z", url: "go:kw1"},
+
+{team1: "بنفيكا", team2: "فيسينتي",
+gmtTime: "2025-09-26T19:15:00Z", url: "go:kw1"},
+
+{team1: "أروكا", team2: "بورتو",
+gmtTime: "2025-09-29T19:00:00Z", url: "go:kw1"},
+
+{team1: "لشبونة", team2: "براغا",
+gmtTime: "2025-10-05T18:15:00Z", url: "go:kw1"},
+
+{team1: "بورتو", team2: "بنفيكا",
+gmtTime: "2025-10-05T20:15:00Z", url: "go:kw1"},
+
+{team1: "لشبونة", team2: "ألفيركا",
+gmtTime: "2025-10-31T20:15:00Z", url: "go:kw2"},
+
+{team1: "غيماريش", team2: "بنفيكا",
+gmtTime: "2025-11-01T20:30:00Z", url: "go:kw2"},
+
+{team1: "بورتو", team2: "براغا",
+gmtTime: "2025-11-02T20:30:00Z", url: "go:kw1"},
+
+
+  ]
+},
+  "الدوري البرازيلي": {
+    logo: "https://imgs.ysscores.com/championship/150/1611696522405.png",
+    matches: [
+
+{team1: "فاسكو", team2: "كروزيرو",
+gmtTime: "2025-09-27T21:30:00Z", url: "go:ds1"},
+
+{team1: "فلومنينسي", team2: "بوتافوغو",
+gmtTime: "2025-09-28T19:00:00Z", url: "go:ds"},
+
+{team1: "باهيا", team2: "بالميراس",
+gmtTime: "2025-09-28T19:00:00Z", url: "go:ds"},
+
+{team1: "ساو باولو", team2: "بالميراس",
+gmtTime: "2025-10-05T19:00:00Z", url: "go:ds1"},
+
+{team1: "باهيا", team2: "فلامنجو",
+gmtTime: "2025-10-05T21:30:00Z", url: "go:ds1"},
+
+{team1: "بالميراس", team2: "براغانتينو",
+gmtTime: "2025-10-15T22:00:00Z", url: "go:ds2"},
+
+{team1: "بوتافوغو", team2: "فلامنجو",
+gmtTime: "2025-10-15T22:30:00Z", url: "go:ds1"},
+
+{team1: "بوتافوغو", team2: "سانتوس",
+gmtTime: "2025-10-26T19:00:00Z", url: "go:ds1"},
+
+{team1: "ميراسول", team2: "بوتافوغو",
+gmtTime: "2025-11-01T21:00:00Z", url: "go:ds2"},
+
+{team1: "سيارا", team2: "فلومنينسي",
+gmtTime: "2025-11-02T19:00:00Z", url: "go:ds1"},
+
+{team1: "يوفينتود", team2: "بالميراس",
+gmtTime: "2025-11-02T21:30:00Z", url: "go:ds1"},
+
+{team1: "فاسكو", team2: "ساو باولو",
+gmtTime: "2025-11-02T23:30:00Z", url: "go:sp1br"},
+
+{team1: "فلومينينسي", team2: "ميراسول",
+gmtTime: "2025-11-06T22:30:00Z", url: "go:ds1"},
+
+    ]
+  
+ },
+  "الدوري الهولندي": {
+    logo: "https://imgs.ysscores.com/championship/150/4431690992915.png",
+    matches: [
+        
+//الدوري الهولندي الجولة 1,
+
+{team1: "فورتونا",team2: "جو أهيد",
+gmtTime: "2025-08-08T18:00:00Z", url: "go:ds1"},
+
+{team1: "نيميخن",team2: "إكسيلسيور",
+gmtTime: "2025-08-09T14:30:00Z", url: "go:ds2"},
+
+{team1: "فاينورد",team2: "ناك بريدا",
+gmtTime: "2025-08-09T16:45:00Z", url: "go:ds1"},
+
+{team1: "هيرينفين",team2: "فولندام",
+gmtTime: "2025-08-09T18:00:00Z", url: "go:ds2"},
+
+{team1: "آيندهوفن",team2: "سبارتا",
+gmtTime: "2025-08-09T19:00:00Z", url: "go:ds1"},
+
+{team1: "زفوله",team2: "تفينتي",
+gmtTime: "2025-08-10T10:15:00Z", url: "go:ds1"},
+
+{team1: "أياكس",team2: "تلستار",
+gmtTime: "2025-08-10T12:30:00Z", url: "go:ds1"},
+
+{team1: "آلكمار",team2: "غرونينغن",
+gmtTime: "2025-08-10T12:30:00Z", url: "go:ds2"},
+
+{team1: "أوترخت",team2: "هيراكليس",
+gmtTime: "2025-08-10T14:45:00Z", url: "go:ds1"},
+
+//الدوري الهولندي الجولة 2
+
+{team1: "تلستار",team2: "زفوله",
+gmtTime: "2025-08-15T18:00:00Z", url: "go:ds1"},
+
+{team1: "إكسيلسيور",team2: "فاينورد",
+gmtTime: "2025-08-16T16:45:00Z", url: "go:ds3"},
+
+{team1: "هيراكليس",team2: "نيميخن",
+gmtTime: "2025-08-16T18:00:00Z", url: "go:ds1"},
+
+{team1: "غرونينغن",team2: "هيرينفين",
+gmtTime: "2025-08-16T19:00:00Z", url: "go:ds1"},
+
+{team1: "جو أهيد",team2: "أياكس",
+gmtTime: "2025-08-17T10:15:00Z", url: "go:ds1"},
+
+{team1: "سبارتا",team2: "أوترخت",
+gmtTime: "2025-08-17T12:30:00Z", url: "go:ds1"},
+
+{team1: "تفينتي",team2: "آيندهوفن",
+gmtTime: "2025-08-17T12:30:00Z", url: "go:ds3"},
+
+{team1: "فولندام",team2: "آلكمار",
+gmtTime: "2025-08-17T14:45:00Z", url: "go:ds2"},
+
+{team1: "ناك بريدا",team2: "فورتونا",
+gmtTime: "2025-08-17T18:00:00Z", url: "go:ds1"},
+
+//الدوري الهولندي الجولة 3
+
+{team1: "جو أهيد",team2: "سبارتا",
+gmtTime: "2025-08-23T14:30:00Z", url: "go:ds1"},
+
+{team1: "آيندهوفن",team2: "غرونينغن",
+gmtTime: "2025-08-23T16:45:00Z", url: "go:ds2"},
+
+{team1: "تلستار",team2: "فولندام",
+gmtTime: "2025-08-23T19:00:00Z", url: "go:ds1"},
+
+{team1: "هيرينفين",team2: "تفينتي",
+gmtTime: "2025-08-24T10:15:00Z", url: "go:ds1"},
+
+{team1: "نيميخن",team2: "ناك بريدا",
+gmtTime: "2025-08-24T12:30:00Z", url: "go:ds1"},
+
+{team1: "أوترخت",team2: "إكسيلسيور",
+gmtTime: "2025-08-24T12:30:00Z", url: "go:ds1"},
+
+{team1: "أياكس",team2: "هيراكليس",
+gmtTime: "2025-08-24T14:45:00Z", url: "go:ds2"},
+
+{team1: "فاينورد",team2: "فورتونا",
+gmtTime: "2025-09-17T18:00:00Z", url: "go:ds1"},
+
+{team1: "آلكمار",team2: "زفوله",
+gmtTime: "2025-09-24T18:00:00Z", url: "go:ds1"},
+
+//الدوري الهولندي الجولة 4
+
+{team1: "غرونينغن",team2: "هيراكليس",
+gmtTime: "2025-08-29T18:00:00Z", url: "go:ds1"},
+
+{team1: "فولندام",team2: "أياكس",
+gmtTime: "2025-08-30T14:30:00Z", url: "go:ds2"},
+
+{team1: "هيرينفين",team2: "جو أهيد",
+gmtTime: "2025-08-30T16:45:00Z", url: "go:ds1"},
+
+{team1: "آيندهوفن",team2: "تلستار",
+gmtTime: "2025-08-30T18:00:00Z", url: "go:ds3"},
+
+{team1: "إكسيلسيور",team2: "تفينتي",
+gmtTime: "2025-08-30T19:00:00Z", url: "go:ds1"},
+
+{team1: "فورتونا",team2: "نيميخن",
+gmtTime: "2025-08-31T10:15:00Z", url: "go:ds1"},
+
+{team1: "سبارتا",team2: "فاينورد",
+gmtTime: "2025-08-31T12:30:00Z", url: "go:ds2"},
+
+{team1: "زفوله",team2: "أوترخت",
+gmtTime: "2025-08-31T12:30:00Z", url: "go:ds1"},
+
+{team1: "ناك بريدا",team2: "آلكمار",
+gmtTime: "2025-08-31T14:45:00Z", url: "go:ds2"},
+
+//الدوري الهولندي الجولة 5
+
+{team1: "أياكس",  team2: "زفوله",
+gmtTime: "2025-09-13T14:30:00Z", url: "go:ds"},
+
+{team1: "نيميخن",  team2: "آيندهوفن",
+gmtTime: "2025-09-13T16:45:00Z", url: "go:ds"},
+
+{team1: "فاينورد",  team2: "هيرينفين",
+gmtTime: "2025-09-13T19:00:00Z", url: "go:ds"},
+
+//الدوري الهولندي الجولة 6
+
+{team1: "سبارتا", team2: "تفينتي",
+gmtTime: "2025-09-19T18:00:00Z", url: "go:ds2"},
+
+{team1: "فورتونا", team2: "أوترخت",
+gmtTime: "2025-09-20T19:00:00Z", url: "go:ds1"},
+
+{team1: "آيندهوفن", team2: "أياكس",
+gmtTime: "2025-09-21T12:30:00Z", url: "go:ds2"},
+
+{team1: "آلكمار", team2: "فاينورد",
+gmtTime: "2025-09-21T14:45:00Z", url: "go:ds2"},
+
+//الدوري الهولندي الجولة 7
+
+{team1: "أياكس", team2: "ناك بريدا",
+gmtTime: "2025-09-27T14:30:00Z", url: "go:ds"},
+
+{team1: "إكسيلسيور", team2: "آيندهوفن",
+gmtTime: "2025-09-27T18:00:00Z", url: "go:ds"},
+
+{team1: "نيميخن", team2: "آلكمار",
+gmtTime: "2025-09-28T10:15:00Z", url: "go:ds1"},
+
+{team1: "غرونينغن", team2: "فاينورد",
+gmtTime: "2025-09-28T12:30:00Z", url: "go:ds1"},
+
+//الدوري الهولندي الجولة 8
+
+{team1: "سبارتا", team2: "أياكس",
+gmtTime: "2025-10-03T14:30:00Z", url: "go:ds1"},
+
+{team1: "زفوله", team2: "آيندهوفن",
+gmtTime: "2025-10-03T18:00:00Z", url: "go:ds1"},
+
+{team1: "فاينورد", team2: "أوترخت",
+gmtTime: "2025-10-05T12:30:00Z", url: "go:ds1"},
+
+{team1: "آلكمار", team2: "تلستار",
+gmtTime: "2025-10-05T14:45:00Z", url: "go:ds1"},
+
+//الدوري الهولندي الجولة 9
+ 
+{team1: "آيندهوفن", team2: "جو أهيد",
+gmtTime: "2025-10-18T16:45:00Z", url: "go:ds2"},
+
+{team1: "أياكس", team2: "آلكمار",
+gmtTime: "2025-10-18T19:00:00Z", url: "go:ds1"},
+
+{team1: "هيراكليس", team2: "فاينورد",
+gmtTime: "2025-10-19T14:45:00Z", url: "go:ds"},
+
+//الدوري الهولندي الجولة 11
+ 
+{team1: "آيندهوفن", team2: "فورتونا",
+gmtTime: "2025-10-31T19:00:00Z", url: "go:ds2"},
+
+{team1: "أياكس", team2: "هيرينفين",
+gmtTime: "2025-11-01T15:30:00Z", url: "go:ds"},
+
+{team1: "فاينورد", team2: "فولندام",
+gmtTime: "2025-11-01T19:00:00Z", url: "go:ds"},
+
+{team1: "سبارتا", team2: "آلكمار",
+gmtTime: "2025-11-02T13:30:00Z", url: "go:ds1"},
+
+
+   ]
+  },
+  "الدوري الإيطالي": {
+    logo: "https://imgs.ysscores.com/championship/150/6281692568873.png",
+    matches: [
+
+//الدوري الإيطالي الجولة 3
+
+{team1: "يوفنتوس",  team2: "إنتر ميلان",
+gmtTime: "2025-09-13T16:00:00Z", url: "go:ad1p"},
+
+{team1: "فيورنتينا",  team2: "نابولي",
+gmtTime: "2025-09-13T18:45:00Z", url: "go:ad1p"},
+
+{team1: "هيلاس", team2: "كريمونيسي",
+gmtTime: "2025-09-15T16:30:00Z", url: "go:ad1p"},
+
+{team1: "كومو", team2: "جنوى",
+gmtTime: "2025-09-15T18:45:00Z", url: "go:ad1p"},
+
+//الدوري الإيطالي الجولة 4
+
+{team1: "ليتشي", team2: "كالياري",
+gmtTime: "2025-09-19T18:45:00Z", url: "go:ad1p"},
+
+{team1: "بولونيا", team2: "جنوى",
+gmtTime: "2025-09-20T13:00:00Z", url: "go:ad1p"},
+
+{team1: "هيلاس", team2: "يوفنتوس",
+gmtTime: "2025-09-20T16:00:00Z", url: "go:ad1p"},
+
+{team1: "أودينيزي", team2: "ميلان",
+gmtTime: "2025-09-20T18:45:00Z", url: "go:ad1p"},
+
+{team1: "لاتسيو", team2: "روما",
+gmtTime: "2025-09-21T10:30:00Z", url: "go:ad1p"},
+
+{team1: "تورينو", team2: "أتالانتا",
+gmtTime: "2025-09-21T13:00:00Z", url: "go:ad2p"},
+
+{team1: "كريمونيسي", team2: "بارما",
+gmtTime: "2025-09-21T13:00:00Z", url: "go:ad1p"},
+
+{team1: "فيورنتينا", team2: "كومو",
+gmtTime: "2025-09-21T16:00:00Z", url: "go:ad2p"},
+
+{team1: "إنتر ميلان", team2: "ساسولو",
+gmtTime: "2025-09-21T18:45:00Z", url: "go:ad1p"},
+
+{team1: "نابولي", team2: "بيزا",
+gmtTime: "2025-09-22T18:45:00Z", url: "go:ad1p"},
+
+//الدوري الإيطالي الجولة 5
+
+{team1: "كومو", team2: "كريمونيسي",
+gmtTime: "2025-09-27T13:00:00Z", url: "go:ad1p"},
+
+{team1: "يوفنتوس", team2: "أتالانتا",
+gmtTime: "2025-09-27T16:00:00Z", url: "go:ad1p"},
+
+{team1: "كالياري", team2: "إنتر ميلان",
+gmtTime: "2025-09-27T18:45:00Z", url: "go:ad1p"},
+
+{team1: "ساسولو", team2: "أودينيزي",
+gmtTime: "2025-09-28T10:30:00Z", url: "go:ad1p"},
+
+{team1: "روما", team2: "هيلاس",
+gmtTime: "2025-09-28T13:00:00Z", url: "go:ad1p"},
+
+{team1: "بيزا", team2: "فيورنتينا",
+gmtTime: "2025-09-28T13:00:00Z", url: "go:ad2p"},
+
+{team1: "ليتشي", team2: "بولونيا",
+gmtTime: "2025-09-28T16:00:00Z", url: "go:ad1p"},
+
+{team1: "ميلان", team2: "نابولي",
+gmtTime: "2025-09-28T18:45:00Z", url: "go:ad1p"},
+
+{team1: "بارما", team2: "تورينو",
+gmtTime: "2025-09-29T16:30:00Z", url: "go:ad1p"},
+
+{team1: "جنوى", team2: "لاتسيو",
+gmtTime: "2025-09-29T18:45:00Z", url: "go:ad1p"},
+
+//الدوري  الإيطالي الجولة 6
+
+{team1: "هيلاس", team2: "ساسولو",
+gmtTime: "2025-10-03T18:45:00Z", url: "go:ad1p"},
+
+{team1: "لاتسيو", team2: "تورينو",
+gmtTime: "2025-10-04T13:00:00Z", url: "go:ad1p"},
+
+{team1: "بارما", team2: "ليتشي",
+gmtTime: "2025-10-04T13:00:00Z", url: "go:ad1p"},
+
+{team1: "إنتر ميلان", team2: "كريمونيسي",
+gmtTime: "2025-10-04T16:00:00Z", url: "go:ad1p"},
+
+{team1: "أتلانتا", team2: "كومو",
+gmtTime: "2025-10-04T18:45:00Z", url: "go:ad1p"},
+
+{team1: "أودينيزي", team2: "كالياري",
+gmtTime: "2025-10-05T10:30:00Z", url: "go:ad1p"},
+
+{team1: "بولونيا", team2: "بيزا",
+gmtTime: "2025-10-05T13:00:00Z", url: "go:ad1p"},
+
+{team1: "فيورنتينا", team2: "روما",
+gmtTime: "2025-10-05T13:00:00Z", url: "go:ad1p"},
+
+{team1: "نابولي", team2: "جنوى",
+gmtTime: "2025-10-05T16:00:00Z", url: "go:ad1p"},
+
+{team1: "يوفنتوس", team2: "ميلان",
+gmtTime: "2025-10-05T18:45:00Z", url: "go:ad1p"},
+
+//الدوري  الإيطالي الجولة 7
+
+{team1: "ليتشي", team2: "ساسولو",
+gmtTime: "2025-10-18T13:00:00Z", url: "go:ad1p"},
+
+{team1: "بيزا", team2: "هيلاس",
+gmtTime: "2025-10-18T13:00:00Z", url: "go:ad2p"},
+
+{team1: "تورينو", team2: "نابولي",
+gmtTime: "2025-10-18T16:00:00Z", url: "go:ad1p"},
+
+{team1: "روما", team2: "إنتر ميلان",
+gmtTime: "2025-10-18T18:45:00Z", url: "go:ad1p"},
+
+{team1: "كومو", team2: "يوفنتوس",
+gmtTime: "2025-10-19T10:30:00Z", url: "go:ad1p"},
+
+{team1: "كالياري", team2: "بولونيا",
+gmtTime: "2025-10-19T13:00:00Z", url: "go:ad1p"},
+
+{team1: "جنوى", team2: "بارما",
+gmtTime: "2025-10-19T13:00:00Z", url: "go:ad2p"},
+
+{team1: "أتلانتا", team2: "لاتسيو",
+gmtTime: "2025-10-19T16:00:00Z", url: "go:ad1p"},
+
+{team1: "ميلان", team2: "فيورنتينا",
+gmtTime: "2025-10-19T18:45:00Z", url: "go:ad1p"},
+
+{team1: "كريمونيسي", team2: "أودينيزي",
+gmtTime: "2025-10-20T18:45:00Z", url: "go:ad1p"},
+
+//الدوري الإيطالي الجولة 9
+
+{team1: "يوفنتوس", team2: "أودينيزي",
+gmtTime: "2025-10-29T17:30:00Z", url: "go:ad1p"},
+
+{team1: "كومو", team2: "هيلاس",
+gmtTime: "2025-10-29T17:30:00Z", url: "go:ad3p"},
+
+{team1: "روما", team2: "بارما",
+gmtTime: "2025-10-29T17:30:00Z", url: "go:ad2p"},
+
+{team1: "إنتر ميلان", team2: "فيورنتينا",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:ad1p"},
+
+{team1: "بولونيا", team2: "تورينو",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:ad2p"},
+
+{team1: "جنوى", team2: "كريمونيسي",
+gmtTime: "2025-10-29T19:45:00Z", url: "go:ad3p"},
+
+{team1: "كالياري", team2: "ساسولو",
+gmtTime: "2025-10-30T17:30:00Z", url: "go:ad1p"},
+
+{team1: "بيزا", team2: "لاتسيو",
+gmtTime: "2025-10-30T19:45:00Z", url: "go:ad1p"},
+
+//الدوري الإيطالي الجولة 10
+
+{team1: "أودينيزي", team2: "أتلانتا",
+gmtTime: "2025-11-01T14:00:00Z", url: "go:ad1p"},
+
+{team1: "نابولي", team2: "كومو",
+gmtTime: "2025-11-01T17:00:00Z", url: "go:ad1p"},
+
+{team1: "كريمونيسي", team2: "يوفنتوس",
+gmtTime: "2025-11-01T19:45:00Z", url: "go:ad1p"},
+
+{team1: "هيلاس", team2: "إنتر ميلان",
+gmtTime: "2025-11-02T11:30:00Z", url: "go:ad1p"},
+
+{team1: "فيورنتينا", team2: "ليتشي",
+gmtTime: "2025-11-02T14:00:00Z", url: "go:ad1p"},
+
+{team1: "تورينو", team2: "بيزا",
+gmtTime: "2025-11-02T14:00:00Z", url: "go:ad2p"},
+
+{team1: "بارما", team2: "بولونيا",
+gmtTime: "2025-11-02T17:00:00Z", url: "go:ad1p"},
+
+{team1: "ميلان", team2: "روما",
+gmtTime: "2025-11-02T19:45:00Z", url: "go:ad1p"},
+
+{team1: "ساسولو", team2: "جنوى",
+gmtTime: "2025-11-03T17:30:00Z", url: "go:ad1p"},
+
+{team1: "لاتسيو", team2: "كالياري",
+gmtTime: "2025-11-03T19:45:00Z", url: "go:ad1p"},
+
+  ]
+},
+  "الدوري الأرجنتيني": {
+    logo: "https://imgs.ysscores.com/championship/150/1201694222910.png",
+    matches: [
+
+{team1: "إستوديانتيس", team2: "بوكا جونيورز",
+gmtTime: "2025-11-02T19:00:00Z", url: "go:ds2"},
+
+
+
+    ]
+  },
+  "تصفيات كأس العالم أوروبا": {
+    logo: "https://imgs.ysscores.com/championship/150/2431734540365.png",
+    matches: [
+
+{team1: "كازاخستان", team2: "ويلز",
+gmtTime: "2025-09-04T14:00:00Z", url: "go:bn1"},
+
+{team1: "ليتوانيا", team2: "مالطا",
+gmtTime: "2025-09-04T16:00:00Z", url: "go:bn2"},
+
+{team1: "جورجيا", team2: "تركيا",
+gmtTime: "2025-09-04T16:00:00Z", url: "go:bn3"},
+
+{team1: "لوكسمبورج", team2: "أيرلندا ش",
+gmtTime: "2025-09-04T18:45:00Z", url: "go:bn4"},
+
+{team1: "بلغاريا", team2: "إسبانيا",
+gmtTime: "2025-09-04T18:45:00Z", url: "go:bn1"},
+
+{team1: "هولندا", team2: "بولندا",
+gmtTime: "2025-09-04T18:45:00Z", url: "go:bn2"},
+
+{team1: "سلوفاكيا", team2: "ألمانيا",
+gmtTime: "2025-09-04T18:45:00Z", url: "go:bn3"},
+
+{team1: "ليختنشتاين", team2: "بلجيكا",
+gmtTime: "2025-09-04T18:45:00Z", url: "go:bn5"},
+
+{team1: "أوكرانيا", team2: "فرنسا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn1"},
+
+{team1: "إيطاليا", team2: "إستونيا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn2"},
+
+{team1: "الدنمارك", team2: "إسكتلندا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn3"},
+
+{team1: "سويسرا", team2: "كوسوفو",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn4"},
+
+{team1: "جزر فارو", team2: "كرواتيا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn5"},
+
+{team1: "مونتينيغرو", team2: "تشيكيا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn6"},
+
+{team1: "أيسلندا", team2: "أذربيجان",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn8"},
+
+{team1: "سلوفينيا", team2: "السويد",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn9"},
+
+{team1: "اليونان", team2: "بيلاروسيا",
+gmtTime: "2025-09-05T18:45:00Z", url: "go:bn1x"},
+
+{team1: "لاتفيا", team2: "صربيا",
+gmtTime: "2025-09-06T13:00:00Z", url: "go:bn1"},
+
+{team1: "أرمينيا", team2: "البرتغال",
+gmtTime: "2025-09-06T16:00:00Z", url: "go:bn2"},
+
+{team1: "إنجلترا", team2: "أندورا",
+gmtTime: "2025-09-06T16:00:00Z", url: "go:bn1"},
+
+{team1: "النمسا", team2: "قبرص",
+gmtTime: "2025-09-06T18:45:00Z", url: "go:bn4"},
+
+{team1: "سان مارينو", team2: "البوسنة",
+gmtTime: "2025-09-06T18:45:00Z", url: "go:bn3"},
+
+{team1: "أيرلندا", team2: "المجر",
+gmtTime: "2025-09-06T18:45:00Z", url: "go:bn2"},
+
+{team1: "جورجيا", team2: "بلغاريا",
+gmtTime: "2025-09-07T13:00:00Z", url: "go:bn2"},
+
+{team1: "ليتوانيا", team2: "هولندا",
+gmtTime: "2025-09-07T16:00:00Z", url: "go:bn2"},
+
+{team1: "مقدونيا ش", team2: "ليختنشتاين",
+gmtTime: "2025-09-07T16:00:00Z", url: "go:bn3"},
+
+{team1: "لوكسمبورج", team2: "سلوفاكيا",
+gmtTime: "2025-09-07T18:45:00Z", url: "go:bn4"},
+
+{team1: "ألمانيا", team2: "أيرلندا ش",
+gmtTime: "2025-09-07T18:45:00Z", url: "go:bn2"},
+
+{team1: "بولندا", team2: "فنلندا",
+gmtTime: "2025-09-07T18:45:00Z", url: "go:bn3"},
+
+{team1: "تركيا", team2: "إسبانيا",
+gmtTime: "2025-09-07T18:45:00Z", url: "go:bn1"},
+
+{team1: "بلجيكا", team2: "كازاخستان",
+gmtTime: "2025-09-07T18:45:00Z", url: "go:bn5"},
+
+{team1: "كوسوفو", team2: "السويد",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn6"},
+
+{team1: "سويسرا", team2: "سلوفينيا",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn5"},
+
+{team1: "بيلاروسيا", team2: "إسكتلندا",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn3"},
+
+{team1: "اليونان", team2: "الدنمارك",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn4"},
+
+{team1: "جبل طارق", team2: "جزر فارو",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn7"},
+
+{team1: "كرواتيا", team2: "مونتينيغرو",
+gmtTime: "2025-09-08T18:45:00Z", url: "go:bn1"},
+
+{team1: "أذربيجان", team2: "أوكرانيا",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:bn2"},
+
+{team1: "أرمينيا", team2: "أيرلندا",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:bn3"},
+
+{team1: "البوسنة", team2: "النمسا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn6"},
+
+{team1: "قبرص", team2: "رومانيا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn5"},
+
+{team1: "فرنسا", team2: "أيسلندا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn1"},
+
+{team1: "المجر", team2: "البرتغال",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn3"},
+
+{team1: "لاتفيا", team2: "ألبانيا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn7"},
+
+{team1: "صربيا", team2: "إنجلترا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn2"},
+
+{team1: "النرويج", team2: "مولدوفا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn4"},
+
+{team1: "فنلندا", team2: "ليتوانيا",
+gmtTime: "2025-10-09T16:00:00Z", url: "go:bn1"},
+
+{team1: "مالطا", team2: "هولندا",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn6"},
+
+{team1: "النمسا", team2: "سان مارينو",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn8"},
+
+{team1: "قبرص", team2: "البوسنة",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn4"},
+
+{team1: "بيلاروسيا", team2: "الدنمارك",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn3"},
+
+{team1: "إسكتلندا", team2: "اليونان",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn2"},
+
+{team1: "تشيكيا", team2: "كرواتيا",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn1"},
+
+{team1: "جزر فارو", team2: "مونتينيغرو",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn5"},
+
+{team1: "كازاخستان", team2: "ليختنشتاين",
+gmtTime: "2025-10-10T14:00:00Z", url: "go:bn1"},
+
+{team1: "بلجيكا", team2: "مقدونيا ش",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn3"},
+
+{team1: "أيرلندا ش", team2: "سلوفاكيا",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn6"},
+
+{team1: "كوسوفو", team2: "سلوفينيا",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn7"},
+
+{team1: "ألمانيا", team2: "لوكسمبورج",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn2"},
+
+{team1: "السويد", team2: "سويسرا",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn4"},
+
+{team1: "أيسلندا", team2: "أوكرانيا",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn5"},
+
+{team1: "فرنسا", team2: "أذربيجان",
+gmtTime: "2025-10-10T18:45:00Z", url: "go:bn1"},
+
+{team1: "لاتفيا", team2: "أندورا",
+gmtTime: "2025-10-11T13:00:00Z", url: "go:bn1"},
+
+{team1: "المجر", team2: "أرمينيا",
+gmtTime: "2025-10-11T16:00:00Z", url: "go:bn2"},
+
+{team1: "بلغاريا", team2: "تركيا",
+gmtTime: "2025-10-11T18:45:00Z", url: "go:bn7"},
+
+{team1: "إسبانيا", team2: "جورجيا",
+gmtTime: "2025-10-11T18:45:00Z", url: "go:bn3"},
+
+{team1: "البرتغال", team2: "أيرلندا",
+gmtTime: "2025-10-11T18:45:00Z", url: "go:bn5"},
+
+{team1: "صربيا", team2: "ألبانيا",
+gmtTime: "2025-10-11T18:45:00Z", url: "go:bn6"},
+
+{team1: "إستونيا", team2: "إيطاليا",
+gmtTime: "2025-10-11T18:45:00Z", url: "go:bn4"},
+
+{team1: "سان مارينو", team2: "قبرص",
+gmtTime: "2025-10-12T13:00:00Z", url: "go:bn1"},
+
+{team1: "هولندا", team2: "فنلندا",
+gmtTime: "2025-10-12T16:00:00Z", url: "go:bn1"},
+
+{team1: "إسكتلندا", team2: "بيلاروسيا",
+gmtTime: "2025-10-12T16:00:00Z", url: "go:bn2"},
+
+{team1: "جزر فارو", team2: "تشيكيا",
+gmtTime: "2025-10-12T16:00:00Z", url: "go:bn3"},
+
+{team1: "ليتوانيا", team2: "بولندا",
+gmtTime: "2025-10-12T18:45:00Z", url: "go:bn3"},
+
+{team1: "رومانيا", team2: "النمسا",
+gmtTime: "2025-10-12T18:45:00Z", url: "go:bn4"},
+
+{team1: "الدنمارك", team2: "اليونان",
+gmtTime: "2025-10-12T18:45:00Z", url: "go:bn2"},
+
+{team1: "كرواتيا", team2: "جبل طارق",
+gmtTime: "2025-10-12T18:45:00Z", url: "go:bn1"},
+
+{team1: "أيرلندا ش", team2: "ألمانيا",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn1"},
+
+{team1: "سلوفاكيا", team2: "لوكسمبورج",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn5"},
+
+{team1: "سلوفينيا", team2: "سويسرا",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn6"},
+
+{team1: "السويد", team2: "كوسوفو",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn8"},
+
+{team1: "أيسلندا", team2: "فرنسا",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn2"},
+
+{team1: "أوكرانيا", team2: "أذربيجان",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn4"},
+
+{team1: "مقدونيا ش", team2: "كازاخستان",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn7"},
+
+{team1: "ويلز", team2: "بلجيكا",
+gmtTime: "2025-10-13T18:45:00Z", url: "go:bn3"},
+
+{team1: "إستونيا", team2: "مولدوفا",
+gmtTime: "2025-10-14T16:00:00Z", url: "go:bn3"},
+
+{team1: "تركيا", team2: "جورجيا",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn6"},
+
+{team1: "إسبانيا", team2: "بلغاريا",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn3"},
+
+{team1: "أيرلندا", team2: "أرمينيا",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn7"},
+
+{team1: "البرتغال", team2: "المجر",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn5"},
+
+{team1: "أندورا", team2: "صربيا",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn8"},
+
+{team1: "لاتفيا", team2: "إنجلترا",
+gmtTime: "2025-10-14T18:45:00Z", url: "go:bn4"},
+
+
+
+    ]
+  },
+  "تصفيات كأس العالم أمريكا ج": {
+    logo: "https://imgs.ysscores.com/championship/128/9341694176972.png",
+    matches: [
+
+//الجولة 17
+
+{team1: "باراجواي",team2: "الإكوادور",
+gmtTime: "2025-09-04T23:30:00Z", url: "go:ssc"},
+
+{team1: "الأرجنتين",team2: "فنزويلا",
+gmtTime: "2025-09-04T23:30:00Z", url: "go:ssc1"},
+
+{team1: "أوروغواي",team2: "بيرو",
+gmtTime: "2025-09-04T23:30:00Z", url: "go:ssc"},
+
+{team1: "كولومبيا",team2: "بوليفيا",
+gmtTime: "2025-09-04T23:30:00Z", url: "go:ssc3"},
+
+{team1: "البرازيل",team2: "تشيلي",
+gmtTime: "2025-09-05T00:30:00Z", url: "go:ssc2"},
+
+//الجولة 18
+
+{team1: "الإكوادور",team2: "الأرجنتين",
+gmtTime: "2025-09-09T23:00:00Z", url: "go:ssc1"},
+
+{team1: "تشيلي",team2: "أوروغواي",
+gmtTime: "2025-09-09T23:30:00Z", url: "go:ssc3"},
+
+{team1: "بوليفيا",team2: "البرازيل",
+gmtTime: "2025-09-09T23:30:00Z", url: "go:s1"},
+
+{team1: "فنزويلا",team2: "كولومبيا",
+gmtTime: "2025-09-09T23:30:00Z", url: "go:ssc2"},
+
+{team1: "بيرو",team2: "باراجواي",
+gmtTime: "2025-09-09T23:30:00Z", url: "go:ssc1x"},
+
+    ]
+ },
+
+  "تصفيات كأس العالم أفريقيا": {
+    logo: "https://imgs.ysscores.com/championship/128/2961696282665.png",
+    matches: [
+
+//تصفيات كأس العالم أفريقيا - الجولة 7
+
+{team1: "المغرب",team2: "النيجر",
+gmtTime: "2025-09-05T19:00:00Z", url: "go:s1"},
+
+{team1: "ساحل العاج",team2: "بوروندي",
+gmtTime: "2025-09-05T19:00:00Z", url: "go:ssc"},
+
+{team1: "سيشل",team2: "الغابون",
+gmtTime: "2025-09-03T13:00:00Z", url: "go:ssc"},
+
+{team1: "إريتريا", team2: "زامبيا",
+gmtTime: "2025-09-03T13:00:00Z", State: "C"},
+
+{team1: "كينيا",team2: "غامبيا",
+gmtTime: "2025-09-05T13:00:00Z", url: "go:ssc"},
+
+{team1: "ناميبيا",team2: "مالاوي",
+gmtTime: "2025-09-05T13:00:00Z", url: "go:ssc"},
+
+{team1: "تونس",team2: "ليبيريا",
+gmtTime: "2025-09-04T19:00:00Z", url: "go:ssc3"},
+
+{team1: "ساو تومي",team2: "غ الإستوائية",
+gmtTime: "2025-09-04T16:00:00Z", url: ""},
+
+{team1: "غينيا بيساو",team2: "سيراليون",
+gmtTime: "2025-09-04T16:00:00Z", url: ""},
+
+{team1: "جيبوتي",team2: "بوركينا فاسو",
+gmtTime: "2025-09-05T16:00:00Z", url: ""},
+
+{team1: "مصر",team2: "إثيوبيا",
+gmtTime: "2025-09-05T19:00:00Z", url: "go:s2"},
+
+{team1: "الجزائر",team2: "بوتسوانا",
+gmtTime: "2025-09-04T19:00:00Z", url: "go:ssc2"},
+
+{team1: "الصومال",team2: "غينيا",
+gmtTime: "2025-09-05T12:00:00Z", url: "go:ssc"},
+
+{team1: "أوغندا",team2: "موزمبيق",
+gmtTime: "2025-09-05T16:00:00Z", url: ""},
+
+{team1: "بنين",team2: "زيمبابوي",
+gmtTime: "2025-09-05T16:00:00Z", url: ""},
+
+{team1: "السنغال",team2: "السودان",
+gmtTime: "2025-09-05T19:00:00Z", url: "go:ssc3"},
+
+{team1: "ج السودان",team2: "الكونغو د",
+gmtTime: "2025-09-05T13:00:00Z", url: "go:ssc"},
+
+{team1: "الكاميرون",team2: "إسواتيني",
+gmtTime: "2025-09-04T19:00:00Z", url: ""},
+
+{team1: "موريشيوس",team2: "الرأس الأخضر",
+gmtTime: "2025-09-04T16:00:00Z", url: ""},
+
+{team1: "موريتانيا",team2: "توجو",
+gmtTime: "2025-09-05T19:00:00Z", url: "go:ssc1x"},
+
+{team1: "أنغولا",team2: "ليبيا",
+gmtTime: "2025-09-04T16:00:00Z", url: "go:ssc1x"},
+
+{team1: "نيجيريا",team2: "رواندا",
+gmtTime: "2025-09-06T16:00:00Z", url: "go:ssc"},
+
+{team1: "ليسوتو",team2: "ج أفريقيا",
+gmtTime: "2025-09-05T16:00:00Z", url: "go:ssc3"},
+
+{team1: "مدغشقر",team2: "أفريقيا و",
+gmtTime: "2025-09-04T16:00:00Z", url: ""},
+
+{team1: "تشاد",team2: "غانا",
+gmtTime: "2025-09-04T13:00:00Z", url: "go:s1"},
+
+{team1: "مالي",team2: "جزر القمر",
+gmtTime: "2025-09-04T19:00:00Z", url: "go:ssc1x"},
+
+{team1: "الكونغو",team2: "تنزانيا",
+gmtTime: "2025-09-05T16:00:00Z", url: "go:ssc1x"},
+
+//تصفيات كأس العالم أفريقيا - الجولة 8 
+
+{team1: "المغرب", team2: "زامبيا",
+gmtTime: "2025-09-08T13:00:00Z", url: "go:s1"},
+
+{team1: "تنزانيا",team2: "النيجر",
+gmtTime: "2025-09-09T13:00:00Z", url: ""},
+
+{team1: "الغابون",team2: "ساحل العاج",
+gmtTime: "2025-09-09T19:00:00Z", url: "go:ssc2"},
+
+{team1: "كينيا",team2: "سيشل",
+gmtTime: "2025-09-09T13:00:00Z", url: ""},
+
+{team1: "غامبيا",team2: "بوروندي",
+gmtTime: "2025-09-09T19:00:00Z", url: "go:ssc"},
+
+{team1: "ناميبيا",team2: "ساو تومي",
+gmtTime: "2025-09-09T13:00:00Z", url: "go:ssc2"},
+
+{team1: "غ الإستوائية",team2: "تونس",
+gmtTime: "2025-09-08T13:00:00Z", url: "go:ssc2"},
+
+{team1: "أوغندا",team2: "الصومال",
+gmtTime: "2025-09-08T16:00:00Z", url: "go:ssc1x"},
+
+{team1: "غينيا",team2: "الجزائر",
+gmtTime: "2025-09-08T16:00:00Z", url: "go:ssc1"},
+
+{team1: "موزمبيق",team2: "بوتسوانا",
+gmtTime: "2025-09-08T13:00:00Z", url: "go:ssc1x"},
+
+{team1: "بوركينا فاسو",team2: "مصر",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:s2"},
+
+{team1: "سيراليون",team2: "إثيوبيا",
+gmtTime: "2025-09-09T13:00:00Z", url: "go:ssc1"},
+
+{team1: "توجو",team2: "السودان",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:ssc2"},
+
+{team1: "موريتانيا",team2: "ج السودان",
+gmtTime: "2025-09-09T19:00:00Z", url: "go:ssc1x"},
+
+{team1: "الكونغو د",team2: "السنغال",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:ssc1x"},
+
+{team1: "ليبيا",team2: "إسواتيني",
+gmtTime: "2025-09-08T19:00:00Z", url: "go:ssc1x"},
+
+{team1: "أنغولا",team2: "موريشيوس",
+gmtTime: "2025-09-09T19:00:00Z", url: ""},
+
+{team1: "الرأس الأخضر",team2: "الكاميرون",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:ssc3"},
+
+{team1: "زيمبابوي",team2: "رواندا",
+gmtTime: "2025-09-09T13:00:00Z", url: "go:ssc1x"},
+
+{team1: "بنين",team2: "ليسوتو",
+gmtTime: "2025-09-09T19:00:00Z", url: ""},
+
+{team1: "ج أفريقيا",team2: "نيجيريا",
+gmtTime: "2025-09-09T16:00:00Z", url: "go:ssc"},
+
+{team1: "غانا",team2: "مالي",
+gmtTime: "2025-09-08T19:00:00Z", url: "go:ssc2"},
+
+{team1: "مدغشقر",team2: "تشاد",
+gmtTime: "2025-09-08T16:00:00Z", url: "go:th"},
+
+{team1: "أفريقيا و",team2: "جزر القمر",
+gmtTime: "2025-09-07T16:00:00Z", url: "go:ssc1"},
+
+{team1: "مالاوي",team2: "ليبيريا",
+gmtTime: "2025-09-08T16:00:00Z", url: ""},
+
+{team1: "غينيا بيساو",team2: "جيبوتي",
+gmtTime: "2025-09-08T16:00:00Z", url: ""},
+
+//تصفيات كأس العالم أفريقيا - الجولة 9
+
+{team1: "إثيوبيا", team2: "غينيا بيساو",
+gmtTime: "2025-10-08T13:00:00Z", url: "go:sh1"},
+
+{team1: "جيبوتي", team2: "مصر",
+gmtTime: "2025-10-08T16:00:00Z", url: "go:mbc2eg"},
+
+{team1: "سيراليون", team2: "بوركينا فاسو",
+gmtTime: "2025-10-08T16:00:00Z", url: "go:sh1"},
+
+{team1: "تشاد", team2: "مالي",
+gmtTime: "2025-10-08T16:00:00Z", url: "go:th"},
+
+{team1: "تنزانيا", team2: "زامبيا",
+gmtTime: "2025-10-08T19:00:00Z", url: "go:mbc5"},
+
+{team1: "النيجر", team2: "الكونغو",
+gmtTime: "2025-10-08T19:00:00Z", url: "go:sh1"},
+
+{team1: "الصومال", team2: "الجزائر",
+gmtTime: "2025-10-09T16:00:00Z", url: "go:dz6"},
+
+{team1: "سيشل", team2: "ساحل العاج",
+gmtTime: "2025-10-10T13:00:00Z", url: "go:sh1"},
+
+{team1: "السودان", team2: "موريتانيا",
+gmtTime: "2025-10-10T13:00:00Z", url: "go:s"},
+
+{team1: "ساو تومي", team2: "تونس",
+gmtTime: "2025-10-10T16:00:00Z", url: "go:mbc5"},
+
+//تصفيات كأس العالم أفريقيا - الجولة 10
+
+{team1: "زامبيا", team2: "النيجر",
+gmtTime: "2025-10-12T13:00:00Z", url: "go:mbc5"},
+
+{team1: "تشاد", team2: "أفريقيا و",
+gmtTime: "2025-10-12T16:00:00Z", url: "go:th"},
+
+{team1: "مصر", team2: "غينيا بيساو",
+gmtTime: "2025-10-12T19:00:00Z", url: "go:mbc2eg"},
+
+{team1: "غانا", team2: "جزر القمر",
+gmtTime: "2025-10-12T19:00:00Z", url: "go:es2"},
+
+{team1: "تونس", team2: "ناميبيا",
+gmtTime: "2025-10-13T13:00:00Z", url: "go:mbc5"},
+
+{team1: "موريشيوس", team2: "ليبيا",
+gmtTime: "2025-10-13T16:00:00Z", url: "go:ls2"},
+
+{team1: "الجزائر", team2: "أوغندا",
+gmtTime: "2025-10-14T16:00:00Z", url: "go:dz6"},
+
+{team1: "ج أفريقيا", team2: "رواندا",
+gmtTime: "2025-10-14T16:00:00Z", url: "go:es2"},
+
+{team1: "المغرب", team2: "الكونغو",
+gmtTime: "2025-10-14T19:00:00Z", url: "go:mbc5"},
+
+{team1: "السنغال", team2: "موريتانيا",
+gmtTime: "2025-10-14T19:00:00Z", url: "go:es4"},
+
+{team1: "ساحل العاج", team2: "كينيا",
+gmtTime: "2025-10-14T19:00:00Z", url: "go:es1"},
+
+{team1: "الكونغو د", team2: "السودان",
+gmtTime: "2025-10-14T19:00:00Z", url: "go:s"},
+
+]
+  },
+  "كأس أمم أفريقيا للمحليين": {
+    logo: "https://imgs.ysscores.com/championship/128/711751481114.png",
+    matches: [
+
+{team1: "تنزانيا", team2: "بوركينا فاسو",
+gmtTime: "2025-08-02T17:00:00Z", url: "go:bn6"},
+
+{team1: "كينيا", team2: "الكونغو د",
+gmtTime: "2025-08-03T12:00:00Z", url: "go:bn6"},
+
+{team1: "المغرب", team2: "أنغولا",
+gmtTime: "2025-08-03T15:00:00Z", url: "go:bn6"},
+
+{team1: "مدغشقر", team2: "موريتانيا",
+gmtTime: "2025-08-03T17:00:00Z", url: "go:bn6"},
+
+{team1: "النيجر", team2: "غينيا",
+gmtTime: "2025-08-04T14:00:00Z", url: "go:bn6"},
+
+{team1: "أوغندا", team2: "الجزائر",
+gmtTime: "2025-08-04T17:00:00Z", url: "go:bn6"},
+
+{team1: "الكونغو", team2: "السودان",
+gmtTime: "2025-08-05T14:00:00Z", url: "go:bn6"},
+
+{team1: "السنغال", team2: "نيجيريا",
+gmtTime: "2025-08-05T17:00:00Z", url: "go:bn6"},
+
+{team1: "الكونغو د", team2: "المغرب",
+gmtTime: "2025-08-17T12:00:00Z", url: "go:bn6"},
+
+{team1: "الجزائر", team2: "النيجر",
+gmtTime: "2025-08-18T17:00:00Z", url: "go:bn6.1"},
+
+{team1: "ج أفريقيا", team2: "أوغندا",
+gmtTime: "2025-08-18T17:00:00Z", url: "go:bn8.1"},
+
+{team1: "السودان", team2: "السنغال",
+gmtTime: "2025-08-19T17:00:00Z", url: "go:bn6.1"},
+
+{team1: "نيجيريا", team2: "الكونغو",
+gmtTime: "2025-08-19T17:00:00Z", url: "go:bn8.1"},
+
+{team1: "كينيا",team2: "مدغشقر",
+gmtTime: "2025-08-22T14:00:00Z", url: "go:bn6"},
+
+{team1: "تنزانيا",team2: "المغرب",
+gmtTime: "2025-08-22T17:00:00Z", url: "go:bn6"},
+
+{team1: "أوغندا",team2: "السنغال",
+gmtTime: "2025-08-23T14:00:00Z", url: "go:bn6"},
+
+{team1: "السودان",team2: "الجزائر",
+gmtTime: "2025-08-23T17:00:00Z", url: "go:bn6"},
+
+{team1: "مدغشقر",team2: "السودان",
+gmtTime: "2025-08-26T14:30:00Z", url: "go:bn6"},
+
+{team1: "المغرب",team2: "السنغال",
+gmtTime: "2025-08-26T17:30:00Z", url: "go:bn6"},
+
+{team1: "السودان",team2: "السنغال",
+gmtTime: "2025-08-29T15:00:00Z", url: "go:bn6"},
+
+{team1: "النيجر",team2: "المغرب",
+gmtTime: "2025-08-30T15:00:00Z", url: "go:bn3"},
+
+
+    ]
+  },
+  "الدوري السعودي": {
+    logo: "https://i.ibb.co/60wYsvkQ/RSL.png",
+    matches: [
+
+// الدوري السعودي الجولة 1
+
+{team1: "ضمك", team2: "الحزم",
+gmtTime: "2025-08-28T16:05:00Z", url: "go:tm3"},
+
+{team1: "الإتفاق", team2: "الخلود",
+gmtTime: "2025-08-28T18:00:00Z", url: "go:tm2"},
+
+{team1: "الأهـلي", team2: "نيوم",
+gmtTime: "2025-08-28T18:00:00Z", url: "go:tm1"},
+
+{team1: "الهلال", team2: "الرياض",
+gmtTime: "2025-08-29T15:50:00Z", url: "go:tm3"},
+
+{team1: "الشباب", team2: "الخليج",
+gmtTime: "2025-08-29T18:00:00Z", url: "go:tm2"},
+
+{team1: "التعاون", team2: "النصر",
+gmtTime: "2025-08-29T18:00:00Z", url: "go:tm1"},
+
+{team1: "الفتح", team2: "الفيحاء",
+gmtTime: "2025-08-30T15:40:00Z", url: "go:tm3"},
+
+{team1: "الأخدود", team2: "الإتحاد",
+gmtTime: "2025-08-30T18:00:00Z", url: "go:tm1"},
+
+{team1: "القادسية", team2: "النجمة",
+gmtTime: "2025-08-30T18:00:00Z", url: "go:tm2"},
+
+//الدوري السعودي الجولة 2
+
+{team1: "الإتفاق", team2: "الأهـلي",
+gmtTime: "2025-09-12T15:35:00Z", url: "go:tm2"},
+
+{team1: "الشباب", team2: "الحزم",
+gmtTime: "2025-09-12T15:35:00Z", url: "go:tm3"},
+
+{team1: "الهلال", team2: "القادسية",
+gmtTime: "2025-09-13T18:00:00Z", url: "go:tm1"},
+
+{team1: "الخليج", team2: "الفيحاء",
+gmtTime: "2025-09-13T15:25:00Z", url: "go:tm3"},
+
+{team1: "الأخدود", team2: "التعاون",
+gmtTime: "2025-09-13T15:45:00Z", url: "go:tm2"},
+
+{team1: "الإتحاد", team2: "الفتح",
+gmtTime: "2025-09-12T18:00:00Z", url: "go:tm1"},
+
+{team1: "الرياض", team2: "النجمة",
+gmtTime: "2025-09-14T15:35:00Z", url: "go:tm3"},
+
+{team1: "ضمك", team2: "نيوم",
+gmtTime: "2025-09-14T15:50:00Z", url: "go:tm2"},
+
+{team1: "النصر", team2: "الخلود",
+gmtTime: "2025-09-14T18:00:00Z", url: "go:tm1"},
+
+//الدوري السعودي الجولة 3
+
+{team1: "الخلود", team2: "ضمك",
+gmtTime: "2025-09-18T15:40:00Z", url: "go:tm1"},
+
+{team1: "التعاون", team2: "الإتفاق",
+gmtTime: "2025-09-18T15:40:00Z", url: "go:tm1"},
+
+{team1: "نيوم", team2: "الأخدود",
+gmtTime: "2025-09-18T18:00:00Z", url: "go:tm1"},
+
+{team1: "القادسية", team2: "الخليج",
+gmtTime: "2025-09-19T15:15:00Z", url: "go:tm2"},
+
+{team1: "الفيحاء", team2: "الشباب",
+gmtTime: "2025-09-19T15:35:00Z", url: "go:tm3"},
+
+{team1: "الأهـلي", team2: "الهلال",
+gmtTime: "2025-09-19T18:00:00Z", url: "go:tm1"},
+
+{team1: "الحزم", team2: "الفتح",
+gmtTime: "2025-09-20T15:40:00Z", url: "go:tm3"},
+
+{team1: "النجمة", team2: "الإتحاد",
+gmtTime: "2025-09-20T15:40:00Z", url: "go:tm2"},
+
+{team1: "النصر", team2: "الرياض",
+gmtTime: "2025-09-20T18:00:00Z", url: "go:tm1"},
+
+//الدوري السعودي الجولة 4
+
+{team1: "الخليج",   team2: "التعاون",   
+gmtTime: "2025-09-25T15:10:00Z", url: "go:tm3"},
+
+{team1: "الشباب",   team2: "الخلود",    
+gmtTime: "2025-09-25T15:25:00Z", url: "go:tm2"},
+
+{team1: "الهلال",   team2: "الأخدود",   
+gmtTime: "2025-09-25T18:00:00Z", url: "go:tm1"},
+
+{team1: "الحزم",     team2: "الأهـلي",   
+gmtTime: "2025-09-26T15:35:00Z", url: "go:tm2"},
+
+{team1: "ضمك",      team2: "الإتفاق",  
+gmtTime: "2025-09-26T15:40:00Z", url: "go:tm3"},
+
+{team1: "الإتحاد",   team2: "النصر",     
+gmtTime: "2025-09-26T18:00:00Z", url: "go:tm1"},
+
+{team1: "الرياض",   team2: "نيوم",      
+gmtTime: "2025-09-27T15:20:00Z", url: "go:tm1"},
+
+{team1: "النجمة",   team2: "الفيحاء",  
+gmtTime: "2025-09-27T15:35:00Z", url: "go:tm3"},
+
+{team1: "الفتح",     team2: "القادسية",
+gmtTime: "2025-09-27T18:00:00Z", url: "go:tm1"},
+
+//الدوري السعودي الجولة 5
+
+{team1: "الفيحاء", team2: "الإتحاد",
+gmtTime: "2025-10-17T15:05:00Z", url: "go:alw1"},
+
+{team1: "الخلود", team2: "النجمة",
+gmtTime: "2025-10-17T15:10:00Z", url: "go:alw2"},
+
+{team1: "الأهـلي", team2: "الشباب",
+gmtTime: "2025-10-17T18:00:00Z", url: "go:tm1"},
+
+{team1: "الإتفاق", team2: "الهلال",
+gmtTime: "2025-10-18T14:45:00Z", url: "go:tm3"},
+
+{team1: "الأخدود", team2: "الحزم",
+gmtTime: "2025-10-18T15:15:00Z", url: "go:tm2"},
+
+{team1: "النصر", team2: "الفتح",
+gmtTime: "2025-10-18T18:00:00Z", url: "go:tm1"},
+
+{team1: "الخليج", team2: "الرياض",
+gmtTime: "2025-10-19T14:45:00Z", url: "go:tm2"},
+
+{team1: "التعاون", team2: "ضمك" ,
+gmtTime: "2025-10-19T15:10:00Z", url: "go:tm3"},
+
+{team1: "نيوم", team2: "القادسية",
+gmtTime: "2025-10-19T18:00:00Z", url: "go:tm1"},
+
+//الدوري السعودي الجولة 6
+
+{team1: "الرياض", team2: "الخلود",
+gmtTime: "2025-10-23T14:55:00Z", url: "go:tm1"},
+
+{team1: "الفيحاء", team2: "التعاون",
+gmtTime: "2025-10-23T15:00:00Z", url: "go:tm1"},
+
+{team1: "النجمة", team2: "الأهـلي",
+gmtTime: "2025-10-23T18:00:00Z", url: "go:tm1"},
+
+{team1: "الفتح", team2: "الإتفاق",
+gmtTime: "2025-10-24T14:45:00Z", url: "go:tm1"},
+
+{team1: "نيوم", team2: "الخليج",
+gmtTime: "2025-10-24T15:30:00Z", url: "go:tm1"},
+
+{team1: "الإتحاد", team2: "الهلال",
+gmtTime: "2025-10-24T18:00:00Z", url: "go:tm1"},
+
+{team1: "القادسية", team2: "الأخدود",
+gmtTime: "2025-10-25T14:40:00Z", url: "go:tm1"},
+
+{team1: "الشباب", team2: "ضمك",
+gmtTime: "2025-10-25T14:55:00Z", url: "go:tm1"},
+
+{team1: "الحزم", team2: "النصر",
+gmtTime: "2025-10-25T18:00:00Z", url: "go:tm1"},
+
+//الدوري السعودي الجولة 7
+
+{team1: "الإتفاق", team2: "الحزم",
+gmtTime: "2025-10-31T17:30:00Z", url: "go:tm1"},
+
+{team1: "الأهـلي", team2: "الرياض",
+gmtTime: "2025-10-30T17:30:00Z", url: "go:tm1"},
+
+{team1: "الأخدود", team2: "النجمة",
+gmtTime: "2025-10-31T13:40:00Z", url: "go:tm2"},
+
+{team1: "الهلال", team2: "الشباب",
+gmtTime: "2025-10-31T14:50:00Z", url: "go:tm3"},
+
+{team1: "التعاون", team2: "القادسية",
+gmtTime: "2025-11-01T13:30:00Z", url: "go:tm2"},
+
+{team1: "الخليج", team2: "الإتحاد",
+gmtTime: "2025-11-01T14:35:00Z", url: "go:tm3"},
+
+{team1: "النصر", team2: "الفيحاء",
+gmtTime: "2025-11-01T17:30:00Z", url: "go:tm1"},
+
+{team1: "الخلود", team2: "نيوم",
+gmtTime: "2025-10-30T17:30:00Z", url: "go:tm2"},
+
+{team1: "ضمك", team2: "الفتح",
+gmtTime: "2025-10-30T15:15:00Z", url: "go:tm3"},
+
+//الدوري السعودي الجولة 8
+
+{team1: "الحزم", team2: "الخليج",
+gmtTime: "2025-11-06T14:55:00Z", url: "go:tm1"},
+
+{team1: "القادسية", team2: "الخلود",
+gmtTime: "2025-11-06T17:30:00Z", url: "go:tm1"},
+
+{team1: "الرياض", team2: "ضمك",
+gmtTime: "2025-11-06T17:30:00Z", url: "go:tm2"},
+
+{team1: "الفيحاء", team2: "الأخدود",
+gmtTime: "2025-11-07T13:20:00Z", url: "go:tm3"},
+
+{team1: "الفتح", team2: "التعاون",
+gmtTime: "2025-11-07T14:35:00Z", url: "go:tm3"},
+
+{team1: "النجمة", team2: "الهلال",
+gmtTime: "2025-11-07T17:30:00Z", url: "go:tm1"},
+
+{team1: "نيوم", team2: "النصر",
+gmtTime: "2025-11-08T13:50:00Z", url: "go:tm3"},
+
+{team1: "الشباب", team2: "الإتفاق",
+gmtTime: "2025-11-08T14:45:00Z", url: "go:tm3"},
+
+{team1: "الإتحاد", team2: "الأهـلي",
+gmtTime: "2025-11-08T17:30:00Z", url: "go:tm1"},
+
+
+
+
+    ]
+ },
+  "الدوري المغربي": {
+    logo: "https://imgs.ysscores.com/championship/128/9671692793781.png",
+    matches: [
+
+// الدوري المغربي الجولة 1
+
+{team1: "الوداد",team2: "الكوكب",
+gmtTime: "2025-09-12T19:00:00Z", url: "go:as"},
+
+{team1: "الجيش الملكي",team2: "يعقوب المنصور",
+gmtTime: "2025-09-13T19:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "توارݣة",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:as1"},
+
+{team1: "إتحاد طنجة",team2: "حسنية أكادير",
+gmtTime: "2025-09-12T15:00:00Z", url: "go:as"},
+
+{team1: "الدشيرة",team2: "نهضة بركان",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:as"},
+
+{team1: "الفتح الرباطي",team2: "الرجاء",
+gmtTime: "2025-09-13T17:00:00Z", url: "go:as"},
+
+{team1: "المغرب الفاسي",team2: "نهضة الزمامرة",
+gmtTime: "2025-09-14T19:00:00Z", url: "go:as"},
+
+{team1: "الدفاع الجديدي",team2: "النادي المكناسي",
+gmtTime: "2025-09-14T17:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 2
+
+{team1: "حسنية أكادير",team2: "المغرب الفاسي",
+gmtTime: "2025-09-20T19:00:00Z", url: "go:as"},
+
+{team1: "إتحاد طنجة",team2: "آسفي",
+gmtTime: "2025-09-15T16:00:00Z", url: "go:as"},
+
+{team1: "الكوكب",team2: "نهضة بركان",
+gmtTime: "2025-09-16T19:00:00Z", url: "go:as"},
+
+{team1: "يعقوب المنصور",team2: "الوداد",
+gmtTime: "2025-09-19T19:00:00Z", url: "go:as"},
+
+{team1: "نهضة الزمامرة",team2: "الدفاع الجديدي",
+gmtTime: "2025-09-21T15:00:00Z", url: "go:as"},
+
+{team1: "توارݣة",team2: "الدشيرة",
+gmtTime: "2025-09-21T17:00:00Z", url: "go:as"},
+
+{team1: "النادي المكناسي",team2: "الفتح الرباطي",
+gmtTime: "2025-09-20T17:00:00Z", url: "go:as"},
+
+{team1: "الرجاء",team2: "الجيش الملكي",
+gmtTime: "2025-09-17T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 3
+
+{team1: "الدشيرة",team2: "الكوكب",
+gmtTime: "2025-09-27T15:00:00Z", url: "go:as"},
+
+{team1: "نهضة بركان",team2: "يعقوب المنصور",
+gmtTime: "2025-10-01T19:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "حسنية أكادير",
+gmtTime: "2025-10-01T15:00:00Z", url: "go:as"},
+
+{team1: "الجيش الملكي",team2: "إتحاد طنجة",
+gmtTime: "2025-10-01T17:00:00Z", url: "go:as"},
+
+{team1: "الدفاع الجديدي",team2: "الرجاء",
+gmtTime: "2025-09-28T15:00:00Z", url: "go:as"},
+
+{team1: "الفتح الرباطي",team2: "توارݣة",
+gmtTime: "2025-09-26T19:00:00Z", url: "go:as"},
+
+{team1: "المغرب الفاسي",team2: "النادي المكناسي",
+gmtTime: "2025-09-28T17:00:00Z", url: "go:as"},
+
+{team1: "الوداد",team2: "نهضة الزمامرة",
+gmtTime: "2025-09-28T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 4
+
+{team1: "حسنية أكادير",team2: "الدفاع الجديدي",
+gmtTime: "2025-10-05T15:00:00Z", url: "go:as"},
+
+{team1: "إتحاد طنجة",team2: "الفتح الرباطي",
+gmtTime: "2025-10-04T17:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "الجيش الملكي",
+gmtTime: "2025-10-05T19:00:00Z", url: "go:as"},
+
+{team1: "يعقوب المنصور",team2: "الدشيرة",
+gmtTime: "2025-10-05T15:00:00Z", url: "go:as"},
+
+{team1: "نهضة الزمامرة",team2: "الكوكب",
+gmtTime: "2025-10-04T15:00:00Z", url: "go:as"},
+
+{team1: "توارݣة",team2: "نهضة بركان",
+gmtTime: "2025-10-05T17:00:00Z", url: "go:as"},
+
+{team1: "النادي المكناسي",team2: "الوداد",
+gmtTime: "2025-10-03T17:00:00Z", url: "go:as"},
+
+{team1: "الرجاء",team2: "المغرب الفاسي",
+gmtTime: "2025-10-03T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 5
+
+{team1: "الدشيرة",team2: "نهضة الزمامرة",
+gmtTime: "2025-10-18T15:00:00Z", url: "go:ma8"},
+
+{team1: "نهضة بركان",team2: "النادي المكناسي",
+gmtTime: "2025-11-05T17:00:00Z", url: "go:as"},
+
+{team1: "الكوكب",team2: "يعقوب المنصور",
+gmtTime: "2025-10-19T15:00:00Z", url: "go:as1"},
+
+{team1: "الجيش الملكي",team2: "حسنية أكادير",
+gmtTime: "2025-10-29T17:00:00Z", url: "go:as1"},
+
+{team1: "الدفاع الجديدي",team2: "إتحاد طنجة",
+gmtTime: "2025-10-19T17:00:00Z", url: "go:as"},
+
+{team1: "الفتح الرباطي",team2: "آسفي",
+gmtTime: "2025-10-30T19:00:00Z", url: "go:as"},
+
+{team1: "المغرب الفاسي",team2: "توارݣة",
+gmtTime: "2025-10-18T15:00:00Z", url: "go:as"},
+
+{team1: "الوداد",team2: "الرجاء",
+gmtTime: "2025-10-29T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 6
+
+{team1: "حسنية أكادير",team2: "الوداد",
+gmtTime: "2025-11-05T15:00:00Z", url: "go:as"},
+
+{team1: "إتحاد طنجة",team2: "المغرب الفاسي",
+gmtTime: "2025-10-25T15:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "الدفاع الجديدي",
+gmtTime: "2025-11-05T17:00:00Z", url: "go:ma5"},
+
+{team1: "الجيش الملكي",team2: "الفتح الرباطي",
+gmtTime: "2025-11-06T19:00:00Z", url: "go:as"},
+
+{team1: "نهضة الزمامرة",team2: "نهضة بركان",
+gmtTime: "2025-10-19T 19:00:00Z", url: "go:as"},
+
+{team1: "توارݣة",team2: "يعقوب المنصور",
+gmtTime: "2025-10-26T15:00:00Z", url: "go:as"},
+
+{team1: "النادي المكناسي",team2: "الكوكب",
+gmtTime: "2025-10-26T17:00:00Z", url: "go:as"},
+
+{team1: "الرجاء",team2: "الدشيرة",
+gmtTime: "2025-10-25T17:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 7
+
+{team1: "الدشيرة",team2: "النادي المكناسي",
+gmtTime: "2025-10-31T15:00:00Z", url: "go:ma5"},
+
+{team1: "نهضة بركان",team2: "الرجاء",
+gmtTime: "2025-11-02T20:00:00Z", State: "A"},
+
+{team1: "الكوكب",team2: "توارݣة",
+gmtTime: "2025-10-31T15:00:00Z", url: "go:as"},
+
+{team1: "يعقوب المنصور",team2: "نهضة الزمامرة",
+gmtTime: "2025-11-01T19:00:00Z", url: "go:as"},
+
+{team1: "الدفاع الجديدي",team2: "الجيش الملكي",
+gmtTime: "2025-11-02T17:00:00Z", url: "go:as"},
+
+{team1: "الفتح الرباطي",team2: "حسنية أكادير",
+gmtTime: "2025-11-02T19:00:00Z", url: "go:ma5"},
+
+{team1: "المغرب الفاسي",team2: "آسفي",
+gmtTime: "2025-11-02T15:00:00Z", url: "go:as"},
+
+{team1: "الوداد",team2: "إتحاد طنجة",
+gmtTime: "2025-11-02T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 8
+
+{team1: "حسنية أكادير",team2: "الدشيرة",
+gmtTime: "2025-11-08T15:00:00Z", url: "go:as"},
+
+{team1: "إتحاد طنجة",team2: "نهضة بركان",
+gmtTime: "2025-11-09T17:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "الوداد",
+gmtTime: "2025-11-08T15:00:00Z", url: "go:as"},
+
+{team1: "الجيش الملكي",team2: "المغرب الفاسي",
+gmtTime: "2025-11-09T19:00:00Z", url: "go:as"},
+
+{team1: "الدفاع الجديدي",team2: "الفتح الرباطي",
+gmtTime: "2025-11-09T15:00:00Z", url: "go:as"},
+
+{team1: "توارݣة",team2: "نهضة الزمامرة",
+gmtTime: "2025-11-08T17:00:00Z", url: "go:as"},
+
+{team1: "النادي المكناسي",team2: "يعقوب المنصور",
+gmtTime: "2025-11-08T19:00:00Z", url: "go:as"},
+
+{team1: "الرجاء",team2: "الكوكب",
+gmtTime: "2025-11-04T19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 9
+
+{team1: "الدشيرة",team2: "الدفاع الجديدي",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "نهضة بركان",team2: "حسنية أكادير",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "الكوكب",team2: "آسفي",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "يعقوب المنصور",team2: "إتحاد طنجة",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "نهضة الزمامرة",team2: "النادي المكناسي",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "توارݣة",team2: "الرجاء",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "المغرب الفاسي",team2: "الفتح الرباطي",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+{team1: "الوداد",team2: "الجيش الملكي",
+gmtTime: "2025-11-03T 19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 10
+
+{team1: "حسنية أكادير",team2: "يعقوب المنصور",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "إتحاد طنجة",team2: "الكوكب",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "آسفي",team2: "نهضة بركان",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "الجيش الملكي",team2: "الدشيرة",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "الدفاع الجديدي",team2: "المغرب الفاسي",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "الفتح الرباطي",team2: "الوداد",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "النادي المكناسي",team2: "توارݣة",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+{team1: "الرجاء",team2: "نهضة الزمامرة",
+gmtTime: "2025-11-09T 19:00:00Z", url: "go:as"},
+
+//الدوري المغربي الجولة 11
+
+{team1: "الدشيرة",  team2: "الفتح الرباطي",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "نهضة بركان",  team2: "المغرب الفاسي",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "الكوكب",  team2: "الجيش الملكي",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "يعقوب المنصور",  team2: "آسفي",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "نهضة الزمامرة",  team2: "إتحاد طنجة",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "توارݣة",  team2: "حسنية أكادير",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "النادي المكناسي",  team2: "الرجاء",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+{team1: "الوداد",  team2: "الدفاع الجديدي",
+gmtTime: "2025-11-22T 19:00", url: "go:as"},
+
+//الدوري المغربي الجولة 12
+
+{team1: "حسنية أكادير",  team2: "النادي المكناسي",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "إتحاد طنجة",  team2: "الدشيرة",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "نهضة الزمامرة",  team2: "آسفي",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "الجيش الملكي",  team2: "نهضة بركان",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "الدفاع الجديدي",  team2: "توارݣة",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "الفتح الرباطي",  team2: "الكوكب",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "المغرب الفاسي",  team2: "الوداد",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+{team1: "الرجاء",  team2: "يعقوب المنصور",
+gmtTime: "2025-11-29T 19:00", url: "go:as"},
+
+//الدوري المغربي الجولة 13
+
+{team1: "الدشيرة",  team2: "الوداد",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "نهضة بركان",  team2: "الفتح الرباطي",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "الكوكب",  team2: "الدفاع الجديدي",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "يعقوب المنصور",  team2: "المغرب الفاسي",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "نهضة الزمامرة",  team2: "حسنية أكادير",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "توارݣة",  team2: "الجيش الملكي",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "النادي المكناسي",  team2: "آسفي",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+{team1: "الرجاء",  team2: "إتحاد طنجة",
+gmtTime: "2025-12-07T19:00", url: "go:as"},
+
+//الدوري المغربي الجولة 14
+
+{team1: "حسنية أكادير",  team2: "الرجاء",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "إتحاد طنجة",  team2: "توارݣة",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "آسفي",  team2: "الدشيرة",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "الجيش الملكي",  team2: "النادي المكناسي",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "الدفاع الجديدي",  team2: "يعقوب المنصور",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "الفتح الرباطي",  team2: "نهضة الزمامرة",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "المغرب الفاسي",  team2: "الكوكب",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+{team1: "الوداد",  team2: "نهضة بركان",
+gmtTime: "2025-12-14T19:00", url: "go:as"},
+
+//الدوري المغربي الجولة 15
+
+{team1: "الدشيرة",  team2: "المغرب الفاسي",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "نهضة بركان",  team2: "الدفاع الجديدي",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "الكوكب",  team2: "حسنية أكادير",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "يعقوب المنصور",  team2: "الفتح الرباطي",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "نهضة الزمامرة",  team2: "الجيش الملكي",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "توارݣة",  team2: "الوداد",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "النادي المكناسي",  team2: "إتحاد طنجة",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+{team1: "الرجاء",  team2: "آسفي",
+gmtTime: "2025-12-22T19:00", url: "go:as"},
+
+//الدوري المغربي الجولة 16
+
+//الدوري المغربي الجولة 17
+
+//الدوري المغربي الجولة 18
+
+//الدوري المغربي الجولة 19
+
+//الدوري المغربي الجولة 20
+
+//الدوري المغربي الجولة 21
+
+//الدوري المغربي الجولة 22
+
+//الدوري المغربي الجولة 23
+
+//الدوري المغربي الجولة 24
+
+//الدوري المغربي الجولة 25
+
+//الدوري المغربي الجولة 26
+
+//الدوري المغربي الجولة 27
+
+//الدوري المغربي الجولة 28
+
+//الدوري المغربي الجولة 29
+
+//الدوري المغربي الجولة 30
+
+    ]
+  },
+  "الدوري المصري": {
+    logo: "https://imgs.ysscores.com/championship/48/4411741289264.png",
+    matches: [
+
+//الدوري المصري الجولة 1
+
+{team1: "وادي دجلة",team2: "بيراميدز",
+gmtTime: "2025-08-08T15:00:00Z", url: "go:on1"},
+
+{team1: "المصري",team2: "الإتحـاد",
+gmtTime: "2025-08-08T18:00:00Z", url: "go:on1"},
+
+{team1: "سيراميكا",team2: "الزمالك",
+gmtTime: "2025-08-08T19:00:00Z", url: "go:on1"},
+
+{team1: "سموحة",team2: "طلائع الجيش",
+gmtTime: "2025-08-09T15:00:00Z", url: "go:on1"},
+
+{team1: "المقاولون",team2: "نادي زد",
+gmtTime: "2025-08-09T15:00:00Z", url: "go:on1"},
+
+{team1: "مودرن",team2: "الأهلي",
+gmtTime: "2025-08-09T18:00:00Z", url: "go:on1"},
+
+{team1: "الإسماعيلي",team2: "بتروجيت",
+gmtTime: "2025-08-09T18:00:00Z", url: "go:on2"},
+
+{team1: "كهرباء",team2: "الجونة",
+gmtTime: "2025-08-10T15:00:00Z", url: "go:on1"},
+
+{team1: "فاركو",team2: "إنبي",
+gmtTime: "2025-08-10T15:00:00Z", url: "go:on2"},
+
+{team1: "البنك الأهلي",team2: "غزل المحلة",
+gmtTime: "2025-08-10T18:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 2
+
+{team1: "نادي زد",team2: "سيراميكا",
+gmtTime: "2025-08-14T15:00:00Z", url: "go:on2"},
+
+{team1: "الإتحـاد",team2: "مودرن",
+gmtTime: "2025-08-14T15:00:00Z", url: "go:on1"},
+
+{team1: "بيراميدز",team2: "الإسماعيلي",
+gmtTime: "2025-08-14T18:00:00Z", url: "go:on1"},
+
+{team1: "طلائع الجيش",team2: "المصري",
+gmtTime: "2025-08-14T18:00:00Z", url: "go:on2"},
+
+{team1: "بتروجيت",team2: "كهرباء",
+gmtTime: "2025-08-15T15:00:00Z", url: "go:on1"},
+
+{team1: "الأهلي",team2: "فاركو",
+gmtTime: "2025-08-15T18:00:00Z", url: "go:on1"},
+
+{team1: "حرس الحدود",team2: "البنك الأهلي",
+gmtTime: "2025-08-15T18:00:00Z", url: "go:on2"},
+
+{team1: "إنبي",team2: "وادي دجلة",
+gmtTime: "2025-08-16T15:00:00Z", url: "go:on1"},
+
+{team1: "الزمالك",team2: "المقاولون",
+gmtTime: "2025-08-16T18:00:00Z", url: "go:on2"},
+
+{team1: "غزل المحلة",team2: "سموحة",
+gmtTime: "2025-08-16T18:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 3
+
+{team1: "البنك الأهلي",team2: "كهرباء",
+gmtTime: "2025-08-19T15:00:00Z", url: "go:on2"},
+
+{team1: "فاركو",team2: "طلائع الجيش",
+gmtTime: "2025-08-19T15:00:00Z", url: "go:on1"},
+
+{team1: "الإسماعيلي",team2: "الإتحـاد",
+gmtTime: "2025-08-19T18:00:00Z", url: "go:on2"},
+
+{team1: "المصري",team2: "بيراميدز",
+gmtTime: "2025-08-19T18:00:00Z", url: "go:on1"},
+
+{team1: "سيراميكا",team2: "إنبي",
+gmtTime: "2025-08-20T15:00:00Z", url: "go:on1"},
+
+{team1: "وادي دجلة",team2: "بتروجيت",
+gmtTime: "2025-08-20T18:00:00Z", url: "go:on2"},
+
+{team1: "الجونة",team2: "غزل المحلة",
+gmtTime: "2025-08-20T18:00:00Z", url: "go:on2"},
+
+{team1: "المقاولون",team2: "حرس الحدود",
+gmtTime: "2025-08-21T15:00:00Z", url: "go:on2"},
+
+{team1: "مودرن",team2: "الزمالك",
+gmtTime: "2025-08-21T18:00:00Z", url: "go:on1"},
+
+{team1: "سموحة",team2: "نادي زد",
+gmtTime: "2025-08-21T18:00:00Z", url: "go:on2"},
+
+//الدوري المصري الجولة 4
+
+{team1: "الإتحـاد",team2: "البنك الأهلي",
+gmtTime: "2025-08-24T15:00:00Z", url: "go:on1"},
+
+{team1: "إنبي",team2: "الجونة",
+gmtTime: "2025-08-24T18:00:00Z", url: "go:on2"},
+
+{team1: "طلائع الجيش",team2: "الإسماعيلي",
+gmtTime: "2025-08-24T18:00:00Z", url: "go:on1"},
+
+{team1: "غزل المحلة",team2: "الأهلي",
+gmtTime: "2025-08-25T15:00:00Z", url: "go:on1"},
+
+{team1: "نادي زد",team2: "وادي دجلة",
+gmtTime: "2025-08-25T15:00:00Z", url: "go:on2"},
+
+{team1: "بتروجيت",team2: "المقاولون",
+gmtTime: "2025-08-25T18:00:00Z", url: "go:on2"},
+
+{team1: "بيراميدز",team2: "مودرن",
+gmtTime: "2025-08-25T18:00:00Z", url: "go:on1"},
+
+{team1: "كهرباء",team2: "سموحة",
+gmtTime: "2025-08-26T15:00:00Z", url: "go:on1"},
+
+{team1: "الزمالك",team2: "فاركو",
+gmtTime: "2025-08-26T18:00:00Z", url: "go:on1"},
+
+{team1: "حرس الحدود",team2: "المصري",
+gmtTime: "2025-08-26T18:00:00Z", url: "go:on2"},
+
+//الدوري المصري الجولة 5
+
+{team1: "المقاولون",team2: "سيراميكا",
+gmtTime: "2025-08-29T15:00:00Z", url: "go:on1"},
+
+{team1: "الإتحـاد",team2: "إنبي",
+gmtTime: "2025-08-29T18:00:00Z", url: "go:on1"},
+
+{team1: "البنك الأهلي",team2: "طلائع الجيش",
+gmtTime: "2025-08-29T18:00:00Z", url: "go:on2"},
+
+{team1: "الجونة",team2: "نادي زد",
+gmtTime: "2025-08-30T15:00:00Z", url: "go:on2"},
+
+{team1: "الإسماعيلي",team2: "غزل المحلة",
+gmtTime: "2025-08-30T18:00:00Z", url: "go:on2"},
+
+{team1: "الأهلي",team2: "بيراميدز",
+gmtTime: "2025-08-30T18:00:00Z", url: "go:on1"},
+
+{team1: "مودرن",team2: "حرس الحدود",
+gmtTime: "2025-08-31T15:00:00Z", url: "go:on2"},
+
+{team1: "المصري",team2: "كهرباء",
+gmtTime: "2025-08-31T15:00:00Z", url: "go:on1"},
+
+{team1: "سموحة",team2: "بتروجيت",
+gmtTime: "2025-08-31T18:00:00Z", url: "go:on2"},
+
+{team1: "وادي دجلة",team2: "الزمالك",
+gmtTime: "2025-08-31T18:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 6
+
+{team1: "بتروجيت",team2: "البنك الأهلي",
+gmtTime: "2025-09-12T14:00:00Z", url: "go:on1"},
+
+{team1: "نادي زد",team2: "الإسماعيلي",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:on1"},
+
+{team1: "فاركو",team2: "الإتحـاد",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:on2"},
+
+{team1: "غزل المحلة",team2: "المقاولون",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:on1"},
+
+{team1: "حرس الحدود",team2: "الجونة",
+gmtTime: "2025-09-13T14:00:00Z", url: "go:on2"},
+
+{team1: "سيراميكا",team2: "سموحة",
+gmtTime: "2025-09-13T17:00:00Z", url: "go:on2"},
+
+{team1: "الزمالك",team2: "المصري",
+gmtTime: "2025-09-13T17:00:00Z", url: "go:on1"},
+
+{team1: "طلائع الجيش",team2: "المصري",
+gmtTime: "2025-09-14T14:00:00Z", url: "go:on1"},
+
+{team1: "كهرباء",team2: "وادي دجلة",
+gmtTime: "2025-09-14T17:00:00Z", url: "go:on2"},
+
+{team1: "إنبي",team2: "الأهلي",
+gmtTime: "2025-09-14T17:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 7
+
+{team1: "المقاولون",team2: "فاركو",
+gmtTime: "2025-09-17T14:00:00Z", url: "go:on1"},
+
+{team1: "المصري",team2: "غزل المحلة",
+gmtTime: "2025-09-17T17:00:00Z", url: "go:on1"},
+
+{team1: "الجونة",team2: "بتروجيت",
+gmtTime: "2025-09-17T17:00:00Z", url: "go:on2"},
+
+{team1: "الإسماعيلي",team2: "الزمالك",
+gmtTime: "2025-09-18T15:00:00Z", url: "go:on1"},
+
+{team1: "مودرن",team2: "إنبي",
+gmtTime: "2025-09-18T14:00:00Z", url: "go:on2"},
+
+{team1: "الإتحـاد",team2: "كهرباء",
+gmtTime: "2025-09-18T17:00:00Z", url: "go:on2"},
+
+{team1: "بيراميدز",team2: "نادي زد",
+gmtTime: "2025-09-18T17:00:00Z", url: "go:on1"},
+
+{team1: "وادي دجلة",team2: "طلائع الجيش",
+gmtTime: "2025-09-19T14:00:00Z", url: "go:on1"},
+
+{team1: "الأهلي",team2: "سيراميكا",
+gmtTime: "2025-09-19T17:00:00Z", url: "go:on1"},
+
+{team1: "سموحة",team2: "حرس الحدود",
+gmtTime: "2025-09-19T17:00:00Z", url: "go:on2"},
+
+//الدوري المصري الجولة 8
+
+{team1: "فاركو", team2: "المصري",
+gmtTime: "2025-09-22T14:00:00Z", url: "go:on1"},
+
+{team1: "بتروجيت", team2: "غزل المحلة",
+gmtTime: "2025-09-22T17:00:00Z", url: "go:on2"},
+
+{team1: "نادي زد", team2: "الإتحـاد",
+gmtTime: "2025-09-22T17:00:00Z", url: "go:on1"},
+
+{team1: "حرس الحدود", team2: "الأهلي",
+gmtTime: "2025-09-23T14:00:00Z", url: "go:on1"},
+
+{team1: "الزمالك", team2: "الجونة",
+gmtTime: "2025-09-23T17:00:00Z", url: "go:on1"},
+
+{team1: "طلائع الجيش", team2: "المقاولون",
+gmtTime: "2025-09-23T17:00:00Z", url: "go:on2"},
+
+{team1: "إنبي", team2: "الإسماعيلي",
+gmtTime: "2025-09-24T14:00:00Z", url: "go:on1"},
+
+{team1: "سيراميكا", team2: "مودرن",
+gmtTime: "2025-09-24T17:00:00Z", url: "go:on1"},
+
+{team1: "البنك الأهلي", team2: "وادي دجلة",
+gmtTime: "2025-09-24T17:00:00Z", url: "go:on2"},
+
+{team1: "كهرباء", team2: "بيراميدز",
+gmtTime: "2025-12-03T17:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 9
+  
+{team1: "المقاولون", team2: "كهرباء",
+gmtTime: "2025-09-27T14:00:00Z", url: "go:on2"},
+
+{team1: "نادي زد", team2: "حرس الحدود",
+gmtTime: "2025-09-27T14:00:00Z", url: "go:on1"},
+
+{team1: "المصري", team2: "بتروجيت",
+gmtTime: "2025-09-27T17:00:00Z", url: "go:on1"},
+
+{team1: "مودرن", team2: "فاركو",
+gmtTime: "2025-09-28T14:00:00Z", url: "go:on1"},
+
+{team1: "وادي دجلة", team2: "سموحة",
+gmtTime: "2025-09-28T17:00:00Z", url: "go:on2"},
+
+{team1: "غزل المحلة", team2: "إنبي",
+gmtTime: "2025-09-28T17:00:00Z", url: "go:on1"},
+
+{team1: "الإسماعيلي", team2: "البنك الأهلي",
+gmtTime: "2025-09-29T14:00:00Z", url: "go:on1"},
+
+{team1: "الجونة", team2: "سيراميكا",
+gmtTime: "2025-09-29T14:00:00Z", url: "go:on2"},
+
+{team1: "الأهلي", team2: "الزمالك",
+gmtTime: "2025-09-29T17:00:00Z", url: "go:on1"},
+
+{team1: "بيراميدز", team2: "طلائع الجيش",
+gmtTime: "2025-09-27T17:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 10
+
+{team1: "سموحة", team2: "الإسماعيلي",
+gmtTime: "2025-10-03T14:00:00Z", url: "go:on1"},
+
+{team1: "البنك الأهلي", team2: "المصري",
+gmtTime: "2025-10-03T17:00:00Z", url: "go:on1"},
+
+{team1: "الإتحـاد", team2: "المقاولون",
+gmtTime: "2025-10-03T17:00:00Z", url: "go:on2"},
+
+{team1: "الزمالك", team2: "غزل المحلة",
+gmtTime: "2025-10-04T14:00:00Z", url: "go:on1"},
+
+{team1: "طلائع الجيش", team2: "الجونة",
+gmtTime: "2025-10-04T14:00:00Z", url: "go:on2"},
+
+{team1: "إنبي", team2: "نادي زد",
+gmtTime: "2025-10-05T14:00:00Z", url: "go:on1"},
+
+{team1: "حرس الحدود", team2: "سيراميكا",
+gmtTime: "2025-10-04T17:00:00Z", url: "go:on2"},
+
+{team1: "كهرباء", team2: "الأهلي",
+gmtTime: "2025-10-04T17:00:00Z", url: "go:on1"},
+
+{team1: "فاركو", team2: "وادي دجلة",
+gmtTime: "2025-10-05T17:00:00Z", url: "go:on1"},
+
+{team1: "بتروجيت", team2: "بيراميدز",
+gmtTime: "2025-12-06T18:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 11
+
+{team1: "وادي دجلة", team2: "مودرن",
+gmtTime: "2025-10-17T14:00:00Z", url: "go:on1"},
+
+{team1: "المقاولون", team2: "إنبي",
+gmtTime: "2025-10-17T17:00:00Z", url: "go:on2"},
+
+{team1: "غزل المحلة", team2: "كهرباء",
+gmtTime: "2025-10-17T17:00:00Z", url: "go:on2"},
+
+{team1: "الجونة", team2: "البنك الأهلي",
+gmtTime: "2025-10-18T14:00:00Z", url: ""},
+
+{team1: "الإسماعيلي", team2: "حرس الحدود",
+gmtTime: "2025-10-18T17:00:00Z", url: "go:on1"},
+
+{team1: "نادي زد", team2: "بتروجيت",
+gmtTime: "2025-10-19T14:00:00Z", url: "go:on1"},
+
+{team1: "سيراميكا", team2: "طلائع الجيش",
+gmtTime: "2025-10-19T17:00:00Z", url: "go:on1"},
+
+{team1: "بيراميدز", team2: "فاركو",
+gmtTime: "2025-10-21T14:00:00Z", url: "go:on1"},
+
+{team1: "الأهلي", team2: "الإتحـاد",
+gmtTime: "2025-10-22T14:00:00Z", url: "go:on1"},
+
+{team1: "المصري", team2: "سموحة",
+gmtTime: "2025-10-22T17:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 12
+
+{team1: "حرس الحدود", team2: "غزل المحلة",
+gmtTime: "2025-10-25T00:00:00Z", url: "go:s"},
+
+{team1: "مودرن", team2: "المقاولون",
+gmtTime: "2025-10-25T00:30:00Z", url: "go:s"},
+
+{team1: "كهرباء", team2: "سيراميكا",
+gmtTime: "2025-10-26T14:00:00Z", url: "go:on2"},
+
+{team1: "فاركو", team2: "الإسماعيلي",
+gmtTime: "2025-10-26T17:00:00Z", url: "go:on1"},
+
+{team1: "طلائع الجيش", team2: "نادي زد",
+gmtTime: "2025-10-26T17:00:00Z", url: ""},
+
+{team1: "سموحة", team2: "الجونة",
+gmtTime: "2025-10-27T14:00:00Z", url: "go:on2"},
+
+{team1: "الإتحـاد", team2: "وادي دجلة",
+gmtTime: "2025-10-27T17:00:00Z", url: "go:on1"},
+
+{team1: "بتروجيت", team2: "الأهلي",
+gmtTime: "2025-10-29T17:00:00Z", url: "go:on1"},
+
+{team1: "البنك الأهلي", team2: "الزمالك",
+gmtTime: "2025-10-30T17:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 13
+
+{team1: "غزل المحلة", team2: "مودرن",
+gmtTime: "2025-11-01T15:00:00Z", url: "go:on2"},
+
+{team1: "الإسماعيلي", team2: "كهرباء",
+gmtTime: "2025-11-01T18:00:00Z", url: "go:on1"},
+
+{team1: "الجونة", team2: "فاركو",
+gmtTime: "2025-11-01T18:00:00Z", url: "go:on2"},
+
+{team1: "بيراميدز", team2: "الإتحـاد",
+gmtTime: "2025-11-02T15:00:00Z", url: "go:on2"},
+
+{team1: "الأهلي", team2: "المصري",
+gmtTime: "2025-11-02T18:00:00Z", url: "go:on1"},
+
+{team1: "سيراميكا", team2: "بتروجيت",
+gmtTime: "2025-11-02T18:00:00Z", url: "go:on2"},
+
+{team1: "الزمالك", team2: "طلائع الجيش",
+gmtTime: "2025-11-02T15:00:00Z", url: "go:on1"},
+
+{team1: "وادي دجلة", team2: "حرس الحدود",
+gmtTime: "2025-11-04T15:00:00Z", url: "go:on2"},
+
+{team1: "المقاولون", team2: "سموحة",
+gmtTime: "2025-11-04T18:00:00Z", url: "go:on2"},
+
+{team1: "نادي زد", team2: "البنك الأهلي",
+gmtTime: "2025-11-04T18:00:00Z", url: "go:on1"},
+
+//الدوري المصري الجولة 14
+
+//الدوري المصري الجولة 15
+
+//الدوري المصري الجولة 16
+
+//الدوري المصري الجولة 17
+
+//الدوري المصري الجولة 18
+
+//الدوري المصري الجولة 19
+
+//الدوري المصري الجولة 20
+
+//الدوري المصري الجولة 21
+
+//الدوري المصري الجولة 22
+
+//الدوري المصري الجولة 23
+
+//الدوري المصري الجولة 24
+
+//الدوري المصري الجولة 25
+
+//الدوري المصري الجولة 26
+
+//الدوري المصري الجولة 27
+
+//الدوري المصري الجولة 28
+
+//الدوري المصري الجولة 29
+
+//الدوري المصري الجولة 30
+
+//الدوري المصري الجولة 31
+
+//الدوري المصري الجولة 32
+
+//الدوري المصري الجولة 33
+
+//الدوري المصري الجولة 34
+
+//الدوري المصري الجولة 35
+
+//الدوري المصري الجولة 36
+
+//الدوري المصري الجولة 37
+
+//الدوري المصري الجولة 38
+
+    ]
+  
+ },
+  "الدوري القطري": {
+    logo: "https://imgs.ysscores.com/championship/128/4331755119786.png",
+    matches: [
+
+//الدوري القطري الجولة 1
+
+{team1: "الريان",team2: "السيلية",
+gmtTime: "2025-08-14T15:30:00Z", url: "go:ks1"},
+
+{team1: "الشمال",team2: "الأهــلي",
+gmtTime: "2025-08-14T17:30:00Z", url: "go:ks1"},
+
+{team1: "العربي",team2: "الوكرة",
+gmtTime: "2025-08-15T15:30:00Z", url: "go:ks1"},
+
+{team1: "الغرافة",team2: "أم صلال",
+gmtTime: "2025-08-15T17:30:00Z", url: "go:ks1"},
+
+{team1: "الدحيل",team2: "الشحانية",
+gmtTime: "2025-08-16T15:30:00Z", url: "go:ks1"},
+
+{team1: "السد",team2: "نادي قطر",
+gmtTime: "2025-08-16T17:30:00Z", url: "go:ks1"},
+
+//الدوري القطري الجولة 2
+
+{team1: "نادي قطر",team2: "السيلية",
+gmtTime: "2025-08-21T15:30:00Z", url: "go:ks1"},
+
+{team1: "الأهــلي",team2: "السد",
+gmtTime: "2025-08-21T17:30:00Z", url: "go:ks1"},
+
+{team1: "الغرافة",team2: "العربي",
+gmtTime: "2025-08-22T15:30:00Z", url: "go:ks1"},
+
+{team1: "الشمال",team2: "الريان",
+gmtTime: "2025-08-22T17:30:00Z", url: "go:ks1"},
+
+{team1: "أم صلال",team2: "الشحانية",
+gmtTime: "2025-08-23T15:30:00Z", url: "go:ks1"},
+
+{team1: "الدحيل",team2: "الوكرة",
+gmtTime: "2025-08-23T17:30:00Z", url: "go:ks1"},
+
+//الدوري القطري الجولة 3
+
+{team1: "الريان",team2: "الدحيل",
+gmtTime: "2025-08-28T15:30:00Z", url: "go:ks1"},
+
+{team1: "السد",team2: "الغرافة",
+gmtTime: "2025-08-28T17:30:00Z", url: "go:ks1"},
+
+{team1: "العربي",team2: "أم صلال",
+gmtTime: "2025-08-29T15:30:00Z", url: "go:ks1"},
+
+{team1: "الشحانية",team2: "الوكرة",
+gmtTime: "2025-08-29T17:30:00Z", url: "go:ks1"},
+
+{team1: "السيلية",team2: "الشمال",
+gmtTime: "2025-08-30T15:30:00Z", url: "go:ks"},
+
+{team1: "نادي قطر",team2: "الأهــلي",
+gmtTime: "2025-08-30T17:30:00Z", url: "go:ks"},
+
+//الدوري القطري الجولة 4
+
+{team1: "الأهــلي",team2: "الوكرة",
+gmtTime: "2025-09-13T15:00:00Z", url: "go:ks2"},
+
+{team1: "الريان",team2: "نادي قطر",
+gmtTime: "2025-09-13T17:30:00Z", url: "go:ks3"},
+
+{team1: "الدحيل",team2: "أم صلال",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:ks3"},
+
+{team1: "الغرافة",team2: "السيلية",
+gmtTime: "2025-09-12T17:00:00Z", url: "go:ks2"},
+
+{team1: "الشحانية",team2: "السد",
+gmtTime: "2025-09-12T15:00:00Z", url: "go:ks1"},
+
+{team1: "الشمال",team2: "العربي",
+gmtTime: "2025-09-13T15:00:00Z", url: "go:ks1"},
+
+//الدوري القطري الجولة 5
+
+{team1: "الأهــلي",team2: "الريان",
+gmtTime: "2025-09-21T17:00:00Z", url: "go:ks1"},
+
+{team1: "العربي",team2: "الدحيل",
+gmtTime: "2025-09-20T15:00:00Z", url: "go:ks1"},
+
+{team1: "السد",team2: "الوكرة",
+gmtTime: "2025-09-20T17:00:00Z", url: "go:ks1"},
+
+{team1: "نادي قطر",team2: "الشحانية",
+gmtTime: "2025-09-21T17:00:00Z", url: "go:ks2"},
+
+{team1: "الشمال",team2: "الغرافة",
+gmtTime: "2025-09-20T15:00:00Z", url: "go:ks2"},
+
+{team1: "أم صلال",team2: "السيلية",
+gmtTime: "2025-09-21T15:00:00Z", url: "go:ks1"},
+ 
+//الدوري القطري الجولة 6
+
+{team1: "الريان",team2: "الغرافة",
+gmtTime: "2025-09-25T15:00:00Z", url: "go:ks1"},
+
+{team1: "السيلية",team2: "العربي",
+gmtTime: "2025-09-27T15:00:00Z", url: "go:ks1"},
+
+{team1: "الوكرة",team2: "أم صلال",
+gmtTime: "2025-09-26T15:00:00Z", url: "go:ks1"},
+
+{team1: "السد",team2: "الدحيل",
+gmtTime: "2025-09-25T17:00:00Z", url: "go:ks2"},
+
+{team1: "الشحانية",team2: "الأهــلي",
+gmtTime: "2025-09-26T17:00:00Z", url: "go:ks2"},
+
+{team1: "نادي قطر",team2: "الشمال",
+gmtTime: "2025-09-27T17:00:00Z", url: "go:ks2"},
+
+//الدوري القطري الجولة 7
+
+{team1: "العربي",team2: "الأهــلي",
+gmtTime: "2025-11-08T16:30:00Z", url: "go:ks"},
+
+{team1: "الدحيل",team2: "السيلية",
+gmtTime: "2025-11-07T14:30:00Z", url: "go:ks"},
+
+{team1: "الغرافة",team2: "نادي قطر",
+gmtTime: "2025-11-07T16:30:00Z", url: "go:ks"},
+
+{team1: "الشحانية",team2: "الريان",
+gmtTime: "2025-11-08T14:30:00Z", url: "go:ks"},
+
+{team1: "الشمال",team2: "الوكرة",
+gmtTime: "2025-11-08T14:30:00Z", url: "go:ks"},
+
+{team1: "أم صلال",team2: "السد",
+gmtTime: "2025-11-07T14:30:00Z", url: "go:ks"},
+
+//الدوري القطري الجولة 8
+
+{team1: "الأهــلي",team2: "الغرافة",
+gmtTime: "2025-10-25T14:30:00Z", url: "go:ks"},
+
+{team1: "الوكرة",team2: "الريان",
+gmtTime: "2025-10-26T16:30:00Z", url: "go:ks"},
+
+{team1: "الدحيل",team2: "الشمال",
+gmtTime: "2025-10-25T14:30:00Z", url: "go:ks"},
+
+{team1: "السد",team2: "العربي",
+gmtTime: "2025-10-25T16:30:00Z", url: "go:ks"},
+
+{team1: "الشحانية",team2: "السيلية",
+gmtTime: "2025-10-26T14:30:00Z", url: "go:ks"},
+
+{team1: "نادي قطر",team2: "أم صلال",
+gmtTime: "2025-10-26T14:30:00Z", url: "go:ks"},
+
+//الدوري القطري الجولة 9
+
+{team1: "العربي",team2: "الشحانية",
+gmtTime: "2025-10-31T14:30:00Z", url: "go:ks1"},
+
+{team1: "السيلية",team2: "الأهــلي",
+gmtTime: "2025-11-01T14:30:00Z", url: "go:ks1"},
+
+{team1: "الوكرة",team2: "نادي قطر",
+gmtTime: "2025-10-31T16:30:00Z", url: "go:ks3"},
+
+{team1: "الغرافة",team2: "الدحيل",
+gmtTime: "2025-10-30T14:30:00Z", url: "go:ks1"},
+
+{team1: "السد",team2: "الريان",
+gmtTime: "2025-10-30T16:30:00Z", url: "go:ks3"},
+
+{team1: "أم صلال",team2: "الشمال",
+gmtTime: "2025-11-01T16:30:00Z", url: "go:ks3"},
+
+//الدوري القطري الجولة 10
+
+{team1: "الدحيل",team2: "الأهــلي",
+gmtTime: "2025-11-21T14:30:00Z", url: "go:ks"},
+
+{team1: "الغرافة",team2: "الوكرة",
+gmtTime: "2025-11-21T16:30:00Z", url: "go:ks"},
+
+{team1: "السد",team2: "السيلية",
+gmtTime: "2025-11-22T16:30:00Z", url: "go:ks"},
+
+{team1: "نادي قطر",team2: "العربي",
+gmtTime: "2025-11-23T16:30:00Z", url: "go:ks"},
+
+{team1: "الشمال",team2: "الشحانية",
+gmtTime: "2025-11-22T14:30:00Z", url: "go:ks"},
+
+{team1: "أم صلال",team2: "الريان",
+gmtTime: "2025-11-22T14:30:00Z", url: "go:ks"},
+
+//الدوري القطري الجولة 11
+
+{team1: "الأهــلي",team2: "أم صلال",
+gmtTime: "2025-12-28T16:30:00Z", url: "go:ks"},
+
+{team1: "العربي",team2: "الريان",
+gmtTime: "2025-12-27T16:30:00Z", url: "go:ks"},
+
+{team1: "السيلية",team2: "الوكرة",
+gmtTime: "2025-12-28T14:30:00Z", url: "go:ks"},
+
+{team1: "الدحيل",team2: "نادي قطر",
+gmtTime: "2025-12-27T14:30:00Z", url: "go:ks"},
+
+{team1: "الشحانية",team2: "الغرافة",
+gmtTime: "2025-12-27T14:30:00Z", url: "go:ks"},
+
+{team1: "الشمال",team2: "السد",
+gmtTime: "2025-12-28T14:30:00Z", url: "go:ks"},
+
+  ]
+},
+  "الدوري التركي": {
+    logo: "https://imgs.ysscores.com/championship/150/1191723239247.png",
+    matches: [
+
+{team1: "ألانيا سبورت", team2: "غلطة سراي",
+gmtTime: "2025-09-26T17:00:00Z", url: "go:b3"},
+
+{team1: "فنربخشة", team2: "أنطاليا",
+gmtTime: "2025-09-28T17:00:00Z", url: "go:bn1tr"},
+
+{team1: "بشكتاش", team2: "كوجالي",
+gmtTime: "2025-09-29T17:00:00Z", url: "go:bn1tr"},
+
+{team1: "سامسون", team2: "فنربخشة",
+gmtTime: "2025-10-05T17:00:00Z", url: "go:bn1tr"},
+
+{team1: "غلطة سراي", team2: "طرابزون",
+gmtTime: "2025-11-01T17:00:00Z", url: "go:bn6"},
+
+{team1: "بشكتاش", team2: "فنربخشة",
+gmtTime: "2025-11-02T17:00:00Z", url: "go:bn1tr"},
+
+    ]
+  },
+  "الدوري الإماراتي": {
+    logo: "https://imgs.ysscores.com/championship/128/6401690296766.png",
+    matches: [
+
+//الدوري الإماراتي الجولة 1
+
+{team1: "شباب الأهلي",team2: "الظفرة",
+gmtTime: "2025-08-16T14:05:00Z", url: "go:ds1"},
+
+{team1: "عجمان",team2: "الوحدة",
+gmtTime: "2025-08-17T14:05:00Z", url: "go:ds1"},
+
+{team1: "دبا الفجيرة",team2: "الشارقة",
+gmtTime: "2025-08-16T14:05:00Z", url: "go:ds2"},
+
+{team1: "العين",team2: "البطائح",
+gmtTime: "2025-08-16T16:30:00Z", url: "go:ds2"},
+
+{team1: "كلباء",team2: "النصـر",
+gmtTime: "2025-08-16T16:30:00Z", url: "go:ds1"},
+
+{team1: "خورفكان",team2: "الجزيرة",
+gmtTime: "2025-08-17T14:05:00Z", url: "go:ha"},
+
+{team1: "الوصل",team2: "بني ياس",
+gmtTime: "2025-08-17T16:30:00Z", url: "go:ds1"},
+
+//الدوري الإماراتي الجولة 2
+
+{team1: "بني ياس",team2: "كلباء",
+gmtTime: "2025-08-22T14:00:00Z", url: "go:ad1"},
+
+{team1: "الشارقة",team2: "الجزيرة",
+gmtTime: "2025-08-22T16:30:00Z", url: "go:ha"},
+
+{team1: "دبا الفجيرة",team2: "العين",
+gmtTime: "2025-08-23T14:00:00Z", url: "go:ds1"},
+
+{team1: "الظفرة",team2: "الوصل",
+gmtTime: "2025-08-23T14:00:00Z", url: "go:ds2"},
+
+{team1: "الوحدة",team2: "شباب الأهلي",
+gmtTime: "2025-08-23T16:30:00Z", url: "go:ds1"},
+
+{team1: "البطائح",team2: "خورفكان",
+gmtTime: "2025-08-24T14:00:00Z", url: "go:ha"},
+
+{team1: "النصـر",team2: "عجمان",
+gmtTime: "2025-08-24T16:30:00Z", url: "go:ds1"},
+
+//الدوري الإماراتي الجولة 3
+
+{team1: "كلباء", team2: "الوحدة",
+gmtTime: "2025-09-11T13:40:00Z", url: "go:ds"},
+
+{team1: "خورفكان", team2: "الشارقة",
+gmtTime: "2025-09-11T16:15:00Z", url: "go:ds"},
+
+{team1: "شباب الأهلي", team2: "بني ياس",
+gmtTime: "2025-09-11T16:15:00Z", url: "go:ds"},
+
+{team1: "الظفرة", team2: "دبا الفجيرة",
+gmtTime: "2025-09-12T13:40:00Z", url: "go:ds"},
+
+{team1: "عجمان", team2: "البطائح",
+gmtTime: "2025-09-12T16:15:00Z", url: "go:ds"},
+
+{team1: "الجزيرة", team2: "النصـر",
+gmtTime: "2025-09-13T13:40:00Z", url: "go:ds1"},
+
+{team1: "الوصل", team2: "العين",
+gmtTime: "2025-09-13T16:15:00Z", url: "go:ds1"},
+
+//الدوري الإماراتي الجولة 4
+
+{team1: "الوحدة", team2: "الظفرة",
+gmtTime: "2025-09-19T13:40:00Z", url: "go:ds"},
+
+{team1: "بني ياس", team2: "الجزيرة",
+gmtTime: "2025-09-19T16:15:00Z", url: "go:ds"},
+
+{team1: "العين", team2: "خورفكان",
+gmtTime: "2025-09-20T13:30:00Z", url: "go:ad1"},
+
+{team1: "دبا الفجيرة", team2: "كلباء",
+gmtTime: "2025-09-20T13:30:00Z", url: "go:ds2"},
+
+{team1: "النصـر", team2: "شباب الأهلي",
+gmtTime: "2025-09-20T16:15:00Z", url: "go:ha"},
+
+{team1: "البطائح", team2: "الوصل",
+gmtTime: "2025-09-21T13:30:00Z", url: "go:ds1"},
+
+{team1: "الشارقة", team2: "عجمان",
+gmtTime: "2025-09-21T16:15:00Z", url: "go:ha"},
+
+//الدوري الإماراتي الجولة 5
+
+{team1: "خورفكان", team2: "كلباء",
+gmtTime: "2025-09-24T13:25:00Z", url: "go:ds"},
+
+{team1: "الجزيرة", team2: "الوحدة",
+gmtTime: "2025-09-24T16:15:00Z", url: "go:ds"},
+
+{team1: "شباب الأهلي", team2: "العين",
+gmtTime: "2025-09-25T13:25:00Z", url: "go:ha"},
+
+{team1: "الوصل", team2: "الشارقة",
+gmtTime: "2025-09-25T16:15:00Z", url: "go:ha"},
+
+{team1: "الظفرة", team2: "البطائح",
+gmtTime: "2025-09-26T13:25:00Z", url: "go:ad2"},
+
+{team1: "بني ياس", team2: "عجمان",
+gmtTime: "2025-09-26T13:25:00Z", url: "go:ad1"},
+
+{team1: "النصـر", team2: "دبا الفجيرة",
+gmtTime: "2025-09-26T16:15:00Z", url: "go:ad1"},
+
+//الدوري الإماراتي الجولة 6
+
+{team1: "البطائح", team2: "الوحدة",
+gmtTime: "2025-10-17T13:05:00Z", url: "go:ad1"},
+
+{team1: "الشارقة", team2: "الظفرة",
+gmtTime: "2025-10-17T13:05:00Z", url: "go:ad2"},
+
+{team1: "كلباء", team2: "شباب الأهلي",
+gmtTime: "2025-10-17T15:45:00Z", url: "go:ad1"},
+
+{team1: "عجمان", team2: "خورفكان",
+gmtTime: "2025-10-18T15:45:00Z", url: "go:ad2"},
+
+{team1: "دبا الفجيرة", team2: "الجزيرة",
+gmtTime: "2025-10-18T13:05:00Z", url: "go:ad2"},
+
+{team1: "العين", team2: "بني ياس",
+gmtTime: "2025-10-18T13:05:00Z", url: "go:ad1"},
+
+{team1: "الوصل", team2: "النصـر",
+gmtTime: "2025-10-18T15:45:00Z", url: "go:ad1"},
+
+
+
+]
+ },
+  "الدوري التونسي": {
+    logo: "https://imgs.ysscores.com/championship/128/5641693174914.png",
+    matches: [
+
+{team1: "الترجي",team2: "المنستيري",
+gmtTime: "2025-08-15T15:30:00Z", url: "go:ks4"},
+
+{team1: "الترجي", team2: "النجم الساحلي",
+gmtTime: "2025-10-05T14:00:00Z", url: "go:ks2"},
+
+{team1: "الصفاقسي", team2: "الترجي",
+gmtTime: "2025-11-02T13:30:00Z", url: "go:ks1"},
+
+
+]
+ },
+"الدوري الإنجليزي الثاني": {
+logo: "https://imgs.ysscores.com/championship/128/4861690937574.png",
+matches: [
+    
+{team1: "تشارلتون",team2: "ليستر سيتي",
+gmtTime: "2025-08-23T11:30:00Z", url: "go:bn1x"},
+
+{team1: "ليستر سيتي",team2: "برمنغهام",
+gmtTime: "2025-08-29T19:00:00Z", url: "go:bn1x"},
+
+{team1: "ليستر سيتي", team2: "كوفنتري",
+gmtTime: "2025-09-20T11:30:00Z", url: "go:bn4"},
+
+{team1: "شيفيلد", team2: "تشارلتون",
+gmtTime: "2025-09-20T14:00:00Z", url: "go:bn9"},
+
+{team1: "ميلوول", team2: "واتفورد",
+gmtTime: "2025-09-22T19:00:00Z", url: "go:bn5"},
+
+{team1: "بروميتش", team2: "ليستر سيتي",
+gmtTime: "2025-09-26T19:00:00Z", url: "go:bn5"},
+
+{team1: "ريكسهام", team2: "كوفنتري",
+gmtTime: "2025-10-31T20:00:00Z", url: "go:bn2"},
+
+{team1: "ليستر سيتي", team2: "روفرز",
+gmtTime: "2025-11-01T12:30:00Z", url: "go:bn2"},
+
+
+
+]
+ },
+  "مباريات ودية": {
+    logo: "https://imgs.ysscores.com/championship/128/7671693419239.png",
+    matches: [
+
+{team1: "مان يونايتد",team2: "ليدز يونايتد",
+gmtTime: "2025-07-19T13:00:00Z", url: "go:s"},
+
+{team1: "ميلان",team2: "أرسنال",
+gmtTime: "2025-07-23T11:30:00Z", url: "go:ha"},
+
+{team1: "الأهلي",team2: "البنزرتي",
+gmtTime: "2025-07-25T16:30:00Z",  url: "go:ah"},
+
+{team1: "ليفربول",team2: "ميلان",
+gmtTime: "2025-07-26T11:30:00Z",  url: "go:ha"},
+
+{team1: "لوتن تاون",team2: "توتنهام",
+gmtTime: "2025-07-26T14:00:00Z",  url: "go:ha"},
+
+{team1: "أرسنال",team2: "نيوكاسل",
+gmtTime: "2025-07-27T11:30:00Z",  url: "go:ha"},
+
+{team1: "يوكوهاما",team2: "ليفربول",
+gmtTime: "2025-07-30T10:30:00Z",  url: "go:ha"},
+
+{team1: "وست هام",team2: "إيفرتون",
+gmtTime: "2025-07-30T22:30:00Z",  url: "go:bn2"},
+
+{team1: "مان يونايتد",team2: "بورنموث",
+gmtTime: "2025-07-31T02:30:00Z",  url: "go:bn2"},
+
+{team1: "أرسنال",team2: "توتنهام",
+gmtTime: "2025-07-31T11:30:00Z", url: "go:ha"},
+
+{team1: "إلتشي",team2: "العين",
+gmtTime: "2025-08-02T08:00:00Z", url: "go:ad1"},
+
+{team1: "مارسيليا",team2: "إشبيلية",
+gmtTime: "2025-08-02T18:00:00Z", url: "go:ha"},
+
+{team1: "توتنهام",team2: "نيوكاسل",
+gmtTime: "2025-08-03T11:00:00Z",  url: "go:ha"},
+
+{team1: "بورنموث",team2: "وست هام",
+gmtTime: "2025-08-03T18:00:00Z", url: "go:bn2"},
+
+{team1: "مان يونايتد",team2: "إيفرتون",
+gmtTime: "2025-08-03T21:00:00Z", url: "go:bn2"},
+
+{team1: "الأهـلي",team2: "العين",
+gmtTime: "2025-08-05T09:00:00Z", url: "go:ad1"},
+
+{team1: "أرسنال",team2: "فياريال",
+gmtTime: "2025-08-06T17:00:00Z", url: "go:ha"},
+
+{team1: "بايرن ميونخ",team2: "توتنهام",
+gmtTime: "2025-08-07T16:30:00Z",  url: "go:s"},
+
+{team1: "نيوكاسل",team2: "إسبانيول",
+gmtTime: "2025-08-08T18:30:00Z", url: "go:ad1"},
+
+{team1: "نيوكاسل",team2: "أتلتيكو مدريد",
+gmtTime: "2025-08-09T15:00:00Z", url: "go:ad1"},
+
+{team1: "أرسنال",team2: "أتلتيك بلباو",
+gmtTime: "2025-08-09T16:00:00Z", url: "go:ha"},
+
+{team1: "العين",team2: "غرناطة",
+gmtTime: "2025-08-09T18:00:00Z", url: "go:ad1"},
+
+{team1: "تشيلسي",team2: "ميلان",
+gmtTime: "2025-08-10T14:00:00Z", url: "go:s"},
+
+{team1: "السد",team2: "الوداد",
+gmtTime: "2025-08-10T16:30:00Z", url: "go:ks"},
+
+{team1: "تيرول",team2: "ريال مدريد",
+gmtTime: "2025-08-12T17:00:00Z", url: "go:ha"},
+
+{team1: "مونزا",team2: "إنتر ميلان",
+gmtTime: "2025-08-12T19:00:00Z", url: "go:ha"},
+
+{team1: "النرويج", team2: "فنلندا",
+gmtTime: "2025-09-04T16:00:00Z", url: "go:bn4"},
+
+{team1: "جبل طارق", team2: "ألبانيا",
+gmtTime: "2025-09-04T16:00:00Z", url: "go:bn5"},
+
+{team1: "رومانيا", team2: "كندا",
+gmtTime: "2025-09-05T18:00:00Z", url: "go:bn2x"},
+
+{team1: "الإمارات", team2: "سوريا",
+gmtTime: "2025-09-04T16:30:00Z", url: "go:ds1"},
+
+{team1: "السعودية", team2: "مقدونيا ش",
+gmtTime: "2025-09-04T15:00:00Z", url: "go:ms"},
+
+{team1: "روسيا", team2: "الأردن",
+gmtTime: "2025-09-04T17:00:00Z", url: "go:j"},
+
+{team1: "قطر", team2: "روسيا",
+gmtTime: "2025-09-07T15:15:00Z", url: "go:ks1"},
+
+{team1: "الإمارات", team2: "البحرين",
+gmtTime: "2025-09-08T16:30:00Z", url: "go:ha"},
+
+{team1: "ويلز", team2: "كندا",
+gmtTime: "2025-09-09T18:45:00Z", url: "go:bn1x"},
+
+{team1: "مصر", team2: "تونس",
+gmtTime: "2025-09-09T19:00:00Z", url: "go:on2"},
+
+{team1: "الأردن", team2: "الدومينيكان",
+gmtTime: "2025-09-09T17:00:00Z", url: "go:js"},
+
+{team1: "المغرب", team2: "البحرين",
+gmtTime: "2025-10-09T19:00:00Z", url: "go:as"},
+
+{team1: "جبل طارق", team2: "كاليدونيا",
+gmtTime: "2025-10-08T17:00:00Z", url: "go:bn5"},
+
+{team1: "رومانيا", team2: "مولدوفا",
+gmtTime: "2025-10-09T18:00:00Z", url: "go:bn1x"},
+
+{team1: "إنجلترا", team2: "ويلز",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn7"},
+
+{team1: "بولندا", team2: "نيوزيلندا",
+gmtTime: "2025-10-09T18:45:00Z", url: "go:bn2x"},
+
+{team1: "الأرجنتين", team2: "فنزويلا",
+gmtTime: "2025-10-11T00:00:00Z", url: "go:tyc"},
+
+{team1: "مونتينيغرو", team2: "ليختنشتاين",
+gmtTime: "2025-10-13T16:00:00Z", url: "go:bn1"},
+
+{team1: "النرويج", team2: "نيوزيلندا",
+gmtTime: "2025-10-14T16:00:00Z", url: "go:bn4"},
+
+{team1: "ألبانيا", team2: "الأردن",
+gmtTime: "2025-10-14T17:00:00Z", url: "go:bn9"},
+
+{team1: "اليابان", team2: "البرازيل",
+gmtTime: "2025-10-14T10:30:00Z", url: "go:glo"},
+
+{team1: "بورتوريكو", team2: "الأرجنتين",
+gmtTime: "2025-10-15T00:00:00Z", url: "go:tyc"},
+
+    ]
+
+  }
+}
